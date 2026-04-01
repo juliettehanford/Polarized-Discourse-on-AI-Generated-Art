@@ -1,2 +1,7 @@
 *.md
 !README.md
+
+.env
+.venv/
+__pycache__/
+*.pyc
