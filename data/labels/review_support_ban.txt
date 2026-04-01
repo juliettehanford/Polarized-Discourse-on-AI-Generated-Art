@@ -1,0 +1,2663 @@
+LLM-LABELLED USERS — SUPPORT BAN
+======================================================================
+
+Instructions:
+  If you disagree with the LLM label, write a correction next to OVERRIDE:
+  Use:  oppose_ban  /  support_ban  /  ambiguous  /  (blank = accept)
+
+======================================================================
+
+--- #1  404mediaco  (1 comments, conf=0.9) ---
+LLM label: support_ban
+LLM reasoning: The user provides context about Comic-Con's decision to ban AI art following artist backlash, indicating support for the ban.
+
+  [1] Thread: Comic-Con Bans AI Art After Artist Pushback
+    404mediaco replied:
+    Thanks for sharing our piece. More context here:
+    
+    San Diego Comic-Con changed an AI art friendly policy following an artist-led backlash last week. It was a small victory for working artists in an industry where jobs are slipping away as movie and video game studios adopt generative AI tools to save time and money. 
+    
+    Every year, tens of thousands of people descend on San Diego for Comic-Con, the world’s premier comic book convention that over the years has also become a major pan-media event whe
+
+OVERRIDE: 
+
+
+--- #2  ACBReturns  (1 comments, conf=0.9) ---
+LLM label: support_ban
+LLM reasoning: The user expresses approval of the ban on AI art at Comic-Con and calls for similar actions at other events.
+
+  [1] Thread: Comic-Con Bans AI Art After Artist Pushback
+    ACBReturns replied:
+    Good, now do Houston’s Comicpalooza because it was fucking rampant.
+
+OVERRIDE: 
+
+
+--- #3  According_Life_1806  (1 comments, conf=0.8) ---
+LLM label: support_ban
+LLM reasoning: The user expresses a negative view of AI-generated art, suggesting it contributes nothing and implies support for a ban.
+
+  [1] Thread: CMV: Generative AI Should be Banned
+      >> Purplekeyboard wrote:
+      The problem with this is that there are other countries outside the U.S.  The U.S. banning generative AI would simply result in the industry moving outside the U.S., and being controlled by these other countries.
+    According_Life_1806 replied:
+    No they won't. America is the biggest buyer and cheapest in taxes. They wouldn't get away with half the shit they do elsewhere, especially in the places they may want. They don't contribute to the nation, pay taxes, and their bank accounts can't be touched by the US Government like many fortune 500 companies. They offer nothing, do nothing, create nothing. An algorithm is literally doing everything for them, like a sand vendor selling sand at the beach.
+
+OVERRIDE: 
+
+
+--- #4  Alarming_Meal_4714  (7 comments, conf=0.8) ---
+LLM label: support_ban
+LLM reasoning: The user expresses concern about the potential negative impacts of AI-generated photorealistic video.
+
+  [1] Thread: CMV: Generative AI Should be Banned
+      >> theosamabahama wrote:
+      Defending AI art is hard, but I'll do it for the challenge.
+      
+      >For the arts, generative AI defeats the purpose of human creativity.
+      
+      First, that depends on what you value. If what you value is just art that looks pretty, then you are not valuing the creativity. You are just valuing the visuals. But i
+      [...]
+    Alarming_Meal_4714 replied:
+    I'm fine with pictures, but photo realistic video is going to destroy anything as people will be able to adjust real life footage with the help of AI to add things like guns to police body cams and the like.
+
+  [2] Thread: CMV: Generative AI Should be Banned
+      >> theosamabahama wrote:
+      During trials, it's part of the discovery process to find out the origin of the evidence being presented. Courts have ways to know if an image/video came from a security camera, someone's phone, or someone's computer and to know if it was altered or not. If they didn't, photoshop would have been a b
+      [...]
+    Alarming_Meal_4714 replied:
+    >During trials, it's part of the discovery process to find out the origin of the evidence being presented. Courts have ways to know if an image/video came from a security camera, someone's phone, or someone's computer and to know if it was altered or not. If they didn't, photoshop would have been a big problem for the justice system for decades.
+    
+    And you think AI won't be able to mimic this process? it's not an if, it's a when dude.
+
+  [3] Thread: CMV: Generative AI Should be Banned
+      >> theosamabahama wrote:
+      AI is going to mimic the lawyers and prosecutors getting hold of a physical device?
+    Alarming_Meal_4714 replied:
+    Ai is going to be able to upload the data onto those digital devices and there will be no way to authenticate the footage anymore.
+
+OVERRIDE: 
+
+
+--- #5  Alive-Tomatillo5303  (1 comments, conf=0.7) ---
+LLM label: support_ban
+LLM reasoning: The user acknowledges the reasonableness of banning AI art despite being pro-AI.
+
+  [1] Thread: I’m pro-AI but subreddits banning AI art is totally reasonable policy and I feel that pro-AI people who can’t recognise this are just too invested on their side.
+    Alive-Tomatillo5303 replied:
+    So are they apposed to AI art or bad art?  Those are two categories that often overlap, but they aren't synonymous.
+
+OVERRIDE: 
+
+
+--- #6  AllTheRowboats93  (1 comments, conf=0.9) ---
+LLM label: support_ban
+LLM reasoning: The user expresses frustration with AI-generated art and supports its ban.
+
+  [1] Thread: Comic-Con Bans AI Art After Artist Pushback
+    AllTheRowboats93 replied:
+    Thank god. It’s so frustrating to browse art at local fairs and it be AI generated slop at every booth.
+
+OVERRIDE: 
+
+
+--- #7  AlpsExciting1338  (1 comments, conf=0.7) ---
+LLM label: support_ban
+LLM reasoning: The user advocates for heavy regulation of AI art, indicating a preference for restrictions.
+
+  [1] Thread: CMV: Generative AI Should be Banned
+    AlpsExciting1338 replied:
+    Personally as a artist I don’t think it should be completely ban as even I can admit it can be useful in specific fields but it should be heavily regulated especially on the image and video generation. By limit what the common men should be like banning recreating a real life person by banning use of known names and making it harder to recreate another person in ai. Next for the entertainment industry they should regulate how can it be used in the work place and be defined as a tool not a human 
+
+OVERRIDE: 
+
+
+--- #8  ArcadesRed  (3 comments, conf=0.8) ---
+LLM label: support_ban
+LLM reasoning: The user advocates for banning any art created with computers, suggesting that only hand-made art is acceptable.
+
+  [1] Thread: Comic-Con Bans AI Art After Artist Pushback
+      >> KenUsimi wrote:
+      Good. Let people who actually put pen to paper (or stylus to screen) get the attention that their natural talent and dedication to the craft deserve. 
+      
+      Let those who would assume that a few keystrokes suffices to imitate human creativity and passion find somewhere else to pedal their refuse.
+    ArcadesRed replied:
+    No. Ban anyone who uses computers as a crunch at all. Only images made by hand is acceptable. Computers can already change line thickness,  let a person endlessly play with color pallets and undo mistakes.  That's not art, that's color by numbers. Physical media only.
+
+  [2] Thread: Comic-Con Bans AI Art After Artist Pushback
+      >> Teledildonic wrote:
+      Every gotcha you listed is still an individual conscious decision made by a person, that's why it still counts as art.
+      
+      Typing a prompt and picking a result is just commissioning, and the real reason people love it is because they don't have to pay someone for it.
+    ArcadesRed replied:
+    They are not gotcha's. Every single technological advancement is accompanied by people trying to gate keep the "Old" ways. Artists, in their ego, think they are somehow special. I guarantee when people started carving pictures into cave walls, there was an old shaman saying that it wasn't as pure as chewing ocher and spitting it over hands to leave images.
+
+  [3] Thread: Comic-Con Bans AI Art After Artist Pushback
+      >> PadiddleHopper wrote:
+      We have local, small artist markets here and at one point there was a new guy selling what was very clearly AI art. Like think of the most generic example of something being AI art and he was selling it. But he was presenting it as 'original, hand crafted' art. Some of us artists called bullshit on 
+      [...]
+    ArcadesRed replied:
+    You got someone kicked out because you couldn't compete. Good job, so brave, so inspiring.  How dare the consumer have a choice. Stupid capitalism.
+
+OVERRIDE: 
+
+
+--- #9  BackupChallenger  (1 comments, conf=0.7) ---
+LLM label: support_ban
+LLM reasoning: The user suggests that generative AI should be banned to prevent misinformation and manipulation.
+
+  [1] Thread: CMV: Generative AI Should be Banned
+    BackupChallenger replied:
+    So you want to keep normal people in the dark about what generative AI can do while letting the rest of the world use it however they like. Luckily no other country would ever make fake AI stuff to influence public opinion.
+
+OVERRIDE: 
+
+
+--- #10  Balmung60  (3 comments, conf=0.9) ---
+LLM label: support_ban
+LLM reasoning: The user argues against generative AI, stating it lacks creativity and intentionality, and supports the idea of banning it.
+
+  [1] Thread: Comic-Con Bans AI Art After Artist Pushback
+    Balmung60 replied:
+    But it's not a closed world and it never has been. Ask an artist and they'll almost certainly encourage you to try making your own art. And yeah, it will probably start off looking bad, everyone starts somewhere and it's a skill that takes practice.
+    
+    
+    Generative AI democratizes nothing and only serves to enable a few wealthy dingbats to engage in a race to the bottom as they try to avoid paying for skills they do not personally value.
+
+  [2] Thread: Comic-Con Bans AI Art After Artist Pushback
+    Balmung60 replied:
+    > Art used to be of the rich only, with costs of paint brushes and canvas beyond the means of the average person.
+    
+    
+    I see we're artificially narrowing the definition of "art" to fumble at making a point now. The lower classes have always made art as well, even if it's been less durable and less likely to be preserved than that made by (or much more often, *for*) the upper classes.
+    
+    
+    > Except bring the ability to create art, to a wider audience
+    
+    
+    Except that it doesn't do this because it doesn't 
+
+  [3] Thread: Comic-Con Bans AI Art After Artist Pushback
+    Balmung60 replied:
+    I didn't say anything about skill, I said it lacks intentionality and creativity.
+    
+    
+    Also, the commercial art trade is another story entirely and a large portion of it exists primarily as a tax shelter (in short, because the value of a piece of art is highly subjective, it can easily be purchased at one price, reappraised much higher, and donated (possibly to a foundation the purchaser just so happens to control) or destroyed to claim a tax write off much larger than the purchase price). Not that
+
+OVERRIDE: 
+
+
+--- #11  BeyondRedline  (1 comments, conf=0.7) ---
+LLM label: support_ban
+LLM reasoning: The user expresses concern about the overwhelming amount of low-quality AI-generated content, suggesting a preference for restricting it.
+
+  [1] Thread: Comic-Con Bans AI Art After Artist Pushback
+    BeyondRedline replied:
+    I get what you're saying. But the counterpoint is that *that kind of CGI* took a lot of effort and was relatively rare. This is low effort, bottom of the barrel content that annihilates any reasonable signal to noise ratio and make it almost impossible to find "the good stuff."
+    
+    
+    The problem with generated content isn't that it can't be beautiful or artistic - it can - but that it's too easy to generate an overwhelming amount of intellectual garbage. *That's the real problem* in my opinion.
+
+OVERRIDE: 
+
+
+--- #12  Big-Ad-2118  (1 comments, conf=0.8) ---
+LLM label: support_ban
+LLM reasoning: The user acknowledges the value of AI but supports the idea of banning it in certain contexts, indicating a nuanced stance that leans towards supporting restrictions.
+
+  [1] Thread: I’m pro-AI but subreddits banning AI art is totally reasonable policy and I feel that pro-AI people who can’t recognise this are just too invested on their side.
+    Big-Ad-2118 replied:
+    it’s not about ai being ‘bad’ but more about the lack of intentionality in most posts, like you said. I’ve played around with tools like blackbox for generating ideas, and it’s clear you can get amazing results if you put in the work to tweak and refine...
+
+OVERRIDE: 
+
+
+--- #13  BingBongFyourWife  (1 comments, conf=0.7) ---
+LLM label: support_ban
+LLM reasoning: The user expresses a dislike for AI, which suggests a preference for banning or restricting it.
+
+  [1] Thread: CMV: Generative AI Should be Banned
+    BingBongFyourWife replied:
+    OR, 
+    
+    people should stop believing everything they see on the internet, *which has been a thing that has been said since it’s inception*
+    
+    I don’t like AI for the record
+
+OVERRIDE: 
+
+
+--- #14  BlackjackCounty  (1 comments, conf=0.9) ---
+LLM label: support_ban
+LLM reasoning: The user outright states that there is no such thing as AI art, indicating a strong opposition to the concept of AI-generated art.
+
+  [1] Thread: Comic-Con Bans AI Art After Artist Pushback
+    BlackjackCounty replied:
+    There’s no such thing as AI art.
+
+OVERRIDE: 
+
+
+--- #15  BuccalFatApologist  (2 comments, conf=0.7) ---
+LLM label: support_ban
+LLM reasoning: The user suggests that AI-generated pieces should not compete with human-drawn pieces, indicating support for restrictions on AI art.
+
+  [1] Thread: Ban AI generated images and AI generators from our schools and art schools.
+    BuccalFatApologist replied:
+    I mean, you don’t have to think that “AI is theft” to believe that AI-generated pieces shouldn’t be judged in competition alongside human-drawn pieces. Just like you probably wouldn’t endorse using a rifle in an archery competition (or a photograph in a painting competition).
+    
+    The technology is new enough that people are still figuring out where the lines are. Expect to see more of this sort of thing in the short term.
+
+  [2] Thread: Ban AI generated images and AI generators from our schools and art schools.
+      >> Videogame-repairguy wrote:
+      Billionaires will most likely pay judges and whatnot to make AI win more art contests.
+    BuccalFatApologist replied:
+    Uh, why though? Billionaires already have the power to rig art competitions if they really want to. Doesn’t seem to happen that much.
+
+OVERRIDE: 
+
+
+--- #16  CartographerWorth  (1 comments, conf=0.8) ---
+LLM label: support_ban
+LLM reasoning: The user acknowledges that banning AI art can be reasonable policy, indicating support for restrictions.
+
+  [1] Thread: I’m pro-AI but subreddits banning AI art is totally reasonable policy and I feel that pro-AI people who can’t recognise this are just too invested on their side.
+    CartographerWorth replied:
+    I agree and disagree at the same way. Some supreddit that ban Ai like drawing abs and site like character creation that people drawing yeah they have the right but sites that like superpower that say your superpower idea and activity that they don't include images or drawing in it ban Ai is just from mode hate. That have there's own view that they push   I agree for  spam posts but not ban for all
+
+OVERRIDE: 
+
+
+--- #17  ChainGang315  (2 comments, conf=0.8) ---
+LLM label: support_ban
+LLM reasoning: The user expresses a negative view of AI art, suggesting it lacks artistic value.
+
+  [1] Thread: Comic-Con Bans AI Art After Artist Pushback
+      >> Accomplished-Fix6598 wrote:
+      It could really be its own thing. Prompt pros and things like that. I don't know know exactly what it takes to create these AI pieces.
+    ChainGang315 replied:
+    It takes about 30 seconds and 3 sentences, it’s a joke that it’s ever considered art
+
+  [2] Thread: Comic-Con Bans AI Art After Artist Pushback
+      >> OhK4Foo7 wrote:
+      Have you made any?
+    ChainGang315 replied:
+    Yes, as a novelty when ChatGPT was newish. It took me 30 seconds and 3 sentences
+
+OVERRIDE: 
+
+
+--- #18  Championship_Hairy  (1 comments, conf=0.8) ---
+LLM label: support_ban
+LLM reasoning: The user criticizes the quality of AI art and seems to support restrictions on it.
+
+  [1] Thread: I’m pro-AI but subreddits banning AI art is totally reasonable policy and I feel that pro-AI people who can’t recognise this are just too invested on their side.
+      >> Mataric wrote:
+      People are free to ban what they'd like, and I'm free to think it's a terrible idea and stop visiting the page. 
+      
+      I do wish most places went for the 'banning low effort content' approach instead, and I especially wish they'd stop with the rants about how evil AI users are when they do ban it - but t
+      [...]
+    Championship_Hairy replied:
+    Yes, low effort is a better angle. I’m generally ok with something like that because a lot of AI stuff is shit. By that I mean it looks like they took the first Gen they made and just went with it. No img2img, no fixing bad hands or weird blemishes, no upscaling, no photoshop. Just the most basic ass workflow with no effort. Some of these people just spam the same character in the same poses with like a 1% difference. I know this is about Reddit but in places like discord, there are a ton of peo
+
+OVERRIDE: 
+
+
+--- #19  CharmingMilk9575  (1 comments, conf=0.9) ---
+LLM label: support_ban
+LLM reasoning: The user argues against AI art, emphasizing the lack of skill and emotional depth in AI-generated works.
+
+  [1] Thread: CMV: Generative AI Should be Banned
+      >> api wrote:
+      Everything that is being said about AI and the arts was said about photography and the arts.
+      
+      https://medium.com/@aaronhertzmann/how-photography-became-an-art-form-7b74da777c63
+      
+      In some cases the discourse is so identical you could search and replace AI/photography and have the same discourse.
+    CharmingMilk9575 replied:
+    as a photographer and an artist, both forms require skill such as compositional techniques, knowledge on colour theory, and knowledge on elements and principles of designs or whatever. both forms also require the artist to learn the technicalities of the equipment, like different camera settings or different paints. both takes years to master. both are forms of artistic expression, on a scale of how abstract the art is. plus, art isnt just directly copying some random ahh real life object, artis
+
+OVERRIDE: 
+
+
+--- #20  ChewieDecimalSystem  (1 comments, conf=0.8) ---
+LLM label: support_ban
+LLM reasoning: The user compares AI art to film production, emphasizing the lack of human contribution and suggesting a preference for human-created art.
+
+  [1] Thread: CMV: Generative AI Should be Banned
+      >> theosamabahama wrote:
+      Defending AI art is hard, but I'll do it for the challenge.
+      
+      >For the arts, generative AI defeats the purpose of human creativity.
+      
+      First, that depends on what you value. If what you value is just art that looks pretty, then you are not valuing the creativity. You are just valuing the visuals. But i
+      [...]
+    ChewieDecimalSystem replied:
+    >Making AI art is more like being a director in a movie. You are not doing the acting yourself, you are not doing the camera work yourself, or the soundtrack or CGI yourself. You are coordinating others to follow your vision.
+    
+    Difference being that; the camera operators, crew, cast, wardrobe, make up artists, FX artists,  and composers get their due credit, and paid for their work on a film. Human beings.
+
+OVERRIDE: 
+
+
+--- #21  Ciappatos  (1 comments, conf=0.7) ---
+LLM label: support_ban
+LLM reasoning: The comment implies support for the ban by highlighting that artists had to push for it.
+
+  [1] Thread: Comic-Con Bans AI Art After Artist Pushback
+    Ciappatos replied:
+    Telling that artists had to push for it.
+
+OVERRIDE: 
+
+
+--- #22  Corevus  (2 comments, conf=0.8) ---
+LLM label: support_ban
+LLM reasoning: The user expresses agreement with the ban and states that there is no such thing as 'AI art'.
+
+  [1] Thread: Comic-Con Bans AI Art After Artist Pushback
+      >> lurklurklurkPOST wrote:
+      Normalize the term "AI Imagery" in place of "AI Art"
+    Corevus replied:
+    Agree. I've always referred to them as graphics or images.
+
+  [2] Thread: Comic-Con Bans AI Art After Artist Pushback
+    Corevus replied:
+    There's no such thing as 'AI art'. Glad they're banning AI images though.
+
+OVERRIDE: 
+
+
+--- #23  Dazzling-Ocelot-5649  (1 comments, conf=0.8) ---
+LLM label: support_ban
+LLM reasoning: The user explicitly states that AI should be banned for public use.
+
+  [1] Thread: CMV: Generative AI Should be Banned
+    Dazzling-Ocelot-5649 replied:
+    Or anyone can say you committed a crime if they hate you resulting in you having to be guilty until u prove ur innocence . It should absolutely be banned for public use
+
+OVERRIDE: 
+
+
+--- #24  Deelystandanishman  (2 comments, conf=0.9) ---
+LLM label: support_ban
+LLM reasoning: The user expresses concern about job loss due to AI and argues that it poses a serious risk.
+
+  [1] Thread: CMV: Generative AI Should be Banned
+      >> Mad_Maddin wrote:
+      To me these arguments are always on a similar level to "The printing press should be banned, because it allows people to spread lies more easily"
+      
+      First of all. How would you ban generative AI? It is incredibly simple. Basically anyone who wants to can run generative AI on their home pc.  
+      
+      The secu
+      [...]
+    Deelystandanishman replied:
+    The printing press and AI are two entirely different levels. AI, if not taken as a serious risk, can eliminate 300 million jobs in 5 years. Even if your job is fine, 300 million people will be competing for all the other jobs that AI doesn’t take directly. More supply of workers than demand = diminished wages. All for something no one asked for, which humanity doesn’t need, but only corporations will benefit from.
+
+  [2] Thread: CMV: Generative AI Should be Banned
+      >> api wrote:
+      Everything that is being said about AI and the arts was said about photography and the arts.
+      
+      https://medium.com/@aaronhertzmann/how-photography-became-an-art-form-7b74da777c63
+      
+      In some cases the discourse is so identical you could search and replace AI/photography and have the same discourse.
+    Deelystandanishman replied:
+    Massively different scale. AI, if not taken as a serious risk, can eliminate 300 million jobs in 5 years. Even if your job is fine, 300 million people will be competing for all the other jobs that AI doesn’t take directly. More supply of workers than demand = diminished wages. All for something no one asked for, which humanity doesn’t need, and only corporations will benefit from.
+
+OVERRIDE: 
+
+
+--- #25  Delicious-Economy232  (1 comments, conf=0.7) ---
+LLM label: support_ban
+LLM reasoning: The user suggests enforcing laws against generative AI, indicating support for restrictions.
+
+  [1] Thread: CMV: Generative AI Should be Banned
+    Delicious-Economy232 replied:
+    I mean, you could just enforce law where Generative A.I cannot be sold, watermarks must always be present on videos and images and more
+
+OVERRIDE: 
+
+
+--- #26  DemIce  (1 comments, conf=0.9) ---
+LLM label: support_ban
+LLM reasoning: The user expresses a strong negative view on AI art, referring to it as 'regurgitating stolen work'.
+
+  [1] Thread: Comic-Con Bans AI Art After Artist Pushback
+      >> maikuxblade wrote:
+      I can’t wait until something kicks off the class action lawsuit regarding AI being trained on art without compensation to the artists. AI “art” is just regurgitating stolen work.
+    DemIce replied:
+    >I can’t wait until something kicks off the class action lawsuit regarding AI being trained on art without compensation to the artists. AI “art” is just regurgitating stolen work.
+    
+    There are several ongoing cases in federal courts. Have been for years now. They're still being litigated. See e.g. *Anderson v Stability AI*
+
+OVERRIDE: 
+
+
+--- #27  Devourer_of_HP  (1 comments, conf=0.8) ---
+LLM label: support_ban
+LLM reasoning: The user acknowledges the reasonableness of banning AI art despite being pro-AI.
+
+  [1] Thread: I’m pro-AI but subreddits banning AI art is totally reasonable policy and I feel that pro-AI people who can’t recognise this are just too invested on their side.
+      >> DiamondDepth_YT wrote:
+      outside of ai focused or adjacent subs, I've not seen a single reddit post where an ai image gains significant positive traction. You're being just as vague by not giving a few examples, are you not>
+    Devourer_of_HP replied:
+    Fourth top of all time post on r/ZenlessZoneZero (used to be the first) is Ai and is the reason it got banned on the subreddit.
+
+OVERRIDE: 
+
+
+--- #28  DiamondDepth_YT  (2 comments, conf=0.8) ---
+LLM label: support_ban
+LLM reasoning: The user supports the community's decision to ban AI art, indicating a preference for restrictions.
+
+  [1] Thread: I’m pro-AI but subreddits banning AI art is totally reasonable policy and I feel that pro-AI people who can’t recognise this are just too invested on their side.
+      >> MysteriousPepper8908 wrote:
+      What are "said subreddits?" There are very large subreddits where AI posts get significant traction. And no one on "said subreddits" likes AI art, huh? There is so much vague nonsense here that you might as well have said nothing. It often is mods acting unilaterally and when it isn't, there's often
+      [...]
+    DiamondDepth_YT replied:
+    outside of ai focused or adjacent subs, I've not seen a single reddit post where an ai image gains significant positive traction. You're being just as vague by not giving a few examples, are you not>
+
+  [2] Thread: I’m pro-AI but subreddits banning AI art is totally reasonable policy and I feel that pro-AI people who can’t recognise this are just too invested on their side.
+      >> Devourer_of_HP wrote:
+      Fourth top of all time post on r/ZenlessZoneZero (used to be the first) is Ai and is the reason it got banned on the subreddit.
+    DiamondDepth_YT replied:
+    That community literally voted on whether or not they wanted to allow ai on the sub, and the community voted no.
+    
+    Not a positive reaction if you ask me.
+
+OVERRIDE: 
+
+
+--- #29  Didsterchap11  (1 comments, conf=0.9) ---
+LLM label: support_ban
+LLM reasoning: The user describes the furry community as being 'viscerally anti AI', indicating strong support for banning AI art.
+
+  [1] Thread: Comic-Con Bans AI Art After Artist Pushback
+    Didsterchap11 replied:
+    The furry community tends to be better than average at keeping stuff like that out, obviously bad actors still are in the community but I've noticed once someone gets outed for being a piece of shit they get pretty quickly ejected. This combined with the community living and breathing by its artists means the entire fandom is viscerally anti AI.
+
+OVERRIDE: 
+
+
+--- #30  DryTradition6576  (1 comments, conf=0.9) ---
+LLM label: support_ban
+LLM reasoning: The user explicitly states agreement with banning generative AI due to concerns about trust and misinformation.
+
+  [1] Thread: CMV: Generative AI Should be Banned
+    DryTradition6576 replied:
+    I agree. Will not be long before we won't be able to trust anything we see unless we are there in person to see it. The damage that AI generated imagery can do is horrendous. If someone gets caught using it, should be an automatic felony, especially if they're caught spreading misinformation. It could be casus belli if another country uses it to interfere with US or any other allied nation
+
+OVERRIDE: 
+
+
+--- #31  Easy-Society-7817  (1 comments, conf=0.8) ---
+LLM label: support_ban
+LLM reasoning: The user argues that AI does not create true art, indicating support for a ban.
+
+  [1] Thread: Ban AI generated images and AI generators from our schools and art schools.
+    Easy-Society-7817 replied:
+    Arte es un expresión tal cual, pero sale de uno, la IA no hace arte entra en una base de datos y hace un collage e imágenes random.  Eso no es arte.
+
+OVERRIDE: 
+
+
+--- #32  Educated_opinion101  (1 comments, conf=0.9) ---
+LLM label: support_ban
+LLM reasoning: The user expresses strong frustration with AI art, indicating a clear support for banning it.
+
+  [1] Thread: CMV: Generative AI Should be Banned
+    Educated_opinion101 replied:
+    100%!!!!! I am a creative, and it makes me so mad when people use AI to create, I put my hard ass work into being good as I am, and it’s idiotic.
+
+OVERRIDE: 
+
+
+--- #33  Evinceo  (4 comments, conf=0.7) ---
+LLM label: support_ban
+LLM reasoning: The user discusses legislative measures that would effectively ban generative AI, indicating support for a ban.
+
+  [1] Thread: CMV: Generative AI Should be Banned
+      >> Mad_Maddin wrote:
+      To me these arguments are always on a similar level to "The printing press should be banned, because it allows people to spread lies more easily"
+      
+      First of all. How would you ban generative AI? It is incredibly simple. Basically anyone who wants to can run generative AI on their home pc.  
+      
+      The secu
+      [...]
+    Evinceo replied:
+    > How would you ban generative AI?
+    
+    
+    While it wouldn't stop people from running existing models, something like [This Bill](https://www.hawley.senate.gov/wp-content/uploads/2025/07/Hawley-AI-Accountability-and-Personal-Data-Protection-Act.pdf) would make building GenAI companies untenable so I don't expect many new large-scale models would be created.
+
+  [2] Thread: CMV: Generative AI Should be Banned
+      >> Purplekeyboard wrote:
+      The problem with this is that there are other countries outside the U.S.  The U.S. banning generative AI would simply result in the industry moving outside the U.S., and being controlled by these other countries.
+    Evinceo replied:
+    (And eating those countries from within instead of eating us. Good luck to'em?)
+
+  [3] Thread: CMV: Generative AI Should be Banned
+      >> Proporus wrote:
+      You realize that products made outside the US can be used inside the US, right?
+    Evinceo replied:
+    Products yes, easily. Services much less so. It's like saying we should allow piracy because someone could set up an offshore piracy website. Yeah, they can and do, but we still ban piracy and most people just stream legally now anyway.
+
+OVERRIDE: 
+
+
+--- #34  Fabulous_Care_8955  (2 comments, conf=0.9) ---
+LLM label: support_ban
+LLM reasoning: The user expresses a clear stance against AI-generated art, stating that it constitutes stealing from other artists.
+
+  [1] Thread: Ban AI generated images and AI generators from our schools and art schools.
+    Fabulous_Care_8955 replied:
+    ai steals from other artist to make images, if you are taking someone elses art work and creating an image from that, its stealing not art :)
+
+  [2] Thread: Ban AI generated images and AI generators from our schools and art schools.
+      >> TheGrandArtificer wrote:
+      You do understand that some Art Schools are including AI in their Coursework now days, right?
+    Fabulous_Care_8955 replied:
+    excuse..me, AI COURSES??? are they teaching you how to type or something LOL
+
+OVERRIDE: 
+
+
+--- #35  Feataler  (1 comments, conf=0.8) ---
+LLM label: support_ban
+LLM reasoning: The user argues that AI is in direct competition with digital art and could cause catastrophic damage, indicating a preference for banning AI.
+
+  [1] Thread: CMV: Generative AI Should be Banned
+      >> Mad_Maddin wrote:
+      To me these arguments are always on a similar level to "The printing press should be banned, because it allows people to spread lies more easily"
+      
+      First of all. How would you ban generative AI? It is incredibly simple. Basically anyone who wants to can run generative AI on their home pc.  
+      
+      The secu
+      [...]
+    Feataler replied:
+    You can't possibly compare AI to photography.
+    
+    Photography is a means of expression that exists parallel to painting, not in competition. A camera is a device we understand down to the last minute detail, we fully control how it functions, any misuse is due to human error. AI on the other hand exists in direct competition to all forms of digital art, and is a misunderstood wildcard that sooner or later could cause catastrophic damage to human society on its own terms.
+
+OVERRIDE: 
+
+
+--- #36  Franky_Tops  (1 comments, conf=0.8) ---
+LLM label: support_ban
+LLM reasoning: The user implies that AI art devalues actual artists, suggesting support for banning AI-generated art.
+
+  [1] Thread: Comic-Con Bans AI Art After Artist Pushback
+      >> RedofPaw wrote:
+      It's FAR more work to actually draw stuff. Cheaply and quickly made slop would push out actual artists and devalue the entire convention until it's dead.
+    Franky_Tops replied:
+    "Cheaply and quickly made slop would push out actual artists and devalue the entire..."
+    
+    
+    That's their grand plan.
+
+OVERRIDE: 
+
+
+--- #37  HD144p  (1 comments, conf=0.7) ---
+LLM label: support_ban
+LLM reasoning: The user acknowledges that banning AI art is reasonable if the majority wants it, indicating support for a ban.
+
+  [1] Thread: I’m pro-AI but subreddits banning AI art is totally reasonable policy and I feel that pro-AI people who can’t recognise this are just too invested on their side.
+      >> jon11888 wrote:
+      There are cases where banning AI art makes sense, but there have been several times when anti-AI people brigade a sub and force an anti-AI poll vote.
+      
+      If there's a legitimate reason or valid community opposition to AI posts, that's fine.
+    HD144p replied:
+    Thats reasonable tho. If there is a poll and people dobt want it then yhea ban it.
+
+OVERRIDE: 
+
+
+--- #38  HaxboyYT  (15 comments, conf=0.9) ---
+LLM label: support_ban
+LLM reasoning: The user argues against generative AI capable of producing realistic images and expresses a desire for restrictions, indicating support for a ban.
+
+  [1] Thread: CMV: Generative AI Should be Banned
+      >> theosamabahama wrote:
+      >In an increasingly polarising world, where different sides cannot even agree on basic fact, the potential for political chaos caused by AI is too great.
+      
+      People already lived in complete separate realities before AI. Nothing has changed.
+    HaxboyYT replied:
+    I’d argue it’d become even worse
+
+  [2] Thread: CMV: Generative AI Should be Banned
+      >> Mad_Maddin wrote:
+      To me these arguments are always on a similar level to "The printing press should be banned, because it allows people to spread lies more easily"
+      
+      First of all. How would you ban generative AI? It is incredibly simple. Basically anyone who wants to can run generative AI on their home pc.  
+      
+      The secu
+      [...]
+    HaxboyYT replied:
+    >First of all. How would you ban generative AI? It is incredibly simple. Basically anyone who wants to can run generative AI on their home pc.
+    
+    My view isn’t really about how we ban it, it’s about whether we should if we could. I understand that it’s unrealistic already
+    
+    But to entertain the question, perhaps we mandate some sort of digital ID within AI generated media, and force companies to use them 
+    
+    >The security risks still exist. Just because you ban them, doesn't mean that they are gone. 
+
+  [3] Thread: CMV: Generative AI Should be Banned
+      >> api wrote:
+      Everything that is being said about AI and the arts was said about photography and the arts.
+      
+      https://medium.com/@aaronhertzmann/how-photography-became-an-art-form-7b74da777c63
+      
+      In some cases the discourse is so identical you could search and replace AI/photography and have the same discourse.
+    HaxboyYT replied:
+    You’ve missed my point. I’m not against generative ai in general, I’m against human-like generative AI
+
+OVERRIDE: 
+
+
+--- #39  Historical-Nail9621  (2 comments, conf=0.8) ---
+LLM label: support_ban
+LLM reasoning: The user discusses the confusion around defining art and implies a preference for banning AI-generated art in schools.
+
+  [1] Thread: Ban AI generated images and AI generators from our schools and art schools.
+      >> Videogame-repairguy wrote:
+      You're confused. AI Isn't art. AI Generated images aren't art.
+      
+      Digital and traditional mediums are called art.
+    Historical-Nail9621 replied:
+    You seem confused. Art isn't something you can define with concrete borders.
+    Back then, they wouldn't consider digital art as art. And now here you are continuing that stupid tradition.
+
+  [2] Thread: Ban AI generated images and AI generators from our schools and art schools.
+      >> Videogame-repairguy wrote:
+      I doubt that ever happened, Digital art was a thing in the 90s so I don't understand what you mean.
+    Historical-Nail9621 replied:
+    What do you mean you doubt that happened? You're just gonna deny things because they go against your idealogy? Okay, fine. Sure. Keep living in denial, I think that's how you want to be.
+    
+    
+    What about the times when camera was a new thing? Don't you know there was backlash, that quite a few artists were opposed to this new technology and refused to call it art.
+
+OVERRIDE: 
+
+
+--- #40  Historical_Nail1882  (1 comments, conf=0.7) ---
+LLM label: support_ban
+LLM reasoning: The user suggests that AI has fallen into the wrong hands, indicating a concern that aligns with supporting a ban.
+
+  [1] Thread: "AI art is now banned in many places on Reddit — is this an art massacre or necessary protection?"
+    Historical_Nail1882 replied:
+    Because AI has fallen in the hands in the wrong people
+
+OVERRIDE: 
+
+
+--- #41  HypnoticName  (1 comments, conf=0.9) ---
+LLM label: support_ban
+LLM reasoning: The user explicitly states that AI-generated images are not art and supports banning them.
+
+  [1] Thread: Ban AI generated images and AI generators from our schools and art schools.
+      >> Videogame-repairguy wrote:
+      You're confused. AI Isn't art. AI Generated images aren't art.
+      
+      Digital and traditional mediums are called art.
+    HypnoticName replied:
+    No they are not. You are not holding pencils, so it's not art!
+
+OVERRIDE: 
+
+
+--- #42  Jaguar77789  (1 comments, conf=0.8) ---
+LLM label: support_ban
+LLM reasoning: The user supports the idea of demonstrating artistic ability to prevent AI-generated art from being accepted.
+
+  [1] Thread: Comic-Con Bans AI Art After Artist Pushback
+      >> squishybloo wrote:
+      Speaking as a digital artist, demanding a recording for every single piece is honestly pretty unreasonable. Not everyone has infinite storage space for timelapse recordings of every piece they work on, and most artists do *not* use programs with built-in recording capabilities.
+    Jaguar77789 replied:
+    I don’t think they are saying every single piece. I think they are saying…demonstrate conclusively that you can create art in this style, and we will believe that you’re not going to just AI generate it instead.
+    
+    The folks coming in with the AI stuff could never provide any kind of real proof that they created even one of the pieces they are claiming, so it would weed them out.
+
+OVERRIDE: 
+
+
+--- #43  JamesR624  (1 comments, conf=0.9) ---
+LLM label: support_ban
+LLM reasoning: The user argues that banning low-effort AI art is acceptable, indicating support for restrictions.
+
+  [1] Thread: I’m pro-AI but subreddits banning AI art is totally reasonable policy and I feel that pro-AI people who can’t recognise this are just too invested on their side.
+    JamesR624 replied:
+    Oh look. Another “nuanced” take that when you actually read it; is just yet another way of saying “real art takes effort and AI art either doesn’t or takes way less effort” based entirely around the “all you have to do is enter a prompt once!” lie that’s spread amongst antis. 
+    
+    Banning low effort stuff is fine. That has NOTHING to do with AI any more than it does Photoshop.
+
+OVERRIDE: 
+
+
+--- #44  Jinkuzu  (1 comments, conf=0.9) ---
+LLM label: support_ban
+LLM reasoning: The user clearly states a firm belief that AI needs to be banned due to its negative impacts.
+
+  [1] Thread: CMV: Generative AI Should be Banned
+    Jinkuzu replied:
+    With the rise in electricity costs, water usage by data centers for cooling, replacing jobbs and absolutely violating pc component market now. Im a frim beliver AI needs to be banned right now. It's nothing benefitial at the end of this road, just destroying peoples costs of living. 
+    
+    Im not even socialistic in nature, this is just not good for anything or anyone but the people investing in AI.
+
+OVERRIDE: 
+
+
+--- #45  Judy_Hopeful  (1 comments, conf=0.9) ---
+LLM label: support_ban
+LLM reasoning: The user expresses a strong opinion that AI art is not art and implies it should not be accepted.
+
+  [1] Thread: CMV: Generative AI Should be Banned
+    Judy_Hopeful replied:
+    you are absolutely right period. 
+    
+    everything evolves and if people can get fooled by a stupid ai video of some celebrity now then imagine now much worse it's gonna be in a few years??
+    
+    as for the ai "art" thing I don't even recognize that crap it's not art and it never will be
+
+OVERRIDE: 
+
+
+--- #46  KAlikethewind1919  (1 comments, conf=0.8) ---
+LLM label: support_ban
+LLM reasoning: The user believes AI art robs art of its essence and expresses a desire for human-made art to prevail.
+
+  [1] Thread: CMV: Generative AI Should be Banned
+    KAlikethewind1919 replied:
+    I think alot of the conflicting arguments here have merit and make sense but I will never get over AI Art. Art to me is human expression in its purest form. The human condition from an individuals Point of view or at least an aspect of it. The Point is that larger than very marginal use of Ai in art to me robs it of its essence. The Videos shared in this thread to me were entertaining but always in a Junk Food sort of way. You are aware that it has no nutrients and you dont feel very good after 
+
+OVERRIDE: 
+
+
+--- #47  KatuTiel  (1 comments, conf=0.8) ---
+LLM label: support_ban
+LLM reasoning: The user argues that AI art lacks creativity and talent, suggesting it should not be considered valid art.
+
+  [1] Thread: I’m pro-AI but subreddits banning AI art is totally reasonable policy and I feel that pro-AI people who can’t recognise this are just too invested on their side.
+      >> AssignmentWeary1291 wrote:
+      AI art is real art, art is completely subjective and has quite literally no meaning. People smear shit or period blood on paper and sell it as "art" and people buy it.
+    KatuTiel replied:
+    No it's not, ai 'art' are just products of prompts there's no creativity or artist talent involved.
+
+OVERRIDE: 
+
+
+--- #48  KenUsimi  (1 comments, conf=0.9) ---
+LLM label: support_ban
+LLM reasoning: The user explicitly supports the ban, arguing that it allows traditional artists to receive the attention they deserve.
+
+  [1] Thread: Comic-Con Bans AI Art After Artist Pushback
+    KenUsimi replied:
+    Good. Let people who actually put pen to paper (or stylus to screen) get the attention that their natural talent and dedication to the craft deserve. 
+    
+    Let those who would assume that a few keystrokes suffices to imitate human creativity and passion find somewhere else to pedal their refuse.
+
+OVERRIDE: 
+
+
+--- #49  Kriznick  (1 comments, conf=0.9) ---
+LLM label: support_ban
+LLM reasoning: The user supports the ban, emphasizing that Comic-Con should focus on traditional art rather than AI-generated content.
+
+  [1] Thread: Comic-Con Bans AI Art After Artist Pushback
+    Kriznick replied:
+    Uhhhh good. It's a "COMIC" con, not a "shitty prompt typing" con.
+
+OVERRIDE: 
+
+
+--- #50  Kuneria  (1 comments, conf=0.9) ---
+LLM label: support_ban
+LLM reasoning: The user expresses frustration with AI art at creator events and supports the trend of banning it.
+
+  [1] Thread: Comic-Con Bans AI Art After Artist Pushback
+    Kuneria replied:
+    I'm getting tired of going to creator events like comic con and craft markets and it's flooded with AI slop and those stupid 3D print farm dragons. Luckily I've been noticing more and more conventions, expos, and markets have been banning it! Which is great, I just went to the Oddities Expo a few weekends ago and didn't see any AI and significantly fewer 3D print farm junk. It was like a breath of fresh air.
+
+OVERRIDE: 
+
+
+--- #51  LegacyofaMarshall  (1 comments, conf=0.9) ---
+LLM label: support_ban
+LLM reasoning: The user explicitly states that AI 'art' is not art, indicating a strong opposition to AI-generated art.
+
+  [1] Thread: Comic-Con Bans AI Art After Artist Pushback
+    LegacyofaMarshall replied:
+    Ai “art” is not art
+
+OVERRIDE: 
+
+
+--- #52  Locrian6669  (3 comments, conf=0.8) ---
+LLM label: support_ban
+LLM reasoning: The user acknowledges that banning AI art is a reasonable policy, indicating support for restrictions.
+
+  [1] Thread: I’m pro-AI but subreddits banning AI art is totally reasonable policy and I feel that pro-AI people who can’t recognise this are just too invested on their side.
+    Locrian6669 replied:
+    Omg! Literally yall never disappoint comparing yourselves to oppressed minorities!
+    
+    It’s absolutely insane! lol
+    
+    r/persecutionfetish
+
+  [2] Thread: I’m pro-AI but subreddits banning AI art is totally reasonable policy and I feel that pro-AI people who can’t recognise this are just too invested on their side.
+    Locrian6669 replied:
+    No it’s invalid because being an ai user isn’t an immutable characteristic, nor are you being denied services you may actually need. lol
+    
+    A valid analogy would be if you were denied entry to a store for not wearing a shirt. Which we have of course decided is perfectly cool, and is. 
+    
+    Even that though would be more sympathetic than an ai user being prevented from posting ai on a specific Internet forum. People sometimes lose clothes and can’t immediately get new ones, and sometimes may need somet
+
+  [3] Thread: I’m pro-AI but subreddits banning AI art is totally reasonable policy and I feel that pro-AI people who can’t recognise this are just too invested on their side.
+    Locrian6669 replied:
+    Huh? This isn’t a response to a single thing I said.
+    
+    You aren’t oppressed. Sorry.
+
+OVERRIDE: 
+
+
+--- #53  Loki1001  (4 comments, conf=0.9) ---
+LLM label: support_ban
+LLM reasoning: The user argues that AI-generated art lacks artistic worth and suggests that it should not replace traditional art.
+
+  [1] Thread: CMV: Generative AI Should be Banned
+      >> Mad_Maddin wrote:
+      For example, making a movie right now costs a lot of funds. Paying for actors, paying for stages, paying for high quality cameras and props. With AI you could potentially create a movie of decent quality alone from your basement.
+      
+      Something that used to be reserved for the rich, would now be aviable
+      [...]
+    Loki1001 replied:
+    >Something that used to be reserved for the rich, would now be aviable to the common man. 
+    
+    You can make a movie on your cell phone. There has never been a time in the history of the movies where every aspect of making a movie has been cheaper. You can film it on your cell phone and distribute it on YouTube. 
+    
+    The "common man" argument is false on its face. It is just a means for people utterly lacking in talent to produce something of no artistic worth.
+
+  [2] Thread: CMV: Generative AI Should be Banned
+      >> tizuby wrote:
+      Ah, so you get to be the gatekeeper and decide for other people who does/doesn't have talent and if what is produced has/doesn't have artistic worth.
+      
+      You're not making the argument you think you're making.
+    Loki1001 replied:
+    >Ah, so you get to be the gatekeeper and decide for other people who does/doesn't have talent and if what is produced has/doesn't have artistic worth.
+    
+    If you have talent, why are you outsourcing the entire part making art that is, in fact, making art to a computer that simply compiles what is most likely? You do realize the part the computer is doing is the part that demonstrates talent, right?
+    
+    >You're not making the argument you think you're making.
+    
+    No, you just don't like the implications o
+
+  [3] Thread: CMV: Generative AI Should be Banned
+    Loki1001 replied:
+    This is an admission of a lack of talent.
+
+OVERRIDE: 
+
+
+--- #54  LongNailedbooboos  (2 comments, conf=0.9) ---
+LLM label: support_ban
+LLM reasoning: The user states that AI isn't art and implies a negative view of AI-generated art.
+
+  [1] Thread: Comic-Con Bans AI Art After Artist Pushback
+    LongNailedbooboos replied:
+    The untalented are downvoting a lot of people here. Ai isn’t art
+
+  [2] Thread: Comic-Con Bans AI Art After Artist Pushback
+      >> BeachBrad wrote:
+      Thats a shame. AI art is so much better than human art.
+    LongNailedbooboos replied:
+    How tf do you think Ai creates images? Idiot
+
+OVERRIDE: 
+
+
+--- #55  MFoy  (1 comments, conf=0.8) ---
+LLM label: support_ban
+LLM reasoning: The user discusses the expansion of existing bans on AI art, indicating support for the ban.
+
+  [1] Thread: Comic-Con Bans AI Art After Artist Pushback
+      >> Zahgi wrote:
+      Because you have to pay for admittance and the artist area is a HUGE draw at Comic-Con, they were forced to comply. Good.
+      
+      But they should have done it for the right reasons before anyone even had to complain...
+    MFoy replied:
+    This is unfair. Comic Con has had a ba on AI art at artist alley for many years. This ban is just expanding what was already in place at most of comic con, and applying it everywhere else, which stronger rules and (hopefully) better enforcement.
+
+OVERRIDE: 
+
+
+--- #56  MagikarpOnDrugs  (2 comments, conf=0.9) ---
+LLM label: support_ban
+LLM reasoning: The user explicitly states that AI-generated art is not art and advocates for it to be banned, viewing it as theft.
+
+  [1] Thread: Ban AI generated images and AI generators from our schools and art schools.
+      >> AramaicDesigns wrote:
+      If someone uses AI to express themselves, its art. Period.
+      
+      
+      
+      We can debate over whether it's "good" art, but it's art.
+    MagikarpOnDrugs replied:
+    IT'S NOT ART. It's not human created. It's like comissionong a machine. It's not. Tool, it's a theft of legal property of others without getting sued and needs to be outright banned.
+
+  [2] Thread: Ban AI generated images and AI generators from our schools and art schools.
+      >> AramaicDesigns wrote:
+      That's nice.
+      
+      Get off drugs, Magikarp. Touch grass. Switch to decaff. :-)
+    MagikarpOnDrugs replied:
+    That's nice, i am sorry for you being cnc patient and i hope it doesn't get better, cause yours is deluxe. Gg you know why.
+
+OVERRIDE: 
+
+
+--- #57  Mango-is-Mango  (1 comments, conf=0.8) ---
+LLM label: support_ban
+LLM reasoning: The user argues that AI art relies on using others' work, indicating a stance against AI-generated art.
+
+  [1] Thread: Should AI Art Generators be banned?
+    Mango-is-Mango replied:
+    > 1.) its a computer generated artwork 
+    
+    Why would this have anything to do with plagiarism?
+    
+    
+    > 2.) It’s not copying/taking anyone else’s work.
+    
+    They entire way they work is based off of using other’s work
+
+OVERRIDE: 
+
+
+--- #58  Massive-Victory-5709  (1 comments, conf=0.8) ---
+LLM label: support_ban
+LLM reasoning: The user criticizes those defending AI art and implies that such defenses are foolish, suggesting support for a ban.
+
+  [1] Thread: Should AI Art Generators be banned?
+    Massive-Victory-5709 replied:
+    Well it's Reddit, and ofc that redditors will defend something stupid just to get attention. People defending ai art as a tool belong in the third category mentioned in this meme:
+    
+    https://scontent.flis8-1.fna.fbcdn.net/v/t39.30808-6/323048718\_1363451477763435\_6873022745545257378\_n.jpg?\_nc\_cat=103&ccb=1-7&\_nc\_sid=9267fe&\_nc\_eui2=AeEeFB3hPSsdLill\_IG6MvhR1VIHEPxTVMrVUgcQ\_FNUysudQFDUegvgZZojckHE4EMhxOyuktNl2HJpPVvVcW9q&\_nc\_ohc=hgx4hcNr9z4AX9A2Y0o&\_nc\_ht=scontent.flis8-1.fna&oh=00\_Af
+
+OVERRIDE: 
+
+
+--- #59  MeatCatRazzmatazz  (4 comments, conf=0.9) ---
+LLM label: support_ban
+LLM reasoning: The user strongly criticizes AI art, arguing it lacks the skill and dedication required for traditional art, indicating support for a ban.
+
+  [1] Thread: Comic-Con Bans AI Art After Artist Pushback
+    MeatCatRazzmatazz replied:
+    The difference is you have to have skill to create CGI or use Photoshop. Yes, most anyone can learn it, but that still takes time, effort, and dedication.
+    
+    AI requires none of that. Just a subscription and the ability to type a few words into the machine. And no false equivalency you throw at the wall will change that.
+
+  [2] Thread: Comic-Con Bans AI Art After Artist Pushback
+    MeatCatRazzmatazz replied:
+    It's not the same. An unskilled artist's hand drawn work and their Photoshop work would look similarly unskilled. This is obvious in *any* amateur art floating around out there.
+    
+    AI has none of that nuance. Putting in and refining a prompt isn't "creating art," it's defining terms that in any other era would go to the artist who you're commissioning for their work. 
+    
+    It seems to me that your love of AI is borne of a desire to want to be an artist but you lack the skill or dedication to do it you
+
+  [3] Thread: Comic-Con Bans AI Art After Artist Pushback
+    MeatCatRazzmatazz replied:
+    >Thanks for making clear, the outrage over AI is nothing more than gatekeeping driven anger because it enables a wider audience to create art
+    
+    Nope. It's because it takes a soulful expression of humanity and turns it into garbage. Like I said, anyone can be an artist if they have the dedication to the art. You clearly don't, as any AI "artist" doesn't, because you want a short cut.
+    
+    And something taking skill and patience to learn is not gatekeeping. That's just dumb lol
+
+OVERRIDE: 
+
+
+--- #60  MintTangerine  (1 comments, conf=0.7) ---
+LLM label: support_ban
+LLM reasoning: The comment suggests a general support for banning AI art at events.
+
+  [1] Thread: Comic-Con Bans AI Art After Artist Pushback
+    MintTangerine replied:
+    Should be for any events
+
+OVERRIDE: 
+
+
+--- #61  Mr_Dr_Prof_Derp  (1 comments, conf=0.9) ---
+LLM label: support_ban
+LLM reasoning: The user explicitly calls for a ban on AI-generated images in schools and art schools.
+
+  [1] Thread: Ban AI generated images and AI generators from our schools and art schools.
+      >> Videogame-repairguy wrote:
+      None is better than humans. Humans come first in all aspects of life, art isn't something automation should exist on.
+    Mr_Dr_Prof_Derp replied:
+    If it's not better, why did it win?
+
+OVERRIDE: 
+
+
+--- #62  No-Manufacturer4916  (1 comments, conf=0.9) ---
+LLM label: support_ban
+LLM reasoning: The user expresses a strong negative opinion about AI art, labeling it as 'stolen hackjob inauthentic trash'.
+
+  [1] Thread: Comic-Con Bans AI Art After Artist Pushback
+      >> waiting4singularity wrote:
+      Algorithmic Inference remixed imagery using stolen assets
+    No-Manufacturer4916 replied:
+    Stolen Hackjob Inauthentic Trash.
+
+OVERRIDE: 
+
+
+--- #63  OD1NM4STER  (2 comments, conf=0.9) ---
+LLM label: support_ban
+LLM reasoning: The user expresses strong negative feelings towards AI art, stating it lacks effort and emotion, and believes it should not be considered art.
+
+  [1] Thread: CMV: Generative AI Should be Banned
+      >> Mad_Maddin wrote:
+      To me these arguments are always on a similar level to "The printing press should be banned, because it allows people to spread lies more easily"
+      
+      First of all. How would you ban generative AI? It is incredibly simple. Basically anyone who wants to can run generative AI on their home pc.  
+      
+      The secu
+      [...]
+    OD1NM4STER replied:
+    If you need AI to make art, you are not an artist.
+    
+    You cannot compare AI to the camera. The camera is a form of art, it didnt replace painters. People still appreciate and love realism paintings because they are impressive, and made by a person. 
+    
+    AI is unimpressive slop that requires 0 effort, skill or talent. It is devoid of any emotion, and has no place in the world of art.
+    
+    A camera is not simply a machine to ‘replace’ painters. It is an artform. Photography is much more than just pointing 
+
+  [2] Thread: CMV: Generative AI Should be Banned
+      >> Realistic_Reserve942 wrote:
+      you lack imagination.
+    OD1NM4STER replied:
+    Unimaginative… thats the people who need ai
+
+OVERRIDE: 
+
+
+--- #64  Okkre  (3 comments, conf=0.8) ---
+LLM label: support_ban
+LLM reasoning: The user dismisses AI-generated art as not being art and compares it unfavorably to traditional artistic processes.
+
+  [1] Thread: Ban AI generated images and AI generators from our schools and art schools.
+      >> AramaicDesigns wrote:
+      You're confused. Humans expressing ourselves - regardless of the medium - is called art.
+      
+      You've lost sight of that.
+    Okkre replied:
+    This is "AI expressing something...?"
+
+  [2] Thread: Ban AI generated images and AI generators from our schools and art schools.
+    Okkre replied:
+    >signed toilet and banana taped to the wall
+    
+    Those are not art.
+
+  [3] Thread: Ban AI generated images and AI generators from our schools and art schools.
+      >> ArchGaden wrote:
+      I'm pro-AI, but I'd say AI shouldn't be allowed in a traditional media art contest (ie painting, sculpture, etc).  If they're allowing digital art, well it's their contest and they can set the rules how they want... but they had better recognize that Photoshop has had AI tools for years now and is g
+      [...]
+    Okkre replied:
+    >it would be as silly as telling artists not to use layers
+    
+    Clicking "new layer" doesn't generate an image for you
+
+OVERRIDE: 
+
+
+--- #65  Old-Zookeepergame503  (1 comments, conf=0.8) ---
+LLM label: support_ban
+LLM reasoning: The user acknowledges the value of traditional art and expresses a negative view towards AI art.
+
+  [1] Thread: I’m pro-AI but subreddits banning AI art is totally reasonable policy and I feel that pro-AI people who can’t recognise this are just too invested on their side.
+    Old-Zookeepergame503 replied:
+    Things that are hard have value. Things that are easy do not. 
+    Protect the arts. Anyway ..Fuck A.I.
+
+OVERRIDE: 
+
+
+--- #66  Outrageous-Part7294  (2 comments, conf=0.9) ---
+LLM label: support_ban
+LLM reasoning: The user expresses concern for artists being robbed and suggests that AI art could harm human artists.
+
+  [1] Thread: Should AI Art Generators be banned?
+      >> Raving_Lunatic69 wrote:
+      Yet every artist, musician, writer developed their style by being exposed to those copyrighted things. How is that any different than exposing the AI to the same things?
+    Outrageous-Part7294 replied:
+    The difference is that the AI is a robot. It is used by other humans for their own purposes. 
+    
+    Even if the AI is considered an actual artist the person who takes it and says it's their own work is technically plagiarising.
+
+  [2] Thread: Should AI Art Generators be banned?
+    Outrageous-Part7294 replied:
+    Artists are getting robbed by this. This may not relate to the legal aspects of this, but artists make money off of commissions. If AI art is more in demand then the real, human artists who spent years learning their skills will perish because people will choose free art over art commissions. Artists are already underpaid (This may not be true but I heard that japanese animators earn a salary of 1.1 million yen which is about 8000$ usd. Again, i don't know much about this topic). If AI art conti
+
+OVERRIDE: 
+
+
+--- #67  PadiddleHopper  (1 comments, conf=0.8) ---
+LLM label: support_ban
+LLM reasoning: The user shares a negative experience with AI art being misrepresented and supports banning it in markets.
+
+  [1] Thread: Comic-Con Bans AI Art After Artist Pushback
+    PadiddleHopper replied:
+    We have local, small artist markets here and at one point there was a new guy selling what was very clearly AI art. Like think of the most generic example of something being AI art and he was selling it. But he was presenting it as 'original, hand crafted' art. Some of us artists called bullshit on that and he refused to admit it was AI art. The worst part was, people were buying up his shit left and right and he was doing better than any of the actual artists. It took some complaining but final
+
+OVERRIDE: 
+
+
+--- #68  Poly_and_RA  (9 comments, conf=0.7) ---
+LLM label: support_ban
+LLM reasoning: The user argues that photography replaced traditional art forms, suggesting a belief that AI could similarly disrupt the art world, indicating support for restrictions.
+
+  [1] Thread: CMV: Generative AI Should be Banned
+      >> Plokhi wrote:
+      Photography didnt replace art my man, not in the slightest.
+      
+      And photographers are still humans, artists, that create and live.
+      
+      What people are “afraid of” is artists losing work because AI slop will replace human art - AI that was trained on human art in the first place
+    Poly_and_RA replied:
+    That's very untrue. Photography most certainly replaced some things that used to be drawn or painted manually before -- in addition to creating a whole lot of new photography of course.
+    
+    Having your portrait painted or drawn used to be a thing for the upper classes, and after photography became dominant, most people take pictures instead of having pictures painted for having portraits to hang on the wall or whatever.
+
+  [2] Thread: CMV: Generative AI Should be Banned
+      >> Plokhi wrote:
+      I’d argue that’s more craft than art i guess
+    Poly_and_RA replied:
+    Whatever you call it, it's true that photography straight up took over some jobs that used to be done by people skilled in drawing and painting.
+
+  [3] Thread: CMV: Generative AI Should be Banned
+      >> Candelestine wrote:
+      Source?
+      
+      Afaik rich people still enjoy painted portraits, for the same reasons they always did--status symbol.
+      
+      They just don't have to stand still for hours for it anymore, since the painter can work off of a photograph instead of requiring a live model.
+      
+      edit: Seriously. Google for a portrait pain
+      [...]
+    Poly_and_RA replied:
+    You want a \*source\* for the claim that these days portraits are commonly (but not always) done as photography?
+    
+    This seems slam-dunk obvious to me, but fine, have it your way, here's one example among a billion: [https://www.whitehousehistory.org/galleries/presidential-portraits](https://www.whitehousehistory.org/galleries/presidential-portraits)
+    
+    You'll notice that historically these were all paintings, but now some presidents choose a photograph instead. They're not the only ones making that
+
+OVERRIDE: 
+
+
+--- #69  ProfSkeevs  (1 comments, conf=0.9) ---
+LLM label: support_ban
+LLM reasoning: The user expresses a strong preference for art that reflects human experience and intention, indicating a clear opposition to AI-generated art.
+
+  [1] Thread: Comic-Con Bans AI Art After Artist Pushback
+    ProfSkeevs replied:
+    Money does not legitimize art.
+    
+    ETA since I cant reply to the below about what legitimizes art: Human experience being expressed and taken into consideration. A stick figure is art if intention to represent the self/humanity is behind it. I am not interested in “pretty” content made by a simulation of a human mind. I want to see *your* experience through *your* art, good or bad.
+    
+    What is more human than picking up a skill simply to have something that shouts “I was here! I am human! I mattered b
+
+OVERRIDE: 
+
+
+--- #70  Public_Switch8168  (1 comments, conf=0.8) ---
+LLM label: support_ban
+LLM reasoning: The user acknowledges the concerns about job loss due to AI art and suggests that banning AI art is a reasonable policy.
+
+  [1] Thread: I’m pro-AI but subreddits banning AI art is totally reasonable policy and I feel that pro-AI people who can’t recognise this are just too invested on their side.
+      >> Kerrus wrote:
+      because I want to participate with those communities by sharing AI art and they aren't providing that kind of space. Many of them get quite hateful and bigoted the moment the term AI comes up, even if they're otherwise fairly inclusive. 
+      
+      The nicest people you'll meet on reddit calling for your fami
+      [...]
+    Public_Switch8168 replied:
+    Generative art will absolutely the reduce the quantity (and financial viability) of basic art-related employment. This is noncontroversial. Some people see this one the horizon for themselves or people they know in the art sphere. They perceive your use of AI as symbolic of the inevitable loss of jobs and financially stability for the people they know.
+    
+    For them, seeing AI art image triggers fear and material concern for themselves and people they know.
+    
+    Their response is irrational but empathet
+
+OVERRIDE: 
+
+
+--- #71  RICH_homie_Doug  (1 comments, conf=0.7) ---
+LLM label: support_ban
+LLM reasoning: The user acknowledges the reasonableness of banning AI art in certain contexts.
+
+  [1] Thread: I’m pro-AI but subreddits banning AI art is totally reasonable policy and I feel that pro-AI people who can’t recognise this are just too invested on their side.
+    RICH_homie_Doug replied:
+    I understand i don’t see photographers photographs, in the drawing sub reddit.
+
+OVERRIDE: 
+
+
+--- #72  Reasonable_Turn_3774  (1 comments, conf=0.8) ---
+LLM label: support_ban
+LLM reasoning: The user acknowledges the reasonableness of banning AI art despite being pro-AI.
+
+  [1] Thread: I’m pro-AI but subreddits banning AI art is totally reasonable policy and I feel that pro-AI people who can’t recognise this are just too invested on their side.
+    Reasonable_Turn_3774 replied:
+    i agree, but in this subreddit your comment something gain downvotes because this
+
+OVERRIDE: 
+
+
+--- #73  RedofPaw  (4 comments, conf=0.9) ---
+LLM label: support_ban
+LLM reasoning: The user expresses concern that AI art devalues traditional art and could harm the medium.
+
+  [1] Thread: Comic-Con Bans AI Art After Artist Pushback
+      >> Accomplished-Fix6598 wrote:
+      It could really be its own thing. Prompt pros and things like that. I don't know know exactly what it takes to create these AI pieces.
+    RedofPaw replied:
+    It can be it's own thing. Somewhere else.
+
+  [2] Thread: Comic-Con Bans AI Art After Artist Pushback
+      >> ButterMyPancakesPlz wrote:
+      Could you imagine the slop fest this woulda become
+    RedofPaw replied:
+    It's FAR more work to actually draw stuff. Cheaply and quickly made slop would push out actual artists and devalue the entire convention until it's dead.
+
+  [3] Thread: Comic-Con Bans AI Art After Artist Pushback
+      >> knightcrusader wrote:
+      > devalue the entire convention until it's dead
+      
+      That's the real crux of the problem. Arguing if AI is art or not like people in this thread are doing is beside the point, if people keep seeing this stuff and feel like the con is going to shit, they're gonna stop going and the con will die out. This
+      [...]
+    RedofPaw replied:
+    The whole  'what is art' argument has played out for a very long time. There's been whole art movements and arguments over what is and is not 'art'. 
+    
+    The thing is: anything can be art. 
+    
+    I mean.... [literally fucking anything.](https://www.bbc.co.uk/news/articles/cy87202v43no)
+    
+    As you say, it's pointless to argue over whether AI generated images art 'art', because sure, why not.
+    
+    But people do not buy comic books because they are cheap and quick to make. They buy them for the mix of art and sto
+
+OVERRIDE: 
+
+
+--- #74  Robot1me  (1 comments, conf=0.9) ---
+LLM label: support_ban
+LLM reasoning: The user compares AI images to fast food, indicating a negative view of their quality and value.
+
+  [1] Thread: Comic-Con Bans AI Art After Artist Pushback
+      >> RedofPaw wrote:
+      It's FAR more work to actually draw stuff. Cheaply and quickly made slop would push out actual artists and devalue the entire convention until it's dead.
+    Robot1me replied:
+    "devalue" is very spot on tbh, when seeing what both greed and "quantity over quality" mindsets cause. I used to feel more positively optimistic due to the possibilities, but that the slop has won and that bad faith actors lie about the origin of images broke my positive mindbubble. Now I'm viewing AI images like fast food. It's cheap, low quality and is "okay enough", but isn't great, not necessarily healthy, nor does it have the love like carefully prepared food. The latter (effort and human i
+
+OVERRIDE: 
+
+
+--- #75  RokuDeer  (1 comments, conf=0.9) ---
+LLM label: support_ban
+LLM reasoning: The user clearly states that AI art will harm conventions.
+
+  [1] Thread: Comic-Con Bans AI Art After Artist Pushback
+    RokuDeer replied:
+    Ai art will kill con if allowed to be.
+
+OVERRIDE: 
+
+
+--- #76  Rough_Tea6422  (2 comments, conf=0.8) ---
+LLM label: support_ban
+LLM reasoning: The user expresses a strong negative view of AI art and its impact on society.
+
+  [1] Thread: CMV: Generative AI Should be Banned
+      >> Mad_Maddin wrote:
+      For example, making a movie right now costs a lot of funds. Paying for actors, paying for stages, paying for high quality cameras and props. With AI you could potentially create a movie of decent quality alone from your basement.
+      
+      Something that used to be reserved for the rich, would now be aviable
+      [...]
+    Rough_Tea6422 replied:
+    Why do you think everything has to be done by everyone? And what’s your definition of art? More importantly, before the digital world, you used to own the tool in one direction. Now, when you work with an AI, you’re essentially owned by whoever created it. From my own experience, I grew up in the ’80s and ’90s, and the little photography that reached me through the media was the best of the best. Now, in this so-called democratized world, all I see are stupid pictures that look the same, over an
+
+  [2] Thread: CMV: Generative AI Should be Banned
+      >> Mad_Maddin wrote:
+      >From my own experience, I grew up in the ’80s and ’90s, and the little photography that reached me through the media was the best of the best. Now, in this so-called democratized world, all I see are stupid pictures that look the same, over and over again.
+      
+      Just because you stopped consuming curate
+      [...]
+    Rough_Tea6422 replied:
+    I haven’t stopped to look for curated art, it just doesn’t reach me anymore. For example, when TV was controlled by a few, I could randomly come across a documentary about one thing, a film about another, and something else entirely. I get that now, in theory, I can access much more, but in practice, when there are too many possibilities, it feels like there are none at all. Also, we don’t have to agree. I see art differently than you, and that’s fine. I’ve never thought it belonged to the rich 
+
+OVERRIDE: 
+
+
+--- #77  SexyBisamrotte  (2 comments, conf=0.7) ---
+LLM label: support_ban
+LLM reasoning: The user describes AI art as 'shitty', suggesting a negative view towards it.
+
+  [1] Thread: Comic-Con Bans AI Art After Artist Pushback
+    SexyBisamrotte replied:
+    Was at comic con in Copenhagen. So much shitty AI 'art'...
+
+  [2] Thread: Comic-Con Bans AI Art After Artist Pushback
+      >> MumrikDK wrote:
+      > Was at comic con in Copenhagen.
+      
+      I had no idea we even had one of those.
+    SexyBisamrotte replied:
+    2025 was the first time in a while, if Im not mistaken. PixelTV was there, so they probably have a bunch of videos on their website.
+    
+    
+    Next time is november:)
+
+OVERRIDE: 
+
+
+--- #78  Sgt-Colbert  (3 comments, conf=0.9) ---
+LLM label: support_ban
+LLM reasoning: The user argues that AI-generated content lacks meaning and cannot be considered art, indicating support for banning it.
+
+  [1] Thread: Comic-Con Bans AI Art After Artist Pushback
+      >> Norci wrote:
+      Gatekeeping art is pretty tiresome, anything can be art. Art is an expression of human ideas where the medium and tools shouldn't matter, and AI is just a tool. It can be used for creating art, but that would require more effort and specific intentions than just typing a single prompt.
+      
+      If I have an
+      [...]
+    Sgt-Colbert replied:
+    >the medium and tools shouldn't matter,
+    
+    Yes they should.   
+    There are so many different forms of art. Poetry, photography, drawing, painting, music, the list goes on. But they all have one thing in common, they are made by humans (and sometimes elephants).     
+    When a computer generates music or a photo or a painting, it is created by a computer not a human.     
+    If prompting is art then ordering a subway sandwich is cooking.
+
+  [2] Thread: Comic-Con Bans AI Art After Artist Pushback
+      >> Norci wrote:
+      > Poetry, photography, drawing, painting, music, the list goes on. 
+      
+      Those are all skills that can create art, but aren't automatically an art themselves or automatically result in art. Illustrations on your toilet paper aren't art, they're just filler visuals with no meaning to them, and art should
+      [...]
+    Sgt-Colbert replied:
+    „Art should have meaning“. 
+    
+    Exactly. And having a computer generate an image or music has ZERO meaning. Because it lacks any form of human emotion or experience.   
+    
+    At the end of the day this is a debate that will be going on for years to come.   
+    You think AI can be art, I think otherwise.   
+    Something generated by a computer can never be art.
+
+  [3] Thread: Comic-Con Bans AI Art After Artist Pushback
+      >> Norci wrote:
+      > And having a computer generate an image or music has ZERO meaning. Because it lacks any form of human emotion or experience. 
+      
+      That all depends on the input and level of fidelity tho. Take Suno, AI music studio, it can both generate full songs and fine-tune details.
+      
+      If you just ask it to generate
+      [...]
+    Sgt-Colbert replied:
+    Like I said, this is ultimately a difference in opinion. 
+    You will never convince me AI is art and I will never convince you that it isn’t.
+
+OVERRIDE: 
+
+
+--- #79  Similar_Geologist_73  (4 comments, conf=0.8) ---
+LLM label: support_ban
+LLM reasoning: The user acknowledges that banning AI art is a reasonable policy, indicating support for restrictions.
+
+  [1] Thread: I’m pro-AI but subreddits banning AI art is totally reasonable policy and I feel that pro-AI people who can’t recognise this are just too invested on their side.
+      >> Pretend_Jacket1629 wrote:
+      >being spammed at inhumanly high rates
+      
+      except when it's not
+    Similar_Geologist_73 replied:
+    It is. It's a big problem on sites like deviantart and pixiv.
+
+  [2] Thread: I’m pro-AI but subreddits banning AI art is totally reasonable policy and I feel that pro-AI people who can’t recognise this are just too invested on their side.
+      >> Xdivine wrote:
+      But it's not a problem everywhere. Take /r/monstergirl for example. There was a huge anti-AI movement out of nowhere a few months ago (maybe more, I forget) where people suddenly started losing their shit because a few AI images were posted. There were like... 3-4 images over the course of multiple 
+      [...]
+    Similar_Geologist_73 replied:
+    It didn't come out of nowhere. A lot of people were talking about ai art at the time, and subreddits across the site were discussing whether or not to ban ai art. I forget what the catalyst was.
+    
+    At the end of the day, there are people that don't like ai art and don't want to see it, so it doesn't really matter how many posts there are.
+
+  [3] Thread: I’m pro-AI but subreddits banning AI art is totally reasonable policy and I feel that pro-AI people who can’t recognise this are just too invested on their side.
+      >> Pretend_Jacket1629 wrote:
+      those aren't subreddits 4 years after the popularization of ai having no issues suddenly bringing forth a decision to ban ai after 1 (or even no) ai posts receiving moderate upvotes with said efforts (and decisions) being led by individuals who frequently have absolutely no history in those subreddi
+      [...]
+    Similar_Geologist_73 replied:
+    4 years is a reach. Doesn't really matter, though. I don't feel like playing move the goalpost with you. Have a good day
+
+OVERRIDE: 
+
+
+--- #80  SlightOfHand_  (1 comments, conf=0.8) ---
+LLM label: support_ban
+LLM reasoning: The user expresses concern about normalizing AI tools linked to cheating and theft, indicating support for a ban.
+
+  [1] Thread: Ban AI generated images and AI generators from our schools and art schools.
+      >> Videogame-repairguy wrote:
+      Schools and art schools shouldn't be normalizing tools that are linked to cheating and theft. Schools shouldn't be catering to billionaires who funded Generative AI just to own art and profit off stolen materials and artwork made from REAL artists.
+      
+      What we create and what we draw doesn't belong to 
+      [...]
+    SlightOfHand_ replied:
+    Schools shouldn’t be normalizing tools that are linked to cheating and theft, such as personal computers. The ability to “copy” and “paste” other people’s work should not be tolerated when children should be doing these tasks themselves. Schools shouldn’t be catering to billionaires who own computer companies.
+
+OVERRIDE: 
+
+
+--- #81  Snotsky  (1 comments, conf=0.7) ---
+LLM label: support_ban
+LLM reasoning: The user acknowledges the need for subreddits to have policies that may include banning AI art, indicating support for restrictions.
+
+  [1] Thread: I’m pro-AI but subreddits banning AI art is totally reasonable policy and I feel that pro-AI people who can’t recognise this are just too invested on their side.
+    Snotsky replied:
+    They have to filter through low or high quality posts regardless of its AI or human made. Imagine banning all text posts as a whole because too many people asked the same question in a sub…. We’d have no subs
+
+OVERRIDE: 
+
+
+--- #82  SopaPyaConCoca  (2 comments, conf=0.7) ---
+LLM label: support_ban
+LLM reasoning: The user discusses the need for a worldwide ban on AI-generated content, indicating support for restrictions.
+
+  [1] Thread: CMV: Generative AI Should be Banned
+      >> HaxboyYT wrote:
+      I’d argue it’d become even worse
+    SopaPyaConCoca replied:
+    yeah wtf was that logic. "Everything was always shit, so its ok AI will make things worse". Literally the worst answer in a CMV post I ever read
+
+  [2] Thread: CMV: Generative AI Should be Banned
+      >> Mad_Maddin wrote:
+      What about China, Russia, etc? 
+      
+      You think just because it is banned in the USA or Europe those actors will stop developing it?
+    SopaPyaConCoca replied:
+    When we talk about "banning AI", we talk about "it should be banned worldwide", for that we would have to make it clear the dangers of AI generating videos/images/sounds. There are several things banned worldwide, things doesnt have to be illegal just in the USA. But it wont happen, I know
+
+OVERRIDE: 
+
+
+--- #83  Squidlips413  (1 comments, conf=0.6) ---
+LLM label: support_ban
+LLM reasoning: The user acknowledges that not wanting AI in certain spaces is reasonable, suggesting support for restrictions.
+
+  [1] Thread: I’m pro-AI but subreddits banning AI art is totally reasonable policy and I feel that pro-AI people who can’t recognise this are just too invested on their side.
+    Squidlips413 replied:
+    Wow, a sane and balanced post in this sub. This isn't a slight against people who like AI. It's a reminder that people not liking AI and not wanting it in their spaces is not a personal attack against you. You can enjoy the other content there and find or make a different space that allows AI.
+
+OVERRIDE: 
+
+
+--- #84  StrangeCrunchy1  (1 comments, conf=0.8) ---
+LLM label: support_ban
+LLM reasoning: The user describes the situation as artistic censorship, indicating a strong opposition to AI art.
+
+  [1] Thread: "AI art is now banned in many places on Reddit — is this an art massacre or necessary protection?"
+    StrangeCrunchy1 replied:
+    Definit4ely artistic censorship
+
+OVERRIDE: 
+
+
+--- #85  Strange_cat_  (2 comments, conf=0.9) ---
+LLM label: support_ban
+LLM reasoning: The user discusses legislation aimed at regulating AI content, indicating strong support for restrictions.
+
+  [1] Thread: CMV: Generative AI Should be Banned
+    Strange_cat_ replied:
+    All GenAI content must be clearly labelled as such under the EU AI Act and results in massive fines for noncompliance. The new law comes into effect in 2026 and 2027 and applies to all of the EU and any non-EU companies/actors that make content for EU resident viewers. It’s a great new piece of legislation to protect citizens
+
+  [2] Thread: CMV: Generative AI Should be Banned
+    Strange_cat_ replied:
+    The EU AI Act mandates that all GenAI content needs to be clearly labelled as such for the viewer/reader. Failure to comply results is massive fines
+
+OVERRIDE: 
+
+
+--- #86  Successful_Brief_751  (4 comments, conf=0.9) ---
+LLM label: support_ban
+LLM reasoning: The user argues that art subs are for human-made art and criticizes AI art supporters for feeling discriminated against.
+
+  [1] Thread: I’m pro-AI but subreddits banning AI art is totally reasonable policy and I feel that pro-AI people who can’t recognise this are just too invested on their side.
+      >> Kavril91 wrote:
+      They can do what they want, but so can I, I stop going to any subreddits that ban it. EZ PZ
+    Successful_Brief_751 replied:
+    It’s wild to stop going because of AI solidarity while criticizing people for human centric solidarity.
+
+  [2] Thread: I’m pro-AI but subreddits banning AI art is totally reasonable policy and I feel that pro-AI people who can’t recognise this are just too invested on their side.
+    Successful_Brief_751 replied:
+    Dude you’re not going to get anyway trying to paint yourself as some kind of discriminated class. Most art subs are for artists. They want human made art. There is nothing wrong with it at all. Some people are interested in the technical skill and creativity of other humans. 
+    
+    It’s like saying “ well ashkually drug free competitions discriminate against gear users” when people want fair competitions that measure natural human ability and not the prowess of our chemists.
+
+  [3] Thread: I’m pro-AI but subreddits banning AI art is totally reasonable policy and I feel that pro-AI people who can’t recognise this are just too invested on their side.
+    Successful_Brief_751 replied:
+    There are literally AI art subs. You guys are butthurt because the regular art subs don’t want AI posts.
+
+OVERRIDE: 
+
+
+--- #87  SummerEchoes  (1 comments, conf=0.8) ---
+LLM label: support_ban
+LLM reasoning: The user expresses understanding for the bans due to the perceived low quality of AI art.
+
+  [1] Thread: I’m pro-AI but subreddits banning AI art is totally reasonable policy and I feel that pro-AI people who can’t recognise this are just too invested on their side.
+    SummerEchoes replied:
+    It doesn’t help that AI art posters spam the same low quality shit over and over. I totally understand the bans.
+
+OVERRIDE: 
+
+
+--- #88  Super_Translator480  (2 comments, conf=0.9) ---
+LLM label: support_ban
+LLM reasoning: The user criticizes AI art for being based on plagiarism and expresses concern over the quality of art being produced.
+
+  [1] Thread: Comic-Con Bans AI Art After Artist Pushback
+      >> underwear_dickholes wrote:
+      As someone with an art background, it starts with concept. Concept is the most important aspect of anything, regardless of whether or not AI created it. If the concept is good, as well as the execution, it shouldn't matter.
+      
+      
+      The bar should be quality over anything superficial, again, regardless of 
+      [...]
+    Super_Translator480 replied:
+    With AI art though, you can just take a good existing image and work with that “concept” then just put that into AI, tell it to adjust some things about it, using someone else’s work as the template- then can make a metaprompt out of it, build my own characters- all plagiarized but nobody ever knows because it’s generated on a system built on plagiarism. 
+    
+    Now I’ve skipped the techniques, processes and ability and gone straight to remixing other people’s hard work for easy profit.
+    
+    It’s pretty s
+
+  [2] Thread: Comic-Con Bans AI Art After Artist Pushback
+      >> ifonze wrote:
+      Human artists do the same thing. Most artist use reference to create a final product. I’ve seen some pieces that looked like a copy paste of someone else’s work with different elements to it. And I’m guilty of that myself. There are comic artists that copy other artists style. Photoshop users do it 
+      [...]
+    Super_Translator480 replied:
+    It's very true - people have rode off the success of each other since capitalism was in place. Before AI, YouTube was already becoming a remix of a remix - the biggest sellers now are often "reaction videos" instead of original content.
+    
+    Music has often been people trying to imitate the success of their favorite bands, etc.
+    
+    I think that all those things are fine... what gets me to where I might say it's time to draw a line, is that the sheer amount of "low effort" stuff is drowning out any good
+
+OVERRIDE: 
+
+
+--- #89  Swamptor  (3 comments, conf=0.8) ---
+LLM label: support_ban
+LLM reasoning: The user emphasizes the importance of traditional artistic processes and suggests that AI art lacks authenticity.
+
+  [1] Thread: Comic-Con Bans AI Art After Artist Pushback
+      >> Atrium41 wrote:
+      Did they not also ban 3D printed trinkets? That's also awesome if true
+    Swamptor replied:
+    If I see one more articulated dragon at a local craft fair, I'm going to scream.
+
+  [2] Thread: Comic-Con Bans AI Art After Artist Pushback
+      >> MountHopeful wrote:
+      Also, a lot of vendors *will still* bring and sell AI art. Because it's impossible to prove.
+    Swamptor replied:
+    It's so easy to prove. Real artists have phases of a single piece. It goes from a sketch to a fully shaded piece. They also have a personal career journey that probably dates back at least a few years and shows improvement and technique.
+    
+    Real artists can also usually do at least some amount of art in traditional media and, if they are purely digital, they will often stream at least occasionally.
+    
+    Any one of those things can prove someone is a real artist
+
+  [3] Thread: Comic-Con Bans AI Art After Artist Pushback
+      >> MountHopeful wrote:
+      Ok, and none of those things are apparent from a booth at a convention...
+      
+      Also, a real artist could train an AI on their *own work*.
+    Swamptor replied:
+    They are apparent when vetting artists. And if an artist starts getting an AI to do their work for them, it will be obvious imo.
+
+OVERRIDE: 
+
+
+--- #90  Teledildonic  (5 comments, conf=0.9) ---
+LLM label: support_ban
+LLM reasoning: The user argues that AI cannot create art as it lacks conscious decision-making, advocating for the value of human creativity.
+
+  [1] Thread: Comic-Con Bans AI Art After Artist Pushback
+      >> frogandbanjo wrote:
+      And the woman danced artlessly to music that was not art; joyless, from his armchair: "Your joy is not joy!"
+    Teledildonic replied:
+    Sounds like an NPC
+
+  [2] Thread: Comic-Con Bans AI Art After Artist Pushback
+      >> frogandbanjo wrote:
+      I stand by my position. People are panicking so much about "AI" that they're willing to completely discard the human experience of *engaging* with art, and instead focus entirely on the process of *creating* the art, because they think the latter is the more effective bloodied banner to wave.
+      
+      "But 
+      [...]
+    Teledildonic replied:
+    >go denounce a sunset as "not art." 
+    
+    A sunset is *not* art, unless you want into a theological debate.  It is a natural phenomenon, and sure it is beautiful, but unless you capture that beauty in another medium, it's not really art.
+    
+    >Clearly, all that matters in this conversation is that a human created something in a way that's comfortable and familiar, and doesn't have too many mathy steps in between inputs and outputs
+    
+    The human creation is kind of the defining trait of art.  A conscious mi
+
+  [3] Thread: Comic-Con Bans AI Art After Artist Pushback
+      >> UntimelyMeditations wrote:
+      > That's why AI isn't art. It's not being consciously created, it's a fucking automated algorithm. The process isn't human. If you aren't deciding every stroke and image, every frame of a video, every word of a story, you aren't making art.
+      
+      This is all well and good for the audience who can disting
+      [...]
+    Teledildonic replied:
+    My ire isn't for the *consumers* of AI, at least not anyone that genuinely doesn't realize what they have.  People like what they like, and the tech is advancing and detection is getting harder.  You're another victim of this machine in my eyes.
+    
+    It's the supply that disturbs me, because there is so little of the production that isn't...*insidious*.  Tech giants are pushing it because they dream of never paying for labor again.  Trying to automate jobs with no viable alternative for those displa
+
+OVERRIDE: 
+
+
+--- #91  TheDevilsAdvokaat  (1 comments, conf=0.9) ---
+LLM label: support_ban
+LLM reasoning: The user expresses a strong desire for more bans on AI art, indicating clear support for banning.
+
+  [1] Thread: Comic-Con Bans AI Art After Artist Pushback
+    TheDevilsAdvokaat replied:
+    Good. I hope this kind of thing keeps happening. I am sick of AI art.
+
+OVERRIDE: 
+
+
+--- #92  The_pursur  (1 comments, conf=0.9) ---
+LLM label: support_ban
+LLM reasoning: The user expresses strong negative feelings towards AI art, indicating support for banning.
+
+  [1] Thread: Comic-Con Bans AI Art After Artist Pushback
+    The_pursur replied:
+    FUCK yeah, eat shittt Ai brooos
+
+OVERRIDE: 
+
+
+--- #93  TikaOriginal  (1 comments, conf=0.8) ---
+LLM label: support_ban
+LLM reasoning: The user acknowledges the value of AI but supports banning due to the prevalence of low-quality content.
+
+  [1] Thread: I’m pro-AI but subreddits banning AI art is totally reasonable policy and I feel that pro-AI people who can’t recognise this are just too invested on their side.
+    TikaOriginal replied:
+    Yeah I'm also pro AI but I just feel like people who are against the rule just don't get the amount of slop the porn-related content has.
+    
+    Don't get me wrong, im all in for AI it truly has effort and originality in it, but 99% of the porn is just the typing in '[character name], big breasts, nude' which not only leads to low quality content, but also many generic and repetitive (especially in terms of style) images.
+    
+    Banning it as a whole is a much more easier solution than making non-sense crit
+
+OVERRIDE: 
+
+
+--- #94  Top_Class2849  (1 comments, conf=0.9) ---
+LLM label: support_ban
+LLM reasoning: The comment implies a strong negative view towards AI art, comparing it to nuclear weapons.
+
+  [1] Thread: CMV: Generative AI Should be Banned
+      >> Mad_Maddin wrote:
+      What about China, Russia, etc? 
+      
+      You think just because it is banned in the USA or Europe those actors will stop developing it?
+    Top_Class2849 replied:
+    sounds like nukes finally have a legitimate use.
+
+OVERRIDE: 
+
+
+--- #95  Turbulent_Escape4882  (3 comments, conf=0.7) ---
+LLM label: support_ban
+LLM reasoning: The user acknowledges that banning AI art is a reasonable policy, indicating support for restrictions.
+
+  [1] Thread: I’m pro-AI but subreddits banning AI art is totally reasonable policy and I feel that pro-AI people who can’t recognise this are just too invested on their side.
+      >> SLCPDSoakingDivision wrote:
+      Not liking AI isn't bigoted
+    Turbulent_Escape4882 replied:
+    It can be. Sometimes the bigotry is on display.
+
+  [2] Thread: I’m pro-AI but subreddits banning AI art is totally reasonable policy and I feel that pro-AI people who can’t recognise this are just too invested on their side.
+      >> Successful_Brief_751 wrote:
+      Dude you’re not going to get anyway trying to paint yourself as some kind of discriminated class. Most art subs are for artists. They want human made art. There is nothing wrong with it at all. Some people are interested in the technical skill and creativity of other humans. 
+      
+      It’s like saying “ wel
+      [...]
+    Turbulent_Escape4882 replied:
+    Hopefully they don’t have art on the other subs that use artificial tools.
+
+  [3] Thread: I’m pro-AI but subreddits banning AI art is totally reasonable policy and I feel that pro-AI people who can’t recognise this are just too invested on their side.
+    Turbulent_Escape4882 replied:
+    Can I post a short series (4 items) of human made art to those subs, title the series “AI Art,” and it stay? If not allowed to stay, can I mock the decision to ban it?
+
+OVERRIDE: 
+
+
+--- #96  Val_Fortecazzo  (2 comments, conf=0.6) ---
+LLM label: support_ban
+LLM reasoning: The user discusses the negative impacts of AI art on communities and suggests that some bans are reasonable, indicating support for restrictions.
+
+  [1] Thread: I’m pro-AI but subreddits banning AI art is totally reasonable policy and I feel that pro-AI people who can’t recognise this are just too invested on their side.
+      >> Consistent-Mastodon wrote:
+      But what if it's soulful human flood that "takes effort and intentionality so it makes sense to encourage it as part of community building"? Better leave that door open. /s
+    Val_Fortecazzo replied:
+    I remember the balatro sub when they had their AI ban episode and people were complaining about *potential* AI spam ruining the community.
+    
+    Those people then proceeded to spam well over 100 posts of just the lowest effort slop insults against the mod team for not banning it already. Like I'm talking single sentence posts with r slurs thrown in there for good measure.
+
+  [2] Thread: I’m pro-AI but subreddits banning AI art is totally reasonable policy and I feel that pro-AI people who can’t recognise this are just too invested on their side.
+    Val_Fortecazzo replied:
+    Sure I agree if it's a totally natural conclusion. But often there are brigades happening. Subs with like 1 AI image in it's entire history will end up with some outsider coming in and demanding a ban and getting 20x the usual traffic.
+    
+    Plus some of the bans are weird and unreasonable. Sometimes just speaking positively about AI will get you banned. Sometimes like in the rim world sub they will ban discussion of a mod if the creator used AI art and posts a kofi link for donations. Even if the mo
+
+OVERRIDE: 
+
+
+--- #97  Videogame-repairguy  (31 comments, conf=0.9) ---
+LLM label: support_ban
+LLM reasoning: The user strongly opposes AI art, stating it undermines human creativity and should be banned from schools and art schools.
+
+  [1] Thread: Ban AI generated images and AI generators from our schools and art schools.
+    Videogame-repairguy replied:
+    That's not true, I'm just saying the truth.
+
+  [2] Thread: Ban AI generated images and AI generators from our schools and art schools.
+      >> LengthyLegato114514 wrote:
+      lol, this is you, OP
+      
+      https://preview.redd.it/j7rhfjvtaktc1.png?width=680&format=png&auto=webp&s=5ff8c3e0a92c64e7006a018ec9615d7ad794d77f
+    Videogame-repairguy replied:
+    I'm not Jake Paul.
+
+  [3] Thread: Ban AI generated images and AI generators from our schools and art schools.
+      >> Plenty_Branch_516 wrote:
+      He won, if they want to clarify the rules for next time that's fine. However, unless he broke the rules of the competition I see no problem.
+    Videogame-repairguy replied:
+    He needs to be immediately disqualified. He didn't use traditional or digital tools.
+
+OVERRIDE: 
+
+
+--- #98  Waldo-San  (2 comments, conf=0.7) ---
+LLM label: support_ban
+LLM reasoning: The user suggests that it is not censorship for subreddits to ban AI art, indicating support for restrictions.
+
+  [1] Thread: "AI art is now banned in many places on Reddit — is this an art massacre or necessary protection?"
+    Waldo-San replied:
+    To be completely honest, reddit is what it is because there's a community for everything. I don't think it's necessarily censorship for a sub, focused on traditionally made art, to not allow AI made art. Just like I don't think it's censorship for a sub focused on traditional art to not allow digital, and vice versa.
+
+  [2] Thread: "AI art is now banned in many places on Reddit — is this an art massacre or necessary protection?"
+      >> A_Very_Horny_Zed wrote:
+      You have a point (subreddits based around traditional art are not necessarily required to allow a new medium of art in its category) but I would argue that whether or not the moderators' decision to ban it is censorship depends on their motivations.
+      
+        
+      If a photography sub bans art made with AI, fa
+      [...]
+    Waldo-San replied:
+    Agreed. Thing is, most subreddits (especially those who aren't too big) have rules that reflect the mods opinions. Same way some subs flat out ban LGBT people, amongst other things, AI isn't the only problem.
+
+OVERRIDE: 
+
+
+--- #99  Warchief_Ripnugget  (1 comments, conf=0.8) ---
+LLM label: support_ban
+LLM reasoning: The user draws a parallel between AI and photography, suggesting that AI art diminishes the value of traditional art, indicating support for a ban.
+
+  [1] Thread: CMV: Generative AI Should be Banned
+      >> Plokhi wrote:
+      Photography didnt replace art my man, not in the slightest.
+      
+      And photographers are still humans, artists, that create and live.
+      
+      What people are “afraid of” is artists losing work because AI slop will replace human art - AI that was trained on human art in the first place
+    Warchief_Ripnugget replied:
+    Undoubtedly artists lost work when photography become commonplace.  Painted portraits, for example, became even more of a luxury good than they already were.  Where an artist had to labor for hours to create a portrait, a photographer needed only press a button.  AI is the same concept, just one step further.
+
+OVERRIDE: 
+
+
+--- #100  Whiskeywiskerbiscuit  (1 comments, conf=0.9) ---
+LLM label: support_ban
+LLM reasoning: The user states that banning AI art is a good thing, indicating strong support for a ban.
+
+  [1] Thread: Comic-Con Bans AI Art After Artist Pushback
+    Whiskeywiskerbiscuit replied:
+    This is a good thing.
+
+OVERRIDE: 
+
+
+--- #101  Zahgi  (5 comments, conf=0.8) ---
+LLM label: support_ban
+LLM reasoning: The user expresses support for the ban at Comic-Con, indicating a stance in favor of restricting AI art.
+
+  [1] Thread: Comic-Con Bans AI Art After Artist Pushback
+    Zahgi replied:
+    Because you have to pay for admittance and the artist area is a HUGE draw at Comic-Con, they were forced to comply. Good.
+    
+    But they should have done it for the right reasons before anyone even had to complain...
+
+  [2] Thread: Comic-Con Bans AI Art After Artist Pushback
+      >> Vio_ wrote:
+      A lot of vendors were bringing in AI art without the owners realizing it. 
+      
+      I'm not saying they shouldn't have been aware of it, but the AI art problem hit immediately before anyone really could recognize it happening overall.
+    Zahgi replied:
+    Thanks for the clarification. I guarantee you that the vendors bringing in AI art weren't established professional artists who've had tables at the event for years if not decades.
+    
+    But since you pay for those tables, I'm sure that the booking agents never looked at who was signing up.
+    
+    The other bad thing about this is that there are limited numbers of tables. Which means an AI slop scammer would be taking the place of a genuine top flight real human artist.
+    
+    Either way, I'm glad that awareness 
+
+  [3] Thread: Comic-Con Bans AI Art After Artist Pushback
+      >> TheOrqwithVagrant wrote:
+      \> I guarantee you that the vendors bringing in AI art weren't established professional artists who've had tables at the event for years if not decades.
+      
+      You must have missed the James C Mulligan scandal last year.
+    Zahgi replied:
+    Yes, I did. Glad someone caught him.
+
+OVERRIDE: 
+
+
+--- #102  ZeColorOfPomegranate  (1 comments, conf=0.8) ---
+LLM label: support_ban
+LLM reasoning: The user refers to the banning of AI art as 'fascism', indicating a strong opposition to the bans.
+
+  [1] Thread: "AI art is now banned in many places on Reddit — is this an art massacre or necessary protection?"
+    ZeColorOfPomegranate replied:
+    Just Reddit fascism nothing more nothing else...
+
+OVERRIDE: 
+
+
+--- #103  Zer_  (1 comments, conf=0.9) ---
+LLM label: support_ban
+LLM reasoning: The user expresses a clear negative opinion about AI art, stating it has no value.
+
+  [1] Thread: Comic-Con Bans AI Art After Artist Pushback
+    Zer_ replied:
+    Good. AI art has no value apart from whatever medium it's stored or printed on. Fun for a laugh, a scam if you paid for it though.
+
+OVERRIDE: 
+
+
+--- #104  Zidan19283  (1 comments, conf=0.7) ---
+LLM label: support_ban
+LLM reasoning: The user describes the banning of AI art as censorship driven by a specific movement, suggesting a critical view of the bans.
+
+  [1] Thread: "AI art is now banned in many places on Reddit — is this an art massacre or necessary protection?"
+    Zidan19283 replied:
+    It's a censorship mainly driven by the reactionary liberal antiai "movement"
+
+OVERRIDE: 
+
+
+--- #105  academicallyacademia  (1 comments, conf=0.9) ---
+LLM label: support_ban
+LLM reasoning: The user explicitly states that AI art is not art and refers to it as theft, indicating strong support for banning AI-generated art.
+
+  [1] Thread: CMV: Generative AI Should be Banned
+      >> api wrote:
+      Everything that is being said about AI and the arts was said about photography and the arts.
+      
+      https://medium.com/@aaronhertzmann/how-photography-became-an-art-form-7b74da777c63
+      
+      In some cases the discourse is so identical you could search and replace AI/photography and have the same discourse.
+    academicallyacademia replied:
+    But there is a difference between painting and photography isn’t there?  You can tell the difference and each art form is unique.
+    Ai however looks human made already.  It’s not an art at all.  It’s literally just theft.
+
+OVERRIDE: 
+
+
+--- #106  bbt104  (2 comments, conf=0.9) ---
+LLM label: support_ban
+LLM reasoning: The user supports banning AI art in schools and questions the legitimacy of AI-generated content, indicating a strong stance for a ban.
+
+  [1] Thread: Ban AI generated images and AI generators from our schools and art schools.
+      >> Videogame-repairguy wrote:
+      Schools and art schools shouldn't be normalizing tools that are linked to cheating and theft. Schools shouldn't be catering to billionaires who funded Generative AI just to own art and profit off stolen materials and artwork made from REAL artists.
+      
+      What we create and what we draw doesn't belong to 
+      [...]
+    bbt104 replied:
+    If &#10;
+    
+    >  What we create and what we draw doesn't belong to anybody. &#10;
+    
+    Then how can it be stealing if it doesn't belong to anybody?
+
+  [2] Thread: I’m pro-AI but subreddits banning AI art is totally reasonable policy and I feel that pro-AI people who can’t recognise this are just too invested on their side.
+      >> TONK09 wrote:
+      Unfortunately nobody engages with AI art on said subreddits, not that it’s a good thing, but it’ll either be called out or downvoted to hell. I’ve seen polls made on those subreddits asking if they want AI art removed (so it’s completely the communities choice) and pro-ai people will STILL complain.
+      [...]
+    bbt104 replied:
+    I would agree if I hadn't personally seen subs get the "we need to ban AI art" post followed by huge interaction, but when you look at the poster and the people interacting, none of them have had any interactions within the sub and most (like 95%+) are not even a part of the sub. There's even been subs who have done the polls and had turn out that was more than doubled their community sizes voting in favor of the bans. Honestly a better option would be the "no low quality art" period. Or at leas
+
+OVERRIDE: 
+
+
+--- #107  blackcoffee17  (1 comments, conf=0.85) ---
+LLM label: support_ban
+LLM reasoning: The user expresses concern about the indistinguishability of AI-generated art from real art, suggesting a preference for banning AI art.
+
+  [1] Thread: CMV: Generative AI Should be Banned
+      >> api wrote:
+      Everything that is being said about AI and the arts was said about photography and the arts.
+      
+      https://medium.com/@aaronhertzmann/how-photography-became-an-art-form-7b74da777c63
+      
+      In some cases the discourse is so identical you could search and replace AI/photography and have the same discourse.
+    blackcoffee17 replied:
+    Not even comparable. In 10 years, even experts won't be able to tell the difference between an AI generated photograph and a real one. What will that do to art and how is that any good for anyone?
+
+OVERRIDE: 
+
+
+--- #108  crapsh0ot  (1 comments, conf=0.8) ---
+LLM label: support_ban
+LLM reasoning: The user acknowledges that banning AI art is a reasonable policy, indicating support for restrictions.
+
+  [1] Thread: I’m pro-AI but subreddits banning AI art is totally reasonable policy and I feel that pro-AI people who can’t recognise this are just too invested on their side.
+    crapsh0ot replied:
+    I'm surprised I haven't seen anyone mention this yet, but the problem is enforcement. A lot of people think "you can always tell" if something is AI-generated or not, but that's just not true; loads of human artists have been falsely accused of using AI. Rules like this just encourage AIvestigating and false accusations, as well as encourage dishonesty from AI users.
+
+OVERRIDE: 
+
+
+--- #109  dantevonlocke  (4 comments, conf=0.9) ---
+LLM label: support_ban
+LLM reasoning: The user explicitly states that AI art should be banned from contexts where actual art matters, showing strong support for a ban.
+
+  [1] Thread: Comic-Con Bans AI Art After Artist Pushback
+      >> HiveInMind wrote:
+      A local con I frequent caught a vendor selling AI art. Then the vendor tried to gain sympathy from the other vendors, claiming they should have been proud that more people were getting into art, even if they weren't making it themselves. Of course, nobody was buying it, and they went on a Facebook t
+      [...]
+    dantevonlocke replied:
+    First people that want to make "art" with others work, they should learn about collage.
+
+  [2] Thread: Comic-Con Bans AI Art After Artist Pushback
+      >> tondollari wrote:
+      It's not enforceable or detectable without some kind of stringent workflow proof and background check for all art. The ban will make some people feel better about what they're buying but that's it.
+    dantevonlocke replied:
+    They don't let just anyone in for a booth there. If you don't have a provable portfolio you likely won't be allowed a booth.
+
+  [3] Thread: Comic-Con Bans AI Art After Artist Pushback
+      >> sumelar wrote:
+      Because even though they can generate enough stuff to fill a booth, generating a portfolio is just magically impossible.
+    dantevonlocke replied:
+    When everything looks the exact same? And they have attended nothing else? AI "art" should be banned from anything where actual art matters.
+
+OVERRIDE: 
+
+
+--- #110  darksephora  (2 comments, conf=0.8) ---
+LLM label: support_ban
+LLM reasoning: The user discusses the negative implications of AI and suggests that banning it could be a solution, indicating support for a ban.
+
+  [1] Thread: CMV: Generative AI Should be Banned
+      >> Mad_Maddin wrote:
+      To me these arguments are always on a similar level to "The printing press should be banned, because it allows people to spread lies more easily"
+      
+      First of all. How would you ban generative AI? It is incredibly simple. Basically anyone who wants to can run generative AI on their home pc.  
+      
+      The secu
+      [...]
+    darksephora replied:
+    Generative ai requires a lot of power to run, all it takes is banning the usage of computer components to operate and set up ai data centers, and then it can easily come crashing down
+
+  [2] Thread: CMV: Generative AI Should be Banned
+      >> Mad_Maddin wrote:
+      Did you read the first two sentences of my 3 months old post and then reply? Sure seems like it.
+    darksephora replied:
+    I read all of it, most of it is just unimportant speculation about how ai isn’t that bad and we’re overreacting, so I replied to the part worth replying to and refuting. Ai can’t make it very far without a lot of power and a lot of materials, the people having trouble to breathe in low income neighborhoods that became unwitting hosts to ai data centers can tell you all about that.
+
+OVERRIDE: 
+
+
+--- #111  ddiggler2469  (1 comments, conf=0.9) ---
+LLM label: support_ban
+LLM reasoning: The user states that there is nothing artistic about AI prompts, implying a strong stance against AI art.
+
+  [1] Thread: Comic-Con Bans AI Art After Artist Pushback
+    ddiggler2469 replied:
+    there's nothing artistic about ai prompts
+
+OVERRIDE: 
+
+
+--- #112  falcondiorf  (1 comments, conf=0.9) ---
+LLM label: support_ban
+LLM reasoning: The user expresses concern about the dystopian implications of AI art and its negative impact on society.
+
+  [1] Thread: Should AI Art Generators be banned?
+      >> Outrageous-Part7294 wrote:
+      Artists are getting robbed by this. This may not relate to the legal aspects of this, but artists make money off of commissions. If AI art is more in demand then the real, human artists who spent years learning their skills will perish because people will choose free art over art commissions. Artist
+      [...]
+    falcondiorf replied:
+    glad that some people are seeing the big picture. this shit is pretty dystopian. and we already live in an age where nihilism and mental illness are rampant, if we see this through, it going to do really bad things for a lot of people.
+
+OVERRIDE: 
+
+
+--- #113  fiero-fire  (4 comments, conf=0.9) ---
+LLM label: support_ban
+LLM reasoning: The user argues that AI art lacks skill and talent, indicating a strong opposition to its acceptance.
+
+  [1] Thread: Comic-Con Bans AI Art After Artist Pushback
+    fiero-fire replied:
+    AI takes zero skill or talent versus Photoshop or proper CGI
+
+  [2] Thread: Comic-Con Bans AI Art After Artist Pushback
+    fiero-fire replied:
+    Please explain to me the talent it takes to type in prompts to a text box?
+
+  [3] Thread: Comic-Con Bans AI Art After Artist Pushback
+    fiero-fire replied:
+    Both of those were physical things done. The banana being a performative piece and the location matters because it's an expression of irony
+
+OVERRIDE: 
+
+
+--- #114  frymastermeat  (3 comments, conf=0.8) ---
+LLM label: support_ban
+LLM reasoning: The user expresses disdain for AI-generated art, comparing it to a morally questionable economic driver.
+
+  [1] Thread: CMV: Generative AI Should be Banned
+      >> Mad_Maddin wrote:
+      Let me give you an example.
+      
+      [https://youtu.be/hjNal-rSuO4?si=CD\_kdhj19uothIvl](https://youtu.be/hjNal-rSuO4?si=CD_kdhj19uothIvl)
+      
+      In my opinion, this is art. It is also original and unique. And it would have never been created without AI.
+    frymastermeat replied:
+    This steaming turd might not have existed without AI.
+
+  [2] Thread: CMV: Generative AI Should be Banned
+      >> theosamabahama wrote:
+      We only notice AI slop because it's easy to spot. We never notice the quality AI art that looks human made. Like [these](https://www.reddit.com/r/aiArt/comments/1hrv4h0/20_pieces_of_ai_slop_i_generated_in_the_year_2024/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share
+      [...]
+    frymastermeat replied:
+    """"quality""""
+
+  [3] Thread: CMV: Generative AI Should be Banned
+      >> NaturalCarob5611 wrote:
+      So do we go to war to keep other countries from using generative AI, or do we let ourselves fall behind economically to countries that keep developing and using it?
+    frymastermeat replied:
+    Slavery is also a great economic driver if that's all you care about and have no morality whatsoever.
+
+OVERRIDE: 
+
+
+--- #115  green_link  (1 comments, conf=0.9) ---
+LLM label: support_ban
+LLM reasoning: The user explicitly states that AI art should be banned from all art showcases, galleries, and shops, indicating a strong support for banning AI-generated art.
+
+  [1] Thread: Comic-Con Bans AI Art After Artist Pushback
+    green_link replied:
+    AI 'art' isn't art. it's slop that is based on stolen art. there's no human aspect to it and should be banned from all art showcases, galleries, and shops
+
+OVERRIDE: 
+
+
+--- #116  ifonze  (3 comments, conf=0.8) ---
+LLM label: support_ban
+LLM reasoning: The user supports the idea that AI art should have its own spaces and not overshadow human artists, indicating a preference for restricting AI art in artist spaces.
+
+  [1] Thread: Comic-Con Bans AI Art After Artist Pushback
+    ifonze replied:
+    As a pro ai guy I agree with this. Ai art can’t be everywhere. Especially in artists spaces. ai art should have their own spaces. Ai art is best served online not where human artists have to pay to participate in. If ai can’t make cosplay and relies purely on human creativity then the art based on the content should be human created too. Plus you wanna meet and ask these artists questions about their technique and to become inspired and motivated. that shouldn’t be overshadowed by automated crea
+
+  [2] Thread: Comic-Con Bans AI Art After Artist Pushback
+      >> Super_Translator480 wrote:
+      With AI art though, you can just take a good existing image and work with that “concept” then just put that into AI, tell it to adjust some things about it, using someone else’s work as the template- then can make a metaprompt out of it, build my own characters- all plagiarized but nobody ever knows
+      [...]
+    ifonze replied:
+    Human artists do the same thing. Most artist use reference to create a final product. I’ve seen some pieces that looked like a copy paste of someone else’s work with different elements to it. And I’m guilty of that myself. There are comic artists that copy other artists style. Photoshop users do it daily. Ai does the exact same thing human artists do except faster. The problem isn’t what’s input because humans take inspiration and or steal other artists work as well, it’s the output. If it’s som
+
+  [3] Thread: Comic-Con Bans AI Art After Artist Pushback
+      >> Super_Translator480 wrote:
+      It's very true - people have rode off the success of each other since capitalism was in place. Before AI, YouTube was already becoming a remix of a remix - the biggest sellers now are often "reaction videos" instead of original content.
+      
+      Music has often been people trying to imitate the success of t
+      [...]
+    ifonze replied:
+    Low effort is also a human problem too. And we’re in an era where people appreciate it in any medium. Maybe I’m getting old also but much of the rap music I’m hearing now is low effort and it’s been trending downward since 2013. I think what makes ai so annoying is that zero skilled people are just prompting low effort work and publishing it everywhere and we’re bombarded with tons of it and it’s becoming redundant. So I feel your pain. But I’ll always acknowledge time and energy put into someth
+
+OVERRIDE: 
+
+
+--- #117  jordanwisearts  (1 comments, conf=0.8) ---
+LLM label: support_ban
+LLM reasoning: The user acknowledges that banning AI art is a reasonable policy, indicating support for restrictions.
+
+  [1] Thread: I’m pro-AI but subreddits banning AI art is totally reasonable policy and I feel that pro-AI people who can’t recognise this are just too invested on their side.
+      >> MysteriousPepper8908 wrote:
+      Sure, and I'm fine with rules against low-effort content, though those are still open to abuse from mods deciding that all AI content is low-effort because they don't want to take the time to educate themselves. So, no system is perfect but I generally prefer to take things on a case by case basis r
+      [...]
+    jordanwisearts replied:
+    Too much work for unpaid mods. Blanket ban is more logistically realistic.
+
+OVERRIDE: 
+
+
+--- #118  juanjung  (1 comments, conf=0.9) ---
+LLM label: support_ban
+LLM reasoning: The user believes AI cannot create art, implying support for banning AI-generated art.
+
+  [1] Thread: Comic-Con Bans AI Art After Artist Pushback
+    juanjung replied:
+    Art is an statement about the human condition, AI cannot make art.
+
+OVERRIDE: 
+
+
+--- #119  keystonecraft  (1 comments, conf=0.8) ---
+LLM label: support_ban
+LLM reasoning: The user claims AI art is IP theft, suggesting a stance in favor of banning it.
+
+  [1] Thread: Comic-Con Bans AI Art After Artist Pushback
+    keystonecraft replied:
+    Well ai art is IP theft sooo...
+
+OVERRIDE: 
+
+
+--- #120  kjdavid  (1 comments, conf=0.7) ---
+LLM label: support_ban
+LLM reasoning: The user expresses skepticism about generative AI, which aligns with a supportive stance for banning it.
+
+  [1] Thread: CMV: Generative AI Should be Banned
+    kjdavid replied:
+    People do not believe in nonsense, because of evidence and data. They believe in nonsense, because they want to do so. Generative AI won't make the difference that you think it will.
+
+OVERRIDE: 
+
+
+--- #121  lesbianspider69  (1 comments, conf=0.8) ---
+LLM label: support_ban
+LLM reasoning: The user suggests implementing posting limits instead of a complete ban, but still supports some form of restriction.
+
+  [1] Thread: I’m pro-AI but subreddits banning AI art is totally reasonable policy and I feel that pro-AI people who can’t recognise this are just too invested on their side.
+    lesbianspider69 replied:
+    Nah. Just make posting limits or something
+
+OVERRIDE: 
+
+
+--- #122  lightmatter501  (1 comments, conf=0.7) ---
+LLM label: support_ban
+LLM reasoning: The user acknowledges the existence of large models that could cause concern, suggesting support for a ban.
+
+  [1] Thread: CMV: Generative AI Should be Banned
+      >> Evinceo wrote:
+      > How would you ban generative AI?
+      
+      
+      While it wouldn't stop people from running existing models, something like [This Bill](https://www.hawley.senate.gov/wp-content/uploads/2025/07/Hawley-AI-Accountability-and-Personal-Data-Protection-Act.pdf) would make building GenAI companies untenable so I don't
+      [...]
+    lightmatter501 replied:
+    Large enough models to do all of the things people are worried about already exist in the wild.
+
+OVERRIDE: 
+
+
+--- #123  madamemimicik  (1 comments, conf=0.9) ---
+LLM label: support_ban
+LLM reasoning: The user argues that AI art does not exist and defines art as a human expression, indicating a strong opposition to AI-generated art.
+
+  [1] Thread: Comic-Con Bans AI Art After Artist Pushback
+    madamemimicik replied:
+    AI art does not exist. 
+    
+    Definition of art: the expression or application of **human** creative skill and imagination, typically in a visual form such as painting or sculpture, producing works to be appreciated primarily for their beauty or emotional power.
+
+OVERRIDE: 
+
+
+--- #124  maikuxblade  (1 comments, conf=0.9) ---
+LLM label: support_ban
+LLM reasoning: The user expresses a desire for legal action against AI art, framing it as regurgitated stolen work, indicating strong opposition to AI art.
+
+  [1] Thread: Comic-Con Bans AI Art After Artist Pushback
+    maikuxblade replied:
+    I can’t wait until something kicks off the class action lawsuit regarding AI being trained on art without compensation to the artists. AI “art” is just regurgitating stolen work.
+
+OVERRIDE: 
+
+
+--- #125  mayoooz  (1 comments, conf=0.9) ---
+LLM label: support_ban
+LLM reasoning: The user argues that AI cannot create art and emphasizes the value of human-made art, indicating a strong opposition to AI-generated art.
+
+  [1] Thread: CMV: Generative AI Should be Banned
+      >> Mad_Maddin wrote:
+      To me these arguments are always on a similar level to "The printing press should be banned, because it allows people to spread lies more easily"
+      
+      First of all. How would you ban generative AI? It is incredibly simple. Basically anyone who wants to can run generative AI on their home pc.  
+      
+      The secu
+      [...]
+    mayoooz replied:
+    AI can’t and will never make art more accessible than it already is. Art has been the first form of  expression and you’re saying AI makes it more accessible than it has ever been? 
+    You can’t compare it to photography either, photography is indeed seen as a form of art but it became helpful to artists as it developed more and more, in what way do you think Ai could ever be helpful in creative fields?  what is human made will always have all the value AI doesn’t. 
+    AI could never make art.
+
+OVERRIDE: 
+
+
+--- #126  meleecow  (1 comments, conf=0.8) ---
+LLM label: support_ban
+LLM reasoning: The user implies that AI art is deceptive and suggests a negative view of AI art.
+
+  [1] Thread: Comic-Con Bans AI Art After Artist Pushback
+    meleecow replied:
+    The machines didn't cry but the people fronting AI art as their own did.
+
+OVERRIDE: 
+
+
+--- #127  metanaught  (3 comments, conf=0.8) ---
+LLM label: support_ban
+LLM reasoning: The user compares using AI in art to cheating, indicating a belief that AI-generated art undermines the educational process.
+
+  [1] Thread: Ban AI generated images and AI generators from our schools and art schools.
+      >> Plenty_Branch_516 wrote:
+      He won, if they want to clarify the rules for next time that's fine. However, unless he broke the rules of the competition I see no problem.
+    metanaught replied:
+    Using an AI image generator to create an entry for a school competition is like paying the arty kid in the class to do your homework for you. There's no written rule prohibiting it because the majority of people understand it to be self-evident.
+    
+    Eastern education systems are often fiercely competitive and put students under enormous pressure to succeed. IMO we ought to be talking about whether _that's_ a good thing, not about how some enterprising kid managed to hoodwink his way into "winning".
+
+  [2] Thread: Ban AI generated images and AI generators from our schools and art schools.
+      >> Ka_Trewq wrote:
+      Pick one and stick with it:
+      
+      1. AI art isn't art
+      2. AI art is cheating
+      
+      For instance, using a chess engine in a chess competition is cheating, because the chess engine is better at it than humans. So, if your argument relies on "using AI in art is cheating", that has the build-in assumption that the
+      [...]
+    metanaught replied:
+    > So, if your argument relies on "using AI in art is cheating", that has the build-in assumption that the computer is better at art than humans.
+    
+    Err, yeah. That's kinda the point.
+    
+    Typing a few words into a gen-AI tool will produce an artefact that's technically "better" than 95% of the work of other art students. But that's literally all you get: an artefact.
+    
+    The point of an art class is to challenge kids into learning the fundamentals, theory and discipline, not just to see who can produce t
+
+  [3] Thread: Ban AI generated images and AI generators from our schools and art schools.
+      >> Ka_Trewq wrote:
+      I don't know the detail of that particular competition and what they accept or not. I don't think that after 2 years since the public release of these tools and all the internet drama surrounding them, the organizers weren't aware of the possibility of AI usage. 
+      
+      So again, I don't know the rules of
+      [...]
+    metanaught replied:
+    > But if AI is not explicitly banned, the heated debate about AI usage is just a smoke screen for envy.
+    
+    Envy about what, though? Literally anyone can go online and dash off similar images with virtually no effort. 
+    
+    More likely most students correctly assumed that submitting a generic piece of AI art would count as cheating, in the same way paying a classmate to do it would also count as cheating. 
+    
+    > The same goes with art, it's not about how flawless your end product is, is about the vision y
+
+OVERRIDE: 
+
+
+--- #128  mrisrael  (1 comments, conf=0.7) ---
+LLM label: support_ban
+LLM reasoning: The user mentions that conventions shut down AI art stalls, indicating support for banning AI art.
+
+  [1] Thread: Comic-Con Bans AI Art After Artist Pushback
+      >> Zahgi wrote:
+      Because you have to pay for admittance and the artist area is a HUGE draw at Comic-Con, they were forced to comply. Good.
+      
+      But they should have done it for the right reasons before anyone even had to complain...
+    mrisrael replied:
+    Any con I've been to has immediately shut down ai art stalls as soon as they were reported. It's only been a few stalls, as I mostly go to smaller conventions, but.
+
+OVERRIDE: 
+
+
+--- #129  mushroom_taco  (1 comments, conf=0.9) ---
+LLM label: support_ban
+LLM reasoning: The user expresses satisfaction that AI art was ultimately banned, indicating strong support for the ban.
+
+  [1] Thread: Comic-Con Bans AI Art After Artist Pushback
+    mushroom_taco replied:
+    Shitty that it was allowed at all in the first place, but good to see it ultimately being banned.
+
+OVERRIDE: 
+
+
+--- #130  odanhammer  (1 comments, conf=0.8) ---
+LLM label: support_ban
+LLM reasoning: The user supports the decision to ban AI art at conventions, indicating a favorable stance towards banning.
+
+  [1] Thread: Comic-Con Bans AI Art After Artist Pushback
+    odanhammer replied:
+    It's the right choice.
+    As people were misleading about the fact it was AI artwork.
+    
+    It would have been one thing to ban artists that don't properly display they use AI in the creation of the artwork they are selling.
+    But I bet many would hide the fact.
+
+OVERRIDE: 
+
+
+--- #131  orlybatman  (7 comments, conf=0.9) ---
+LLM label: support_ban
+LLM reasoning: The user emphasizes the burden on artists and suggests that the responsibility should lie with AI companies, indicating a preference for regulation of AI art.
+
+  [1] Thread: Comic-Con Bans AI Art After Artist Pushback
+      >> David-J wrote:
+      It's pretty simple. Demonstrate with proof that you made your art. 
+      Unedited clips of the process would be a very simple way.
+    orlybatman replied:
+    I spend hundreds of hours every year creating artwork for my job. I'm not about to record it all.
+    
+    One thing that would help is requiring AI art to have notice of it being AI stamped into the image - both obvious and hidden. Much like how your printer makes tracking dots you won't perceive.
+
+  [2] Thread: Comic-Con Bans AI Art After Artist Pushback
+      >> David-J wrote:
+      Hey. I'm just giving you a heads up on the easiest way to deal with this. It's literally pressing a button twice. What's the difficulty about that?
+    orlybatman replied:
+    Having to store hundreds of gigabytes of data just to prove to someone that I made it, and having the PC performance drop from recording. I don't want any pen delay at all, it affects line quality. Also not all my work is 100% digital. I create a lot of it on paper and then bring it onto the PC for inking, refinement, coloring etc.
+    
+    The burden should be on the companies creating AI, not the artists whose jobs are already under assault.
+
+  [3] Thread: Comic-Con Bans AI Art After Artist Pushback
+      >> David-J wrote:
+      Hey. Clearly you don't want to listen. There's no drop in performance, it doesn't affect line quality, the files are not big at all and it's not time consuming. 
+      
+      You can just say you don't want to do it. It's ok. Just don't make stuff up.
+    orlybatman replied:
+    Anything your system is doing creates a performance hit. If it's recording a 6 hour long video off my screen while I'm trying to draw, that's going to impact it. Hell, even having too many reference images open impacts it.
+    
+    I am not making stuff up, I am being realistic. And I don't want to do it.
+
+OVERRIDE: 
+
+
+--- #132  panda420420  (1 comments, conf=0.8) ---
+LLM label: support_ban
+LLM reasoning: The user states that generating art through AI means one is not the artist, implying a negative view of AI-generated art.
+
+  [1] Thread: Ban AI generated images and AI generators from our schools and art schools.
+    panda420420 replied:
+    If you are generating art you aren’t the artist, you are the commissioner
+
+OVERRIDE: 
+
+
+--- #133  phoenixgsu  (1 comments, conf=0.7) ---
+LLM label: support_ban
+LLM reasoning: The user mentions a negative incident involving AI art at a convention, indicating support for banning AI-generated art.
+
+  [1] Thread: Comic-Con Bans AI Art After Artist Pushback
+    phoenixgsu replied:
+    Vendor was kicked out of Dragoncon last year for trying to sell AI slop in the vendor hall area.
+
+OVERRIDE: 
+
+
+--- #134  prettymuthafucka  (1 comments, conf=0.9) ---
+LLM label: support_ban
+LLM reasoning: The user explicitly states that AI art is not real and can never be considered art, indicating strong support for banning it.
+
+  [1] Thread: Comic-Con Bans AI Art After Artist Pushback
+    prettymuthafucka replied:
+    AI art isn’t real. It can never be Art
+
+OVERRIDE: 
+
+
+--- #135  queenkid1  (1 comments, conf=0.8) ---
+LLM label: support_ban
+LLM reasoning: The user acknowledges the banning of AI art as a reasonable policy despite being pro-AI.
+
+  [1] Thread: I’m pro-AI but subreddits banning AI art is totally reasonable policy and I feel that pro-AI people who can’t recognise this are just too invested on their side.
+      >> MysteriousPepper8908 wrote:
+      If it's a low-effort post, there are ways to handle that, if people don't like it, they can downvote it. If people are liking and engaging with it, banning it is just overzealous mods pushing their agenda.
+    queenkid1 replied:
+    >there are ways to handle that,
+    
+    Like making rules to discourage people from posting low effort content? 
+    
+    >if people don't like it, they can downvote it.
+    
+    People say this and then will complain when a subreddit gets flooded with bad content. Downvoting doesn't magically make a post disappear, it just changes the likelihood of people seeing it. But it will flood people just trying to browse Reddit.
+
+OVERRIDE: 
+
+
+--- #136  s_mirage  (1 comments, conf=0.8) ---
+LLM label: support_ban
+LLM reasoning: The user explicitly calls for a ban on AI-generated images in schools and art schools.
+
+  [1] Thread: Ban AI generated images and AI generators from our schools and art schools.
+      >> Videogame-repairguy wrote:
+      I doubt that ever happened, Digital art was a thing in the 90s so I don't understand what you mean.
+    s_mirage replied:
+    Yes, it happened. This same song and dance has been repeated time and time again, every time a new medium or radically new style of art has come along.
+    
+    Even as recently as the early 2000s, there were professional photographers who argued that people using digital cameras and Photoshop weren't "real" photographers. Some of their arguments were strikingly similar to some of those levied against AI too: just pushing a button, lowering the skill ceiling, the machine's doing all the work, oversimpli
+
+OVERRIDE: 
+
+
+--- #137  saltedsavior  (2 comments, conf=0.7) ---
+LLM label: support_ban
+LLM reasoning: The user suggests that banning AI art should be enforceable due to current issues with its quality.
+
+  [1] Thread: Comic-Con Bans AI Art After Artist Pushback
+    saltedsavior replied:
+    Should be enforceable in the immediate while AI is still advancing because it's still making some small mistakes. Won't be too long though before it's absolutely perfect and a visual scrutiny is not going to cut it so what are you going to do then?
+
+  [2] Thread: Comic-Con Bans AI Art After Artist Pushback
+      >> matthra wrote:
+      I'd argue that it's iffy even now, I'm on a sub for detecting AI art, and it's a witch hunt. Even minor mistakes by the artist can have people saying it's AI, and if you do art in a style that is often imitated by AI that's often enough by itself. I watched an artist provide the layers they used in 
+      [...]
+    saltedsavior replied:
+    >AI art has created a trust crisis, and it's something the AI "artists" don't care about but is an absolute nightmare for real artists. Even just the accusation of being AI is enough to ruin a piece of art, and the chuds haven't missed that fact.
+    
+    It's going to get to the point where people are just going to have to accept it as part of the art world or every single artist is going to have to have to have a witness that sat in during the creation of the piece of art to verify that it is real.
+
+OVERRIDE: 
+
+
+--- #138  seytsuken_  (8 comments, conf=0.9) ---
+LLM label: support_ban
+LLM reasoning: The user expresses strong concerns about the negative impacts of AI, suggesting that banning it would significantly reduce its development and mitigate potential harms.
+
+  [1] Thread: CMV: Generative AI Should be Banned
+      >> Mad_Maddin wrote:
+      To me these arguments are always on a similar level to "The printing press should be banned, because it allows people to spread lies more easily"
+      
+      First of all. How would you ban generative AI? It is incredibly simple. Basically anyone who wants to can run generative AI on their home pc.  
+      
+      The secu
+      [...]
+    seytsuken_ replied:
+    If we ban large corporations and universities from developing and training it we can already basically stop decrease the rate of development of genAi. Small groups simply don't have the means for massive data training or research development
+
+  [2] Thread: CMV: Generative AI Should be Banned
+      >> Mad_Maddin wrote:
+      For example, making a movie right now costs a lot of funds. Paying for actors, paying for stages, paying for high quality cameras and props. With AI you could potentially create a movie of decent quality alone from your basement.
+      
+      Something that used to be reserved for the rich, would now be aviable
+      [...]
+    seytsuken_ replied:
+    You notice how all the 'benefits' of this technology is superfluous stuff while the cons are literally world ending? (Deep fakes causing wars, political chaos and innocents being sent to prison)
+
+  [3] Thread: CMV: Generative AI Should be Banned
+      >> BackupChallenger wrote:
+      So you want to keep normal people in the dark about what generative AI can do while letting the rest of the world use it however they like. Luckily no other country would ever make fake AI stuff to influence public opinion.
+    seytsuken_ replied:
+    Most aí big companies are in the us. And if the us banned it alot other countries would follow along. Do you think s random dude in their garage have the means to research and train a new model on massive data do make the next midjourney?
+
+OVERRIDE: 
+
+
+--- #139  shroudedwolf51  (1 comments, conf=0.8) ---
+LLM label: support_ban
+LLM reasoning: The user indicates surprise that AI art wasn't banned sooner, implying support for the ban.
+
+  [1] Thread: Comic-Con Bans AI Art After Artist Pushback
+      >> Zahgi wrote:
+      Because you have to pay for admittance and the artist area is a HUGE draw at Comic-Con, they were forced to comply. Good.
+      
+      But they should have done it for the right reasons before anyone even had to complain...
+    shroudedwolf51 replied:
+    ....honestly, it doesn't surprise me that people had to complain. But it **does** surprise me that it took almost four years to actually implement this. It's shocking it wasn't banned after 2024 at the very latest.
+
+OVERRIDE: 
+
+
+--- #140  sumelar  (5 comments, conf=0.9) ---
+LLM label: support_ban
+LLM reasoning: The user explicitly states that AI art should be banned from contexts where actual art matters, showing a clear preference for banning AI art.
+
+  [1] Thread: Comic-Con Bans AI Art After Artist Pushback
+      >> dantevonlocke wrote:
+      They don't let just anyone in for a booth there. If you don't have a provable portfolio you likely won't be allowed a booth.
+    sumelar replied:
+    Because even though they can generate enough stuff to fill a booth, generating a portfolio is just magically impossible.
+
+  [2] Thread: Comic-Con Bans AI Art After Artist Pushback
+      >> dantevonlocke wrote:
+      When everything looks the exact same? And they have attended nothing else? AI "art" should be banned from anything where actual art matters.
+    sumelar replied:
+    > When everything looks the exact same?
+    
+    Artist has consistent style, call the art police!
+    
+    > And they have attended nothing else?
+    
+    Fuck every new artist, only catch-22s allowed here.
+    
+    > AI "art" should be banned from anything where actual art matters.
+    
+    No fucking shit.
+
+  [3] Thread: Comic-Con Bans AI Art After Artist Pushback
+      >> Filter55 wrote:
+      All it takes is a concerned guest to raise a complaint to staff, who can just walk up to the booth and take a look. 
+      
+      It’s really not complicated.
+    sumelar replied:
+    I'm sorry you think it's still 2023 and ai slop is instantly detectable at a glance.
+
+OVERRIDE: 
+
+
+--- #141  therealkami  (4 comments, conf=0.8) ---
+LLM label: support_ban
+LLM reasoning: The user expresses frustration with the prevalence of AI-generated art at conventions, suggesting a preference for banning it.
+
+  [1] Thread: Comic-Con Bans AI Art After Artist Pushback
+      >> MissNouveau wrote:
+      I'm an artist, and friends with some long time artist alley artists.
+      
+      Big comic conventions typically do not give a shit about the artists. The big Cons are run by one or two companies. We're not money makers like actors. So a LOT of conventions are starting to price artists out. Those artist alley 
+      [...]
+    therealkami replied:
+    Yep, even the local con we have in my city that rarely gets anyone above a B-List celebrity as a guest charges so much for artist tables. $200-$300 for a 2 day convention that maybe sees 2000 people.
+    
+    And then when you got there's 5 artists there that all have the exact same booth set up, with the exact same art. All in a different section of the alley, with different artist names. It's definitely AI/stolen prints. 
+    
+    Also see: People reselling items from Etsy.
+
+  [2] Thread: Comic-Con Bans AI Art After Artist Pushback
+      >> ihavemademistakes wrote:
+      As a con-goer, I'm also sick and tired of seeing booth after booth of the *exact same* 3D printed garbage. Oh neat, another table of day-glo segmented snakes, skulls, and super hero logos.
+    therealkami replied:
+    They don't even do a good job of printing it half the time, it's rough as hell, and the segments fit together poorly. They definitely use whatever free patterns they could find online and the cheapest printer available.
+
+  [3] Thread: Comic-Con Bans AI Art After Artist Pushback
+      >> DreddCarnage wrote:
+      Hopefully they don't get much success.
+    therealkami replied:
+    They do. Quite a bit. Because the stolen prints are things like pin-up (Cartoon or video game) character in a bikini. The Etsy things are plastic pokeballs with a little knitted pokemon in them. They definitely know their audience to sell that stuff.
+    
+    My wife sells an incredibly niche, time intensive, handcrafted art (Tsumami kanzashi. She actually trained in Japan to learn how to make it) The people who are going to buy it are a very narrow group. We usually make enough to cover the table and f
+
+OVERRIDE: 
+
+
+--- #142  theronin7  (1 comments, conf=0.8) ---
+LLM label: support_ban
+LLM reasoning: The user refers to AI tools as 'cheating tools,' indicating a negative view of AI in art.
+
+  [1] Thread: Ban AI generated images and AI generators from our schools and art schools.
+    theronin7 replied:
+    lol 'cheating tools'
+
+OVERRIDE: 
+
+
+--- #143  thumb_emoji_survivor  (1 comments, conf=0.8) ---
+LLM label: support_ban
+LLM reasoning: The user supports the exclusion of AI art, indicating a preference for banning it.
+
+  [1] Thread: Comic-Con Bans AI Art After Artist Pushback
+      >> MountHopeful wrote:
+      Also, a lot of vendors *will still* bring and sell AI art. Because it's impossible to prove.
+    thumb_emoji_survivor replied:
+    It’s not a courtroom, they can exclude artists if their work looks like AI and they can pound sand about “proof”
+
+OVERRIDE: 
+
+
+--- #144  waiting4singularity  (1 comments, conf=0.7) ---
+LLM label: support_ban
+LLM reasoning: The comment implies a negative view of AI-generated art, suggesting support for banning it.
+
+  [1] Thread: Comic-Con Bans AI Art After Artist Pushback
+      >> lurklurklurkPOST wrote:
+      Normalize the term "AI Imagery" in place of "AI Art"
+    waiting4singularity replied:
+    Algorithmic Inference remixed imagery using stolen assets
+
+OVERRIDE: 
+
+
+--- #145  xyz3d_  (2 comments, conf=0.9) ---
+LLM label: support_ban
+LLM reasoning: The user expresses agreement with the idea of banning AI-generated art.
+
+  [1] Thread: CMV: Generative AI Should be Banned
+      >> Purplekeyboard wrote:
+      The problem with this is that there are other countries outside the U.S.  The U.S. banning generative AI would simply result in the industry moving outside the U.S., and being controlled by these other countries.
+    xyz3d_ replied:
+    That's fine with me. Good riddance.
+
+  [2] Thread: CMV: Generative AI Should be Banned
+      >> Proporus wrote:
+      You realize that products made outside the US can be used inside the US, right?
+    xyz3d_ replied:
+    Says in my Han Solo voice, "I know."
+
+OVERRIDE: 
+
+
+--- #146  zushiba  (1 comments, conf=0.8) ---
+LLM label: support_ban
+LLM reasoning: The user suggests that AI art should only be used as a placeholder, implying support for restrictions.
+
+  [1] Thread: Comic-Con Bans AI Art After Artist Pushback
+    zushiba replied:
+    Why did this require pushback in the first place? AI art shouldn’t be used for anything other than placeholder.
+
+OVERRIDE: 

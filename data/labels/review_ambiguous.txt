@@ -84,7 +84,7 @@ LLM reasoning: The user acknowledges the subjectivity of art and seems to suppor
     
     Edit: I dont find smearing period blood on paper "artistic" but the fact that you do makes it art to you. Same way i find starry night to be the dumbest thing ever painted on a canvas you might feel otherwise. Just like beauty art is in the eyes of the beholder.
 
-LABEL: 
+LABEL: oppose_ban
 
 
 --- #4  Candelestine  (6 comments, conf=0.6) ---

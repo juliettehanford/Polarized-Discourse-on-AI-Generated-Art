@@ -1,0 +1,2182 @@
+{
+  "00PT": {
+    "stance": "ambiguous",
+    "confidence": 0.6,
+    "reasoning": "The user discusses the challenges of implementing a digital ID system for AI art but does not explicitly state a preference for banning or supporting AI-generated art."
+  },
+  "05032-MendicantBias": {
+    "stance": "oppose_ban",
+    "confidence": 0.8,
+    "reasoning": "The user argues that artists should be compensated for their work and compares AI art to photography, suggesting that banning AI art is unreasonable."
+  },
+  "10ebbor10": {
+    "stance": "ambiguous",
+    "confidence": 0.7,
+    "reasoning": "The user raises concerns about the implications of AI technology on artists but does not clearly advocate for or against a ban."
+  },
+  "3-DMan": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The user comments on attending comic conventions but does not engage with the topic of AI art or its ban."
+  },
+  "404mediaco": {
+    "stance": "support_ban",
+    "confidence": 0.9,
+    "reasoning": "The user provides context about Comic-Con's decision to ban AI art following artist backlash, indicating support for the ban."
+  },
+  "ACBReturns": {
+    "stance": "support_ban",
+    "confidence": 0.9,
+    "reasoning": "The user expresses approval of the ban on AI art at Comic-Con and calls for similar actions at other events."
+  },
+  "A_N_T": {
+    "stance": "oppose_ban",
+    "confidence": 0.8,
+    "reasoning": "The user reflects on past technological advancements in art, suggesting that AI should not be viewed as a threat to artists."
+  },
+  "A_Very_Horny_Zed": {
+    "stance": "ambiguous",
+    "confidence": 0.7,
+    "reasoning": "The user discusses the implications of banning AI art in different contexts but does not take a clear stance on whether it should be banned."
+  },
+  "Accomplished-Fix6598": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The user suggests that AI art could be categorized differently but does not express a clear opinion on banning it."
+  },
+  "According_Life_1806": {
+    "stance": "support_ban",
+    "confidence": 0.8,
+    "reasoning": "The user expresses a negative view of AI-generated art, suggesting it contributes nothing and implies support for a ban."
+  },
+  "Actual-Ad-6066": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment does not provide a clear stance on the issue."
+  },
+  "AdamsMelodyMachine": {
+    "stance": "ambiguous",
+    "confidence": 0.6,
+    "reasoning": "The comment discusses legal implications of AI misuse but does not explicitly support or oppose a ban."
+  },
+  "After_Broccoli_1069": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment is vague and does not clearly indicate a stance on banning AI art."
+  },
+  "Alarming_Meal_4714": {
+    "stance": "support_ban",
+    "confidence": 0.8,
+    "reasoning": "The user expresses concern about the potential negative impacts of AI-generated photorealistic video."
+  },
+  "Alive-Tomatillo5303": {
+    "stance": "support_ban",
+    "confidence": 0.7,
+    "reasoning": "The user acknowledges the reasonableness of banning AI art despite being pro-AI."
+  },
+  "Alkemeye": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment highlights issues with AI-generated content but does not take a clear stance on banning."
+  },
+  "AllTheRowboats93": {
+    "stance": "support_ban",
+    "confidence": 0.9,
+    "reasoning": "The user expresses frustration with AI-generated art and supports its ban."
+  },
+  "AlpsExciting1338": {
+    "stance": "support_ban",
+    "confidence": 0.7,
+    "reasoning": "The user advocates for heavy regulation of AI art, indicating a preference for restrictions."
+  },
+  "AnalysisBudget": {
+    "stance": "oppose_ban",
+    "confidence": 0.8,
+    "reasoning": "The user argues against banning AI art and criticizes those who want to do so."
+  },
+  "Andeol57": {
+    "stance": "oppose_ban",
+    "confidence": 0.9,
+    "reasoning": "The user argues against banning technology due to its bad uses, indicating opposition to a ban on AI art."
+  },
+  "AramaicDesigns": {
+    "stance": "oppose_ban",
+    "confidence": 0.9,
+    "reasoning": "The user argues that AI-generated art is still art and emphasizes the subjective nature of art."
+  },
+  "ArcadesRed": {
+    "stance": "support_ban",
+    "confidence": 0.8,
+    "reasoning": "The user advocates for banning any art created with computers, suggesting that only hand-made art is acceptable."
+  },
+  "ArchGaden": {
+    "stance": "ambiguous",
+    "confidence": 0.7,
+    "reasoning": "The user expresses a nuanced view, supporting AI in general but suggesting restrictions in traditional media contests."
+  },
+  "Argonaut13": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment is vague and does not clearly indicate a stance on the ban."
+  },
+  "ArgusTheCat": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment is off-topic and does not address the debate about AI art."
+  },
+  "AssignmentWeary1291": {
+    "stance": "ambiguous",
+    "confidence": 0.6,
+    "reasoning": "The user acknowledges the subjectivity of art and seems to support the idea of banning AI art but does not take a clear stance."
+  },
+  "Atrium41": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment does not directly address the debate about AI art and is more of a side note."
+  },
+  "AxeAssassinAlbertson": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment discusses an event but does not provide a clear stance on AI art."
+  },
+  "BackupChallenger": {
+    "stance": "support_ban",
+    "confidence": 0.7,
+    "reasoning": "The user suggests that generative AI should be banned to prevent misinformation and manipulation."
+  },
+  "Balmung60": {
+    "stance": "support_ban",
+    "confidence": 0.9,
+    "reasoning": "The user argues against generative AI, stating it lacks creativity and intentionality, and supports the idea of banning it."
+  },
+  "BavarianBarbarian_": {
+    "stance": "oppose_ban",
+    "confidence": 0.9,
+    "reasoning": "The user defends AI art and criticizes those who blame AI for negative consequences, suggesting that the issue lies with the critics rather than the technology itself."
+  },
+  "BeachBrad": {
+    "stance": "oppose_ban",
+    "confidence": 0.95,
+    "reasoning": "The user strongly advocates for AI art, claiming it is superior to human art and should be accepted, indicating a clear opposition to any ban."
+  },
+  "Beejsbj": {
+    "stance": "ambiguous",
+    "confidence": 0.6,
+    "reasoning": "The user expresses a mixed view, suggesting that AI could be beneficial for artists but also critiques the commodification of art, making their stance unclear."
+  },
+  "Beginning_Book_2382": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment is vague and does not provide a clear stance on AI art, simply stating a general principle."
+  },
+  "BeyondRedline": {
+    "stance": "support_ban",
+    "confidence": 0.7,
+    "reasoning": "The user expresses concern about the overwhelming amount of low-quality AI-generated content, suggesting a preference for restricting it."
+  },
+  "Big-Ad-2118": {
+    "stance": "support_ban",
+    "confidence": 0.8,
+    "reasoning": "The user acknowledges the value of AI but supports the idea of banning it in certain contexts, indicating a nuanced stance that leans towards supporting restrictions."
+  },
+  "BingBongFyourWife": {
+    "stance": "support_ban",
+    "confidence": 0.7,
+    "reasoning": "The user expresses a dislike for AI, which suggests a preference for banning or restricting it."
+  },
+  "BlackjackCounty": {
+    "stance": "support_ban",
+    "confidence": 0.9,
+    "reasoning": "The user outright states that there is no such thing as AI art, indicating a strong opposition to the concept of AI-generated art."
+  },
+  "Bluetails_Buizel": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment reflects dissatisfaction with moderation but does not clearly indicate a stance on AI art itself."
+  },
+  "Bossanova12345": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The user expresses a general discontent with Reddit but does not provide a clear opinion on AI art."
+  },
+  "BradleyM96": {
+    "stance": "oppose_ban",
+    "confidence": 0.95,
+    "reasoning": "The user argues against the necessity of banning AI art, claiming that the backlash is driven by elitist artists and that banning AI art will lead to discrimination and an echo chamber."
+  },
+  "BrekLasnar": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment seems to mock artists rather than directly addressing the ban on AI art, making the stance unclear."
+  },
+  "BuccalFatApologist": {
+    "stance": "support_ban",
+    "confidence": 0.7,
+    "reasoning": "The user suggests that AI-generated pieces should not compete with human-drawn pieces, indicating support for restrictions on AI art."
+  },
+  "ButterMyPancakesPlz": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment is vague and does not clearly express a stance on the ban of AI art."
+  },
+  "Candelestine": {
+    "stance": "ambiguous",
+    "confidence": 0.6,
+    "reasoning": "The user discusses the implications of technology on art but does not take a clear stance on whether AI art should be banned."
+  },
+  "CaptainTenilleTTV": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment is off-topic and does not address the debate about AI art directly."
+  },
+  "CartographerWorth": {
+    "stance": "support_ban",
+    "confidence": 0.8,
+    "reasoning": "The user acknowledges that banning AI art can be reasonable policy, indicating support for restrictions."
+  },
+  "CasaSatoshi": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment references a term without providing a clear stance on the ban of AI art."
+  },
+  "Cass0wary_399": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment reflects on the upvote ratio but does not clearly express a stance on the ban."
+  },
+  "CbfDetectedLoser": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment critiques the situation but does not take a clear stance on the ban of AI art."
+  },
+  "Celatine_": {
+    "stance": "ambiguous",
+    "confidence": 0.7,
+    "reasoning": "The user acknowledges the reasonableness of banning AI art but does not explicitly support or oppose the ban."
+  },
+  "Certain-Confection46": {
+    "stance": "ambiguous",
+    "confidence": 0.6,
+    "reasoning": "The user discusses government involvement in AI but does not take a clear stance on banning AI art."
+  },
+  "Chaghatai": {
+    "stance": "ambiguous",
+    "confidence": 0.7,
+    "reasoning": "The user discusses moderation policies without clearly supporting or opposing the ban on AI art."
+  },
+  "ChainGang315": {
+    "stance": "support_ban",
+    "confidence": 0.8,
+    "reasoning": "The user expresses a negative view of AI art, suggesting it lacks artistic value."
+  },
+  "Championship_Hairy": {
+    "stance": "support_ban",
+    "confidence": 0.8,
+    "reasoning": "The user criticizes the quality of AI art and seems to support restrictions on it."
+  },
+  "Charliefoxkit": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment is vague and does not clearly indicate a stance on banning AI art."
+  },
+  "CharmingMilk9575": {
+    "stance": "support_ban",
+    "confidence": 0.9,
+    "reasoning": "The user argues against AI art, emphasizing the lack of skill and emotional depth in AI-generated works."
+  },
+  "Chee-shep": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment expresses a negative sentiment towards AI art conventions but does not take a clear stance on banning AI art."
+  },
+  "ChewieDecimalSystem": {
+    "stance": "support_ban",
+    "confidence": 0.8,
+    "reasoning": "The user compares AI art to film production, emphasizing the lack of human contribution and suggesting a preference for human-created art."
+  },
+  "ChickenFriedPenguin": {
+    "stance": "oppose_ban",
+    "confidence": 0.7,
+    "reasoning": "The user argues that both AI and traditional art are valid, suggesting opposition to banning AI art."
+  },
+  "ChristofferMakela": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment is off-topic and does not directly address the issue of AI art."
+  },
+  "ChronaMewX": {
+    "stance": "ambiguous",
+    "confidence": 0.6,
+    "reasoning": "The user acknowledges the ban as reasonable but does not clearly state a stance on AI art itself."
+  },
+  "Chubuwee": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment suggests a test for AI art acceptance but does not express a clear opinion on banning it."
+  },
+  "Ciappatos": {
+    "stance": "support_ban",
+    "confidence": 0.7,
+    "reasoning": "The comment implies support for the ban by highlighting that artists had to push for it."
+  },
+  "ClintonBooker": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment does not provide a clear stance on AI art or the ban."
+  },
+  "Complex-Bad-3250": {
+    "stance": "oppose_ban",
+    "confidence": 0.8,
+    "reasoning": "The user argues against the comparison of AI art to natural diamonds, suggesting a defense of human art's uniqueness."
+  },
+  "Consistent-Mastodon": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comments critique the reasoning behind the ban but do not clearly support or oppose it."
+  },
+  "Corevus": {
+    "stance": "support_ban",
+    "confidence": 0.8,
+    "reasoning": "The user expresses agreement with the ban and states that there is no such thing as 'AI art'."
+  },
+  "CreamisTasty": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment is off-topic and does not address the debate about AI art."
+  },
+  "CritiKat": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment is off-topic and does not relate to the AI art debate."
+  },
+  "DaddyKiwwi": {
+    "stance": "oppose_ban",
+    "confidence": 0.9,
+    "reasoning": "The user argues that artists will continue to use AI tools and that the medium does not matter as long as the art is appreciated."
+  },
+  "Darqnyz7": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment is more of a critique of certain individuals rather than a clear stance on banning AI art."
+  },
+  "DarthJDP": {
+    "stance": "ambiguous",
+    "confidence": 0.6,
+    "reasoning": "The user raises questions about the detection of AI art but does not explicitly state a position on banning it."
+  },
+  "DaveSureLong": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The user acknowledges the bans as reasonable but does not clearly support or oppose them."
+  },
+  "Dave_A480": {
+    "stance": "oppose_ban",
+    "confidence": 0.9,
+    "reasoning": "The user argues against the feasibility of banning AI and suggests that such efforts would be futile."
+  },
+  "David-J": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comments focus on technical aspects of art creation rather than a clear stance on banning AI art."
+  },
+  "Dazzling-Ocelot-5649": {
+    "stance": "support_ban",
+    "confidence": 0.8,
+    "reasoning": "The user explicitly states that AI should be banned for public use."
+  },
+  "Deelystandanishman": {
+    "stance": "support_ban",
+    "confidence": 0.9,
+    "reasoning": "The user expresses concern about job loss due to AI and argues that it poses a serious risk."
+  },
+  "Deli-op": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The user discusses the implications of banning AI art but does not take a clear stance."
+  },
+  "Delicious-Economy232": {
+    "stance": "support_ban",
+    "confidence": 0.7,
+    "reasoning": "The user suggests enforcing laws against generative AI, indicating support for restrictions."
+  },
+  "DeltaBot": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comments do not express a clear stance on AI-generated art."
+  },
+  "DemIce": {
+    "stance": "support_ban",
+    "confidence": 0.9,
+    "reasoning": "The user expresses a strong negative view on AI art, referring to it as 'regurgitating stolen work'."
+  },
+  "DepthMagician": {
+    "stance": "ambiguous",
+    "confidence": 0.6,
+    "reasoning": "The user discusses the value of human expression in art but does not explicitly support or oppose a ban."
+  },
+  "Devourer_of_HP": {
+    "stance": "support_ban",
+    "confidence": 0.8,
+    "reasoning": "The user acknowledges the reasonableness of banning AI art despite being pro-AI."
+  },
+  "Dew-Fox-6899": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comments focus on the effectiveness of bans rather than expressing a clear stance."
+  },
+  "DiamondDepth_YT": {
+    "stance": "support_ban",
+    "confidence": 0.8,
+    "reasoning": "The user supports the community's decision to ban AI art, indicating a preference for restrictions."
+  },
+  "Didsterchap11": {
+    "stance": "support_ban",
+    "confidence": 0.9,
+    "reasoning": "The user describes the furry community as being 'viscerally anti AI', indicating strong support for banning AI art."
+  },
+  "Different-Ice6075": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment suggests a misunderstanding of the concept of AI art rather than a clear stance on banning it."
+  },
+  "DiogenesKuon": {
+    "stance": "oppose_ban",
+    "confidence": 0.9,
+    "reasoning": "The user argues against banning AI art by comparing it to traditional artistic practices."
+  },
+  "Double-Blueberry-213": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comments do not clearly support or oppose a ban, focusing instead on the ineffectiveness of bans in general."
+  },
+  "Dragon50110": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment discusses legal implications of AI but does not clearly support or oppose a ban."
+  },
+  "DreddCarnage": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment is vague and does not express a clear stance on banning AI art."
+  },
+  "DryTradition6576": {
+    "stance": "support_ban",
+    "confidence": 0.9,
+    "reasoning": "The user explicitly states agreement with banning generative AI due to concerns about trust and misinformation."
+  },
+  "Dziadzios": {
+    "stance": "ambiguous",
+    "confidence": 0.6,
+    "reasoning": "The user acknowledges the reasonableness of banning AI art but also supports AI, leading to a mixed stance."
+  },
+  "EGO_Prime": {
+    "stance": "oppose_ban",
+    "confidence": 0.9,
+    "reasoning": "The user defends the complexity and creativity involved in AI art creation, opposing the idea of a ban."
+  },
+  "Easy-Society-7817": {
+    "stance": "support_ban",
+    "confidence": 0.8,
+    "reasoning": "The user argues that AI does not create true art, indicating support for a ban."
+  },
+  "Educated_opinion101": {
+    "stance": "support_ban",
+    "confidence": 0.9,
+    "reasoning": "The user expresses strong frustration with AI art, indicating a clear support for banning it."
+  },
+  "Elvarien2": {
+    "stance": "ambiguous",
+    "confidence": 0.6,
+    "reasoning": "The user supports banning low-quality AI art but suggests allowing high-quality AI art, leading to a mixed stance."
+  },
+  "EngineerBig1851": {
+    "stance": "oppose_ban",
+    "confidence": 0.8,
+    "reasoning": "The user mocks the idea of banning AI art and defends the use of AI in creative processes."
+  },
+  "Evinceo": {
+    "stance": "support_ban",
+    "confidence": 0.7,
+    "reasoning": "The user discusses legislative measures that would effectively ban generative AI, indicating support for a ban."
+  },
+  "Fabulous_Care_8955": {
+    "stance": "support_ban",
+    "confidence": 0.9,
+    "reasoning": "The user expresses a clear stance against AI-generated art, stating that it constitutes stealing from other artists."
+  },
+  "Feataler": {
+    "stance": "support_ban",
+    "confidence": 0.8,
+    "reasoning": "The user argues that AI is in direct competition with digital art and could cause catastrophic damage, indicating a preference for banning AI."
+  },
+  "Feroc": {
+    "stance": "oppose_ban",
+    "confidence": 0.9,
+    "reasoning": "The user advocates for adapting to AI in education and argues that using AI tools is not cheating, suggesting a defense of AI art."
+  },
+  "FigulousPrime": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment is vague and does not clearly indicate a stance on the ban."
+  },
+  "Filter55": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comments do not provide a clear stance on AI-generated art, focusing instead on the accessibility of art."
+  },
+  "ForgottenFrenchFry": {
+    "stance": "ambiguous",
+    "confidence": 0.6,
+    "reasoning": "The user identifies as pro-AI but acknowledges that banning AI art is reasonable, indicating a mixed stance."
+  },
+  "FpRhGf": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment does not express a clear stance on the ban, focusing instead on the user's interest in subreddits."
+  },
+  "Franky_Tops": {
+    "stance": "support_ban",
+    "confidence": 0.8,
+    "reasoning": "The user implies that AI art devalues actual artists, suggesting support for banning AI-generated art."
+  },
+  "FromIdeologytoUnity": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The user discusses the banning of content in subreddits without a clear stance on AI-generated art."
+  },
+  "General_Platypus771": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment raises concerns about AI but does not explicitly support or oppose a ban on AI-generated art."
+  },
+  "GingerTea69": {
+    "stance": "oppose_ban",
+    "confidence": 0.8,
+    "reasoning": "The user suggests categorizing AI and non-AI art rather than banning it, indicating a preference for coexistence."
+  },
+  "Gman749": {
+    "stance": "oppose_ban",
+    "confidence": 0.9,
+    "reasoning": "The user expresses support for AI art and criticizes those who want to ban it, suggesting that they should find spaces that celebrate AI art."
+  },
+  "GrowFreeFood": {
+    "stance": "ambiguous",
+    "confidence": 0.6,
+    "reasoning": "The user suggests labeling AI art but does not explicitly support or oppose a ban."
+  },
+  "HD144p": {
+    "stance": "support_ban",
+    "confidence": 0.7,
+    "reasoning": "The user acknowledges that banning AI art is reasonable if the majority wants it, indicating support for a ban."
+  },
+  "Happler": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The user comments on the sale of AI art but does not express a clear stance on banning it."
+  },
+  "HaxboyYT": {
+    "stance": "support_ban",
+    "confidence": 0.9,
+    "reasoning": "The user argues against generative AI capable of producing realistic images and expresses a desire for restrictions, indicating support for a ban."
+  },
+  "Hereibe": {
+    "stance": "ambiguous",
+    "confidence": 0.4,
+    "reasoning": "The user makes a humorous comment without providing a clear stance on the issue."
+  },
+  "Historical-Nail9621": {
+    "stance": "support_ban",
+    "confidence": 0.8,
+    "reasoning": "The user discusses the confusion around defining art and implies a preference for banning AI-generated art in schools."
+  },
+  "Historical_Nail1882": {
+    "stance": "support_ban",
+    "confidence": 0.7,
+    "reasoning": "The user suggests that AI has fallen into the wrong hands, indicating a concern that aligns with supporting a ban."
+  },
+  "HiveInMind": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The user shares an anecdote about a vendor selling AI art but does not express a clear opinion on banning it."
+  },
+  "Houdinii1984": {
+    "stance": "ambiguous",
+    "confidence": 0.7,
+    "reasoning": "The user acknowledges the complexity of the issue and suggests a case-by-case approach, indicating a mixed stance."
+  },
+  "HypnoticName": {
+    "stance": "support_ban",
+    "confidence": 0.9,
+    "reasoning": "The user explicitly states that AI-generated images are not art and supports banning them."
+  },
+  "ImaKant": {
+    "stance": "ambiguous",
+    "confidence": 0.6,
+    "reasoning": "The user questions the definition of art but does not clearly support or oppose the ban."
+  },
+  "Immediate_Song4279": {
+    "stance": "oppose_ban",
+    "confidence": 0.8,
+    "reasoning": "The user argues against the unreasonable standards set by subreddits and advocates for a more nuanced approach."
+  },
+  "Interesting_Log-64": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The user discusses moderation and AI's role but does not take a clear stance on banning AI art."
+  },
+  "IronBloodForgeAI": {
+    "stance": "oppose_ban",
+    "confidence": 0.7,
+    "reasoning": "The user implies that trying to ban AI art is futile, suggesting opposition to the ban."
+  },
+  "IronLover64": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The user makes a comparison to censorship but does not clearly express support or opposition to the ban."
+  },
+  "JTSG12": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The user raises a question about watermarks without taking a clear stance on the ban."
+  },
+  "Jaguar77789": {
+    "stance": "support_ban",
+    "confidence": 0.8,
+    "reasoning": "The user supports the idea of demonstrating artistic ability to prevent AI-generated art from being accepted."
+  },
+  "JamesR624": {
+    "stance": "support_ban",
+    "confidence": 0.9,
+    "reasoning": "The user argues that banning low-effort AI art is acceptable, indicating support for restrictions."
+  },
+  "Jamie_1318": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment discusses the ineffectiveness of a proposed solution without clearly stating a stance on banning AI art."
+  },
+  "Jean_velvet": {
+    "stance": "ambiguous",
+    "confidence": 0.6,
+    "reasoning": "The user acknowledges the reasonableness of banning AI art but does not explicitly support or oppose the ban."
+  },
+  "Jinkuzu": {
+    "stance": "support_ban",
+    "confidence": 0.9,
+    "reasoning": "The user clearly states a firm belief that AI needs to be banned due to its negative impacts."
+  },
+  "JoeShmoe818": {
+    "stance": "oppose_ban",
+    "confidence": 0.9,
+    "reasoning": "The user argues against banning AI art, suggesting that it could lead to worse outcomes and emphasizes the benefits of AI in art."
+  },
+  "Journeyj012": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment is off-topic and does not address the debate about banning AI art."
+  },
+  "Judy_Hopeful": {
+    "stance": "support_ban",
+    "confidence": 0.9,
+    "reasoning": "The user expresses a strong opinion that AI art is not art and implies it should not be accepted."
+  },
+  "KAlikethewind1919": {
+    "stance": "support_ban",
+    "confidence": 0.8,
+    "reasoning": "The user believes AI art robs art of its essence and expresses a desire for human-made art to prevail."
+  },
+  "Ka_Trewq": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The user discusses the nuances of AI art and competition rules without taking a clear stance on banning AI art."
+  },
+  "KajaIsForeverAlone": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The user agrees with the reasonableness of banning AI art but does not express a personal stance."
+  },
+  "KatuTiel": {
+    "stance": "support_ban",
+    "confidence": 0.8,
+    "reasoning": "The user argues that AI art lacks creativity and talent, suggesting it should not be considered valid art."
+  },
+  "Kavril91": {
+    "stance": "ambiguous",
+    "confidence": 0.7,
+    "reasoning": "The user acknowledges the right of subreddits to ban AI art but expresses a personal choice to avoid those subreddits, indicating a neutral stance."
+  },
+  "Kedly": {
+    "stance": "ambiguous",
+    "confidence": 0.7,
+    "reasoning": "The user expresses a preference for avoiding subreddits that ban AI art for mental health reasons, but does not clearly support or oppose the ban."
+  },
+  "KenUsimi": {
+    "stance": "support_ban",
+    "confidence": 0.9,
+    "reasoning": "The user explicitly supports the ban, arguing that it allows traditional artists to receive the attention they deserve."
+  },
+  "Kerrus": {
+    "stance": "ambiguous",
+    "confidence": 0.6,
+    "reasoning": "The user discusses the negative reactions from communities towards AI art but does not take a clear stance on whether it should be banned."
+  },
+  "Kingreaper": {
+    "stance": "oppose_ban",
+    "confidence": 0.9,
+    "reasoning": "The user argues against the ban, stating that it would not solve the issues associated with AI and could lead to more problems."
+  },
+  "Kinks4Kelly": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The user comments on the inconsistency of subreddit policies regarding AI but does not express a clear stance on banning AI art."
+  },
+  "KorwinD": {
+    "stance": "ambiguous",
+    "confidence": 0.6,
+    "reasoning": "The user questions the rationale behind banning AI art but does not explicitly support or oppose the ban."
+  },
+  "Kriznick": {
+    "stance": "support_ban",
+    "confidence": 0.9,
+    "reasoning": "The user supports the ban, emphasizing that Comic-Con should focus on traditional art rather than AI-generated content."
+  },
+  "Kukamakachu": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The user makes a historical reference that does not clearly relate to the debate on AI art, indicating a neutral stance."
+  },
+  "Kuneria": {
+    "stance": "support_ban",
+    "confidence": 0.9,
+    "reasoning": "The user expresses frustration with AI art at creator events and supports the trend of banning it."
+  },
+  "LegacyofaMarshall": {
+    "stance": "support_ban",
+    "confidence": 0.9,
+    "reasoning": "The user explicitly states that AI 'art' is not art, indicating a strong opposition to AI-generated art."
+  },
+  "LegalComplaint": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment raises a question about access to art creation but does not clearly support or oppose a ban on AI art."
+  },
+  "LegitPhoton": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment suggests a concern about the indistinguishability of AI-generated art but does not take a clear stance on banning it."
+  },
+  "LengthyLegato114514": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment is a reaction to another user's post and does not express a clear opinion on the ban."
+  },
+  "Level69Troll": {
+    "stance": "ambiguous",
+    "confidence": 0.6,
+    "reasoning": "The user discusses potential issues with AI but does not explicitly support or oppose a ban."
+  },
+  "Locrian6669": {
+    "stance": "support_ban",
+    "confidence": 0.8,
+    "reasoning": "The user acknowledges that banning AI art is a reasonable policy, indicating support for restrictions."
+  },
+  "Loki1001": {
+    "stance": "support_ban",
+    "confidence": 0.9,
+    "reasoning": "The user argues that AI-generated art lacks artistic worth and suggests that it should not replace traditional art."
+  },
+  "LongNailedbooboos": {
+    "stance": "support_ban",
+    "confidence": 0.9,
+    "reasoning": "The user states that AI isn't art and implies a negative view of AI-generated art."
+  },
+  "MFoy": {
+    "stance": "support_ban",
+    "confidence": 0.8,
+    "reasoning": "The user discusses the expansion of existing bans on AI art, indicating support for the ban."
+  },
+  "Mad_Maddin": {
+    "stance": "oppose_ban",
+    "confidence": 0.9,
+    "reasoning": "The user argues against the effectiveness of banning AI and highlights the transformative potential of AI in art."
+  },
+  "MagikarpOnDrugs": {
+    "stance": "support_ban",
+    "confidence": 0.9,
+    "reasoning": "The user explicitly states that AI-generated art is not art and advocates for it to be banned, viewing it as theft."
+  },
+  "Mango-is-Mango": {
+    "stance": "support_ban",
+    "confidence": 0.8,
+    "reasoning": "The user argues that AI art relies on using others' work, indicating a stance against AI-generated art."
+  },
+  "ManicMudslide": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The user expresses dissatisfaction with AI art but does not clearly advocate for a ban or support it."
+  },
+  "Marshall_Lawson": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The user asks a question about AI imagery without expressing a clear stance on banning or supporting AI art."
+  },
+  "Massive-Victory-5709": {
+    "stance": "support_ban",
+    "confidence": 0.8,
+    "reasoning": "The user criticizes those defending AI art and implies that such defenses are foolish, suggesting support for a ban."
+  },
+  "Mataric": {
+    "stance": "ambiguous",
+    "confidence": 0.6,
+    "reasoning": "The user acknowledges the right to ban AI art but expresses a personal disagreement, indicating a mixed stance."
+  },
+  "Matyaslike": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The user comments on the closed-mindedness of people but does not take a clear position on banning AI art."
+  },
+  "MeatCatRazzmatazz": {
+    "stance": "support_ban",
+    "confidence": 0.9,
+    "reasoning": "The user strongly criticizes AI art, arguing it lacks the skill and dedication required for traditional art, indicating support for a ban."
+  },
+  "MelonElbows": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The user discusses the need for verification of art processes without taking a clear stance on AI art itself."
+  },
+  "MetapodChannel": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The user acknowledges the reasonableness of banning AI art but does not express a strong personal stance."
+  },
+  "MintTangerine": {
+    "stance": "support_ban",
+    "confidence": 0.7,
+    "reasoning": "The comment suggests a general support for banning AI art at events."
+  },
+  "MissNouveau": {
+    "stance": "oppose_ban",
+    "confidence": 0.8,
+    "reasoning": "The user discusses the challenges artists face and implies support for smaller conventions that may not ban AI art."
+  },
+  "MizarTheEdgelord": {
+    "stance": "oppose_ban",
+    "confidence": 0.9,
+    "reasoning": "The comments defend the use of AI in art and question the rejection of AI by some artists."
+  },
+  "MonstrousMajestic": {
+    "stance": "ambiguous",
+    "confidence": 0.6,
+    "reasoning": "The user expresses a pro-AI stance but acknowledges the reasonableness of banning AI art, leading to mixed signals."
+  },
+  "MountHopeful": {
+    "stance": "ambiguous",
+    "confidence": 0.7,
+    "reasoning": "The comments reflect concerns about the implications of banning AI art but do not clearly support or oppose the ban."
+  },
+  "Mr_Dr_Prof_Derp": {
+    "stance": "support_ban",
+    "confidence": 0.9,
+    "reasoning": "The user explicitly calls for a ban on AI-generated images in schools and art schools."
+  },
+  "Mtf-alpha-4-last-hip": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment is vague and does not clearly indicate a stance on the ban."
+  },
+  "MumrikDK": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comments are more observational and do not express a clear opinion on the ban."
+  },
+  "Muroid": {
+    "stance": "ambiguous",
+    "confidence": 0.6,
+    "reasoning": "The comment indicates sarcasm but does not provide a clear stance on the issue."
+  },
+  "Myslinky": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment is off-topic and does not address the debate about AI art."
+  },
+  "MysteriousPepper8908": {
+    "stance": "oppose_ban",
+    "confidence": 0.9,
+    "reasoning": "The user argues against blanket bans on AI art, emphasizing the importance of quality content and the potential for abuse by moderators."
+  },
+  "Nago_Jolokio": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment discusses enforcement of rules but does not clearly express a stance on banning AI art."
+  },
+  "Namika": {
+    "stance": "oppose_ban",
+    "confidence": 0.8,
+    "reasoning": "The user suggests that banning AI generation is impractical and acknowledges that AI is here to stay."
+  },
+  "NaturalCarob5611": {
+    "stance": "oppose_ban",
+    "confidence": 0.9,
+    "reasoning": "The user argues against the proposed ban, highlighting the economic implications of such a decision."
+  },
+  "Nervous-Ad2295": {
+    "stance": "oppose_ban",
+    "confidence": 0.8,
+    "reasoning": "The user equates censorship with banning AI art, suggesting a defense of free expression."
+  },
+  "NikkyD1": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment is vague and does not provide a clear stance on the issue."
+  },
+  "No-Channel3917": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment critiques Comic-Con's motivations but does not directly address the ban on AI art."
+  },
+  "No-Manufacturer4916": {
+    "stance": "support_ban",
+    "confidence": 0.9,
+    "reasoning": "The user expresses a strong negative opinion about AI art, labeling it as 'stolen hackjob inauthentic trash'."
+  },
+  "No-Zookeepergame8837": {
+    "stance": "oppose_ban",
+    "confidence": 0.8,
+    "reasoning": "The user discusses the presence of anti-AI sentiment in subreddits, indicating a defense of AI art."
+  },
+  "No_Big_Plane": {
+    "stance": "oppose_ban",
+    "confidence": 0.9,
+    "reasoning": "The user argues that banning generative AI is impractical and discusses the need for society to adapt to technological advances."
+  },
+  "No_Fig_9599": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The user suggests a requirement for watermarks but does not explicitly state a clear stance on banning AI art."
+  },
+  "Norci": {
+    "stance": "oppose_ban",
+    "confidence": 0.9,
+    "reasoning": "The user argues that AI is just a tool for creating art and emphasizes the importance of human intention behind art."
+  },
+  "Novaskittles": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment does not provide a clear stance on AI art, merely stating an observation."
+  },
+  "OD1NM4STER": {
+    "stance": "support_ban",
+    "confidence": 0.9,
+    "reasoning": "The user expresses strong negative feelings towards AI art, stating it lacks effort and emotion, and believes it should not be considered art."
+  },
+  "OVAWARE": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment does not provide a clear stance on AI art, focusing instead on a personal game."
+  },
+  "OhK4Foo7": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comments are questions and do not express a clear opinion on AI art."
+  },
+  "Okkre": {
+    "stance": "support_ban",
+    "confidence": 0.8,
+    "reasoning": "The user dismisses AI-generated art as not being art and compares it unfavorably to traditional artistic processes."
+  },
+  "Old-Zookeepergame503": {
+    "stance": "support_ban",
+    "confidence": 0.8,
+    "reasoning": "The user acknowledges the value of traditional art and expresses a negative view towards AI art."
+  },
+  "Otherwise_Ask_9542": {
+    "stance": "ambiguous",
+    "confidence": 0.6,
+    "reasoning": "The user discusses the need for regulation and acknowledges both the potential and risks of AI, but does not take a clear stance on banning."
+  },
+  "OttersWithPens": {
+    "stance": "oppose_ban",
+    "confidence": 0.9,
+    "reasoning": "The user defends AI art and criticizes the anti-AI sentiment, suggesting that AI art is beneficial."
+  },
+  "Outrageous-Memory246": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment does not clearly express a stance on AI art; it seems to be a general statement about value."
+  },
+  "Outrageous-Part7294": {
+    "stance": "support_ban",
+    "confidence": 0.9,
+    "reasoning": "The user expresses concern for artists being robbed and suggests that AI art could harm human artists."
+  },
+  "Outrageous_Guard_674": {
+    "stance": "ambiguous",
+    "confidence": 0.6,
+    "reasoning": "The comments reflect a mix of skepticism about banning AI art and a belief in the evolution of art tools, making the stance unclear."
+  },
+  "PadiddleHopper": {
+    "stance": "support_ban",
+    "confidence": 0.8,
+    "reasoning": "The user shares a negative experience with AI art being misrepresented and supports banning it in markets."
+  },
+  "Paranitis": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment is off-topic and does not address the debate about AI art directly."
+  },
+  "PastaPandaSimon": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment discusses the implications of banning AI art but does not take a clear stance."
+  },
+  "Pathseeker08": {
+    "stance": "ambiguous",
+    "confidence": 0.6,
+    "reasoning": "The user acknowledges the reasonableness of banning AI art while also expressing a pro-AI sentiment, leading to a mixed stance."
+  },
+  "PeachyPlnk": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment discusses the presence of AI art on Reddit but does not clearly support or oppose a ban."
+  },
+  "Penny_D": {
+    "stance": "ambiguous",
+    "confidence": 0.6,
+    "reasoning": "The user suggests a policy for AI art but does not explicitly support or oppose a ban, indicating a mixed stance."
+  },
+  "Percy1803": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comments are focused on a specific argument rather than the broader debate about AI art."
+  },
+  "Playme_ai": {
+    "stance": "oppose_ban",
+    "confidence": 0.9,
+    "reasoning": "The user explicitly states that AI images are good and should be legal, indicating a strong opposition to banning AI-generated art."
+  },
+  "PlebeianKing36": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The user discusses the affordability and appeal of AI art at conventions but does not clearly express a stance on banning AI art."
+  },
+  "Plenty_Branch_516": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comments focus on competition rules and do not directly address the issue of banning AI-generated art."
+  },
+  "Plokhi": {
+    "stance": "ambiguous",
+    "confidence": 0.6,
+    "reasoning": "The user discusses the impact of AI on art and expresses concerns but does not take a clear stance on banning AI-generated art."
+  },
+  "PokePress": {
+    "stance": "oppose_ban",
+    "confidence": 0.8,
+    "reasoning": "The user supports the idea of banning AI art in certain contexts but emphasizes that pro-AI individuals should recognize the reasonableness of such bans."
+  },
+  "Poly_and_RA": {
+    "stance": "support_ban",
+    "confidence": 0.7,
+    "reasoning": "The user argues that photography replaced traditional art forms, suggesting a belief that AI could similarly disrupt the art world, indicating support for restrictions."
+  },
+  "Pretend_Jacket1629": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comments critique the motivations behind bans but do not clearly indicate a personal stance on whether AI-generated art should be banned."
+  },
+  "Pristine_Sample7323": {
+    "stance": "oppose_ban",
+    "confidence": 0.7,
+    "reasoning": "The user suggests reasonable rules for AI posts rather than outright bans, indicating a preference for moderation over prohibition."
+  },
+  "ProfSkeevs": {
+    "stance": "support_ban",
+    "confidence": 0.9,
+    "reasoning": "The user expresses a strong preference for art that reflects human experience and intention, indicating a clear opposition to AI-generated art."
+  },
+  "Professional_Gur2469": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The user acknowledges the inevitability of AI advancements but does not take a clear stance on whether AI-generated art should be banned."
+  },
+  "Proporus": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment does not express a clear stance on banning AI-generated art."
+  },
+  "Protolictor": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comments focus on enforcement and logistics rather than expressing a clear opinion on banning AI art."
+  },
+  "Public_Switch8168": {
+    "stance": "support_ban",
+    "confidence": 0.8,
+    "reasoning": "The user acknowledges the concerns about job loss due to AI art and suggests that banning AI art is a reasonable policy."
+  },
+  "Purplekeyboard": {
+    "stance": "ambiguous",
+    "confidence": 0.6,
+    "reasoning": "The user discusses the implications of banning AI art but does not explicitly support or oppose the ban."
+  },
+  "Puzzleheaded_Page_91": {
+    "stance": "oppose_ban",
+    "confidence": 0.9,
+    "reasoning": "The user argues against banning AI art and suggests a framework for its responsible use instead."
+  },
+  "QuizzicalRequests": {
+    "stance": "oppose_ban",
+    "confidence": 0.9,
+    "reasoning": "The user defends the legality of AI-generated art and argues against the notion of banning it."
+  },
+  "RICH_homie_Doug": {
+    "stance": "support_ban",
+    "confidence": 0.7,
+    "reasoning": "The user acknowledges the reasonableness of banning AI art in certain contexts."
+  },
+  "RUSnowcone": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment is off-topic and does not address the debate about banning AI art."
+  },
+  "RadzimierzWozniak": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comments focus on enforcement rather than expressing a clear opinion on banning AI art."
+  },
+  "Raving_Lunatic69": {
+    "stance": "oppose_ban",
+    "confidence": 0.8,
+    "reasoning": "The user argues that exposure to copyrighted material is a natural part of artistic development, suggesting opposition to banning AI art."
+  },
+  "Realistic_Reserve942": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment lacks clear support or opposition to the ban."
+  },
+  "Reasonable_Turn_3774": {
+    "stance": "support_ban",
+    "confidence": 0.8,
+    "reasoning": "The user acknowledges the reasonableness of banning AI art despite being pro-AI."
+  },
+  "Rebal771": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comments are facetious and do not clearly indicate a stance on banning AI art."
+  },
+  "RedofPaw": {
+    "stance": "support_ban",
+    "confidence": 0.9,
+    "reasoning": "The user expresses concern that AI art devalues traditional art and could harm the medium."
+  },
+  "Ricoshete": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comments are unclear and do not take a definitive stance on the ban."
+  },
+  "Robot1me": {
+    "stance": "support_ban",
+    "confidence": 0.9,
+    "reasoning": "The user compares AI images to fast food, indicating a negative view of their quality and value."
+  },
+  "RokuDeer": {
+    "stance": "support_ban",
+    "confidence": 0.9,
+    "reasoning": "The user clearly states that AI art will harm conventions."
+  },
+  "Rough_Tea6422": {
+    "stance": "support_ban",
+    "confidence": 0.8,
+    "reasoning": "The user expresses a strong negative view of AI art and its impact on society."
+  },
+  "Rousinglines": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment does not provide a clear stance on the ban."
+  },
+  "SLCPDSoakingDivision": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comments discuss perceptions of AI but do not clearly support or oppose the ban."
+  },
+  "Saint_of_Grey": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment does not clearly express a stance on banning AI art."
+  },
+  "Schiffy94": {
+    "stance": "oppose_ban",
+    "confidence": 0.8,
+    "reasoning": "The user expresses frustration with the decision to ban AI art after complaints, indicating opposition to the ban."
+  },
+  "SexyBisamrotte": {
+    "stance": "support_ban",
+    "confidence": 0.7,
+    "reasoning": "The user describes AI art as 'shitty', suggesting a negative view towards it."
+  },
+  "Sgt-Colbert": {
+    "stance": "support_ban",
+    "confidence": 0.9,
+    "reasoning": "The user argues that AI-generated content lacks meaning and cannot be considered art, indicating support for banning it."
+  },
+  "Sheepolution": {
+    "stance": "ambiguous",
+    "confidence": 0.6,
+    "reasoning": "The user discusses arguments against AI art but does not explicitly state a position on banning it."
+  },
+  "Similar_Geologist_73": {
+    "stance": "support_ban",
+    "confidence": 0.8,
+    "reasoning": "The user acknowledges that banning AI art is a reasonable policy, indicating support for restrictions."
+  },
+  "SirCrapsalot4267": {
+    "stance": "oppose_ban",
+    "confidence": 0.9,
+    "reasoning": "The user argues against a blanket ban and suggests regulation instead, indicating opposition to banning AI art."
+  },
+  "Sixhaunt": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment does not clearly express a stance on banning AI art."
+  },
+  "SledgexHammer": {
+    "stance": "oppose_ban",
+    "confidence": 0.8,
+    "reasoning": "The user argues against local bans, suggesting that banning AI art would be ineffective."
+  },
+  "SlightOfHand_": {
+    "stance": "support_ban",
+    "confidence": 0.8,
+    "reasoning": "The user expresses concern about normalizing AI tools linked to cheating and theft, indicating support for a ban."
+  },
+  "SnooCats5204": {
+    "stance": "ambiguous",
+    "confidence": 0.6,
+    "reasoning": "The user presents a nuanced view, suggesting that context matters for the sharing of AI art, which makes their stance unclear."
+  },
+  "Snoo_42276": {
+    "stance": "oppose_ban",
+    "confidence": 0.8,
+    "reasoning": "The user argues against the need for a ban, suggesting that market demand will lead to solutions."
+  },
+  "Snotsky": {
+    "stance": "support_ban",
+    "confidence": 0.7,
+    "reasoning": "The user acknowledges the need for subreddits to have policies that may include banning AI art, indicating support for restrictions."
+  },
+  "Snuffalapapuss": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The user expresses mixed feelings, enjoying AI art but also recognizing the limitations and potential issues, making their stance unclear."
+  },
+  "SopaPyaConCoca": {
+    "stance": "support_ban",
+    "confidence": 0.7,
+    "reasoning": "The user discusses the need for a worldwide ban on AI-generated content, indicating support for restrictions."
+  },
+  "Squidlips413": {
+    "stance": "support_ban",
+    "confidence": 0.6,
+    "reasoning": "The user acknowledges that not wanting AI in certain spaces is reasonable, suggesting support for restrictions."
+  },
+  "Stormydaycoffee": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The user expresses a complex view, supporting manual art in schools while also recognizing the value of AI, leading to an unclear stance."
+  },
+  "StoryLineOne": {
+    "stance": "ambiguous",
+    "confidence": 0.4,
+    "reasoning": "The comment is focused on the utility of AI for prototyping rather than expressing a clear stance on banning AI art."
+  },
+  "StrangeCrunchy1": {
+    "stance": "support_ban",
+    "confidence": 0.8,
+    "reasoning": "The user describes the situation as artistic censorship, indicating a strong opposition to AI art."
+  },
+  "Strange_cat_": {
+    "stance": "support_ban",
+    "confidence": 0.9,
+    "reasoning": "The user discusses legislation aimed at regulating AI content, indicating strong support for restrictions."
+  },
+  "Striking-Long-2960": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The user acknowledges the use of AI in various media but does not explicitly state a clear stance on banning AI art."
+  },
+  "Successful_Brief_751": {
+    "stance": "support_ban",
+    "confidence": 0.9,
+    "reasoning": "The user argues that art subs are for human-made art and criticizes AI art supporters for feeling discriminated against."
+  },
+  "SufficientWarpSpider": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment does not provide a clear stance on banning AI art, focusing instead on societal observations."
+  },
+  "SummerEchoes": {
+    "stance": "support_ban",
+    "confidence": 0.8,
+    "reasoning": "The user expresses understanding for the bans due to the perceived low quality of AI art."
+  },
+  "Super_Translator480": {
+    "stance": "support_ban",
+    "confidence": 0.9,
+    "reasoning": "The user criticizes AI art for being based on plagiarism and expresses concern over the quality of art being produced."
+  },
+  "Superseaslug": {
+    "stance": "ambiguous",
+    "confidence": 0.6,
+    "reasoning": "The user acknowledges both sides of the debate, indicating that while some bans are justified, others may be censorship."
+  },
+  "Swamptor": {
+    "stance": "support_ban",
+    "confidence": 0.8,
+    "reasoning": "The user emphasizes the importance of traditional artistic processes and suggests that AI art lacks authenticity."
+  },
+  "SweetNeo85": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment is vague and does not clearly support or oppose the ban on AI art."
+  },
+  "TONK09": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The user recognizes community preferences regarding AI art but does not take a definitive stance on banning it."
+  },
+  "Teledildonic": {
+    "stance": "support_ban",
+    "confidence": 0.9,
+    "reasoning": "The user argues that AI cannot create art as it lacks conscious decision-making, advocating for the value of human creativity."
+  },
+  "TheArchivist314": {
+    "stance": "ambiguous",
+    "confidence": 0.6,
+    "reasoning": "The user acknowledges the reasonableness of banning AI art in some contexts but does not explicitly support or oppose the ban."
+  },
+  "TheBlueSully": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment suggests looking for AI art in venues that allow it, but does not clearly indicate a stance on banning."
+  },
+  "TheDevilsAdvokaat": {
+    "stance": "support_ban",
+    "confidence": 0.9,
+    "reasoning": "The user expresses a strong desire for more bans on AI art, indicating clear support for banning."
+  },
+  "TheGrandArtificer": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comments discuss the inclusion of AI in art schools but do not take a clear stance on banning AI art."
+  },
+  "TheHeadlessOne": {
+    "stance": "oppose_ban",
+    "confidence": 0.8,
+    "reasoning": "The user argues against blanket bans and suggests alternative moderation methods, indicating opposition to banning."
+  },
+  "TheMysteryCheese": {
+    "stance": "oppose_ban",
+    "confidence": 0.9,
+    "reasoning": "The user critiques the reasoning behind bans and expresses concerns about performative actions, indicating a defense of AI art."
+  },
+  "TheOrqwithVagrant": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment references a scandal but does not provide a clear stance on the ban."
+  },
+  "The_pursur": {
+    "stance": "support_ban",
+    "confidence": 0.9,
+    "reasoning": "The user expresses strong negative feelings towards AI art, indicating support for banning."
+  },
+  "Thekota": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment discusses an event but does not clearly indicate a stance on banning AI art."
+  },
+  "Thick-Protection-458": {
+    "stance": "oppose_ban",
+    "confidence": 0.7,
+    "reasoning": "The user suggests making rules against low-quality content instead of a ban, indicating opposition to banning."
+  },
+  "ThrasherDX": {
+    "stance": "ambiguous",
+    "confidence": 0.7,
+    "reasoning": "The comments focus on evidentiary standards and the implications of AI in legal contexts, without a clear stance on banning AI art."
+  },
+  "TikaOriginal": {
+    "stance": "support_ban",
+    "confidence": 0.8,
+    "reasoning": "The user acknowledges the value of AI but supports banning due to the prevalence of low-quality content."
+  },
+  "Timub": {
+    "stance": "ambiguous",
+    "confidence": 0.6,
+    "reasoning": "The comment reflects on societal adaptation to new technologies without expressing a clear opinion on AI art."
+  },
+  "Titan2562": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comments discuss moderation and the debate culture without taking a definitive stance on banning AI art."
+  },
+  "Tkaud": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment is neutral and does not express a clear opinion on the ban of AI art."
+  },
+  "Top-Goose6019": {
+    "stance": "ambiguous",
+    "confidence": 0.6,
+    "reasoning": "The user suggests that if a subreddit bans AI art, one can simply find another subreddit, indicating a neutral stance."
+  },
+  "Top_Class2849": {
+    "stance": "support_ban",
+    "confidence": 0.9,
+    "reasoning": "The comment implies a strong negative view towards AI art, comparing it to nuclear weapons."
+  },
+  "Tough_Measuremen": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment is vague and does not provide a clear stance on AI art."
+  },
+  "Tri2211": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment agrees with the thread's premise but does not express a clear opinion on banning AI art."
+  },
+  "Trikk": {
+    "stance": "oppose_ban",
+    "confidence": 0.7,
+    "reasoning": "The comment criticizes entitlement and ignorance, suggesting a defense of AI art."
+  },
+  "Turbulent_Escape4882": {
+    "stance": "support_ban",
+    "confidence": 0.7,
+    "reasoning": "The user acknowledges that banning AI art is a reasonable policy, indicating support for restrictions."
+  },
+  "UntimelyMeditations": {
+    "stance": "oppose_ban",
+    "confidence": 0.8,
+    "reasoning": "The user expresses a desire to support real artists and highlights the difficulty in distinguishing AI art from human-made art, suggesting a defense of human creativity."
+  },
+  "Unusual_Ad_9773": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The user makes a valid point about personal dislike but does not clearly support or oppose a ban."
+  },
+  "VFenix": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment is vague and does not provide a clear stance on the issue."
+  },
+  "Val_Fortecazzo": {
+    "stance": "support_ban",
+    "confidence": 0.6,
+    "reasoning": "The user discusses the negative impacts of AI art on communities and suggests that some bans are reasonable, indicating support for restrictions."
+  },
+  "Vazhox": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment is vague and does not provide a clear stance on the issue."
+  },
+  "Videogame-repairguy": {
+    "stance": "support_ban",
+    "confidence": 0.9,
+    "reasoning": "The user strongly opposes AI art, stating it undermines human creativity and should be banned from schools and art schools."
+  },
+  "Vio_": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comments discuss the issue of AI art being unrecognized but do not clearly support or oppose a ban."
+  },
+  "Voldok": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment is unclear and does not provide a definitive stance on banning AI art."
+  },
+  "Waldo-San": {
+    "stance": "support_ban",
+    "confidence": 0.7,
+    "reasoning": "The user suggests that it is not censorship for subreddits to ban AI art, indicating support for restrictions."
+  },
+  "WanderWut": {
+    "stance": "ambiguous",
+    "confidence": 0.7,
+    "reasoning": "The user acknowledges the need for rules around AI art but does not explicitly support or oppose a ban."
+  },
+  "Warchief_Ripnugget": {
+    "stance": "support_ban",
+    "confidence": 0.8,
+    "reasoning": "The user draws a parallel between AI and photography, suggesting that AI art diminishes the value of traditional art, indicating support for a ban."
+  },
+  "WeLoveYouCarol": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment does not provide a clear stance on the issue of AI art."
+  },
+  "Webecomemonsters": {
+    "stance": "oppose_ban",
+    "confidence": 0.9,
+    "reasoning": "The user expresses a broad definition of art, suggesting a defense of AI-generated art."
+  },
+  "Whiskeywiskerbiscuit": {
+    "stance": "support_ban",
+    "confidence": 0.9,
+    "reasoning": "The user states that banning AI art is a good thing, indicating strong support for a ban."
+  },
+  "WonderfulAdvantage84": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment is off-topic and does not address the debate about AI art."
+  },
+  "Workman44": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The user asks a question without expressing a clear stance on AI art."
+  },
+  "Xdivine": {
+    "stance": "ambiguous",
+    "confidence": 0.6,
+    "reasoning": "The user discusses the context of AI art bans but does not take a definitive stance for or against a ban."
+  },
+  "Z30HRTGDV": {
+    "stance": "oppose_ban",
+    "confidence": 0.8,
+    "reasoning": "The user supports the idea that subreddits can set their own rules, implying a defense of AI art."
+  },
+  "Zahgi": {
+    "stance": "support_ban",
+    "confidence": 0.8,
+    "reasoning": "The user expresses support for the ban at Comic-Con, indicating a stance in favor of restricting AI art."
+  },
+  "Zatmos": {
+    "stance": "ambiguous",
+    "confidence": 0.6,
+    "reasoning": "The user acknowledges the banning of AI art but does not clearly support or oppose it."
+  },
+  "ZeColorOfPomegranate": {
+    "stance": "support_ban",
+    "confidence": 0.8,
+    "reasoning": "The user refers to the banning of AI art as 'fascism', indicating a strong opposition to the bans."
+  },
+  "Zer_": {
+    "stance": "support_ban",
+    "confidence": 0.9,
+    "reasoning": "The user expresses a clear negative opinion about AI art, stating it has no value."
+  },
+  "Zestyclose_Koala_593": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment is off-topic and does not directly address the issue of AI art."
+  },
+  "Zidan19283": {
+    "stance": "support_ban",
+    "confidence": 0.7,
+    "reasoning": "The user describes the banning of AI art as censorship driven by a specific movement, suggesting a critical view of the bans."
+  },
+  "_HoundOfJustice": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The user discusses the acceptance of bans without clearly supporting or opposing them."
+  },
+  "_MoOnThePage_": {
+    "stance": "oppose_ban",
+    "confidence": 0.8,
+    "reasoning": "The user defends AI art as a source of inspiration for real artists, opposing the idea of banning it."
+  },
+  "__loam": {
+    "stance": "oppose_ban",
+    "confidence": 0.7,
+    "reasoning": "The user implies a preference for human creativity over AI, suggesting opposition to AI art."
+  },
+  "a_CaboodL": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The user discusses a balanced approach to AI art without clearly supporting or opposing bans."
+  },
+  "a_latvian_potato": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment questions the experience of the commenter, not directly addressing the ban issue."
+  },
+  "academicallyacademia": {
+    "stance": "support_ban",
+    "confidence": 0.9,
+    "reasoning": "The user explicitly states that AI art is not art and refers to it as theft, indicating strong support for banning AI-generated art."
+  },
+  "adamkopacz": {
+    "stance": "oppose_ban",
+    "confidence": 0.8,
+    "reasoning": "The user seems to mock the idea of banning AI art and suggests that it is a trivial effort, indicating a defense of AI art."
+  },
+  "adrixshadow": {
+    "stance": "ambiguous",
+    "confidence": 0.7,
+    "reasoning": "The user acknowledges that banning AI art is a reasonable policy but also critiques the motivations behind it, making their stance unclear."
+  },
+  "ai_kagano": {
+    "stance": "ambiguous",
+    "confidence": 0.7,
+    "reasoning": "The user expresses concerns about AI misuse and job displacement but also mentions enjoying AI-generated content, leading to a mixed stance."
+  },
+  "api": {
+    "stance": "oppose_ban",
+    "confidence": 0.8,
+    "reasoning": "The user draws parallels between AI and photography, suggesting that AI can be a legitimate art form, which indicates opposition to banning it."
+  },
+  "bbt104": {
+    "stance": "support_ban",
+    "confidence": 0.9,
+    "reasoning": "The user supports banning AI art in schools and questions the legitimacy of AI-generated content, indicating a strong stance for a ban."
+  },
+  "blackcoffee17": {
+    "stance": "support_ban",
+    "confidence": 0.85,
+    "reasoning": "The user expresses concern about the indistinguishability of AI-generated art from real art, suggesting a preference for banning AI art."
+  },
+  "carnyzzle": {
+    "stance": "ambiguous",
+    "confidence": 0.6,
+    "reasoning": "The user makes a comment about the implications of banning AI but does not clearly state a position for or against the ban."
+  },
+  "ceemootoo": {
+    "stance": "oppose_ban",
+    "confidence": 0.75,
+    "reasoning": "The user suggests treating AI art posts like regular posts and emphasizes moderation rather than banning, indicating a defense of AI art."
+  },
+  "changemyview-ModTeam": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "As a moderation team, their comments are focused on rule enforcement rather than expressing a personal stance on AI art."
+  },
+  "charlie-westi": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment discusses the current state of AI art bans but does not explicitly state a personal stance on whether it should be banned."
+  },
+  "classyfapist": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment mentions regulation of social media but does not directly address AI art or express a clear stance."
+  },
+  "crapsh0ot": {
+    "stance": "support_ban",
+    "confidence": 0.8,
+    "reasoning": "The user acknowledges that banning AI art is a reasonable policy, indicating support for restrictions."
+  },
+  "cxmmxc": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment is more of a commentary on the inevitability of AI rather than a clear stance on banning it."
+  },
+  "dantevonlocke": {
+    "stance": "support_ban",
+    "confidence": 0.9,
+    "reasoning": "The user explicitly states that AI art should be banned from contexts where actual art matters, showing strong support for a ban."
+  },
+  "darksephora": {
+    "stance": "support_ban",
+    "confidence": 0.8,
+    "reasoning": "The user discusses the negative implications of AI and suggests that banning it could be a solution, indicating support for a ban."
+  },
+  "ddiggler2469": {
+    "stance": "support_ban",
+    "confidence": 0.9,
+    "reasoning": "The user states that there is nothing artistic about AI prompts, implying a strong stance against AI art."
+  },
+  "dejaojas": {
+    "stance": "ambiguous",
+    "confidence": 0.6,
+    "reasoning": "The user presents a nuanced view, suggesting that some contexts may not require a ban, indicating a mixed stance."
+  },
+  "dickdrainer99": {
+    "stance": "oppose_ban",
+    "confidence": 0.9,
+    "reasoning": "The user expresses enjoyment of AI tools and criticizes the outrage against AI, indicating a strong opposition to banning AI art."
+  },
+  "djsoomo": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment compares AI to a photocopier but does not clearly state a position on whether it should be banned."
+  },
+  "dust4ngel": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment is humorous and does not clearly express a stance on AI art."
+  },
+  "ebrbrbr": {
+    "stance": "oppose_ban",
+    "confidence": 0.8,
+    "reasoning": "The user suggests that banning AI art is akin to a witch-hunt and highlights the difficulties artists face."
+  },
+  "elchemy": {
+    "stance": "ambiguous",
+    "confidence": 0.6,
+    "reasoning": "The comment is sarcastic and does not provide a clear stance on AI art."
+  },
+  "eliota1": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment questions the use of AI art but does not explicitly support or oppose a ban."
+  },
+  "enovox5": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment critiques the financial aspects of AI art but does not take a clear stance on banning it."
+  },
+  "falcondiorf": {
+    "stance": "support_ban",
+    "confidence": 0.9,
+    "reasoning": "The user expresses concern about the dystopian implications of AI art and its negative impact on society."
+  },
+  "fiero-fire": {
+    "stance": "support_ban",
+    "confidence": 0.9,
+    "reasoning": "The user argues that AI art lacks skill and talent, indicating a strong opposition to its acceptance."
+  },
+  "frogandbanjo": {
+    "stance": "oppose_ban",
+    "confidence": 0.9,
+    "reasoning": "The user defends the emotional impact of AI-generated art and criticizes the dismissal of it as non-art."
+  },
+  "frymastermeat": {
+    "stance": "support_ban",
+    "confidence": 0.8,
+    "reasoning": "The user expresses disdain for AI-generated art, comparing it to a morally questionable economic driver."
+  },
+  "gerkletoss": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment shares a link and critiques a specific aspect of AI art without a clear stance on banning it."
+  },
+  "green_link": {
+    "stance": "support_ban",
+    "confidence": 0.9,
+    "reasoning": "The user explicitly states that AI art should be banned from all art showcases, galleries, and shops, indicating a strong support for banning AI-generated art."
+  },
+  "hitorinbolemon": {
+    "stance": "ambiguous",
+    "confidence": 0.7,
+    "reasoning": "The user acknowledges the reasonableness of banning AI art in certain contexts but does not clearly state a personal stance on the ban itself."
+  },
+  "hungry4pie": {
+    "stance": "ambiguous",
+    "confidence": 0.6,
+    "reasoning": "The comment discusses dissatisfaction with 3D printed items but does not directly address AI art or express a clear stance on banning it."
+  },
+  "ifonze": {
+    "stance": "support_ban",
+    "confidence": 0.8,
+    "reasoning": "The user supports the idea that AI art should have its own spaces and not overshadow human artists, indicating a preference for restricting AI art in artist spaces."
+  },
+  "ihavemademistakes": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The user expresses frustration with repetitive 3D printed items but does not directly address AI art or express a clear stance on banning it."
+  },
+  "infinite_gurgle": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment is dismissive of the ongoing debate about AI art but does not take a clear stance on whether it should be banned."
+  },
+  "jacojerb": {
+    "stance": "oppose_ban",
+    "confidence": 0.7,
+    "reasoning": "The user expresses a personal indifference to AI art and suggests that imitation can be flattering, indicating a more supportive view of AI-generated art."
+  },
+  "jessek": {
+    "stance": "oppose_ban",
+    "confidence": 0.9,
+    "reasoning": "The user explicitly states a preference for AI-generated art, indicating a strong opposition to banning it."
+  },
+  "jfcarr": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment raises a conspiracy theory related to AI art bans but does not express a clear stance on whether AI art should be banned."
+  },
+  "jon11888": {
+    "stance": "ambiguous",
+    "confidence": 0.6,
+    "reasoning": "The user acknowledges that there are reasonable cases for banning AI art but also discusses the complexities of community opinions, making their stance unclear."
+  },
+  "jordanwisearts": {
+    "stance": "support_ban",
+    "confidence": 0.8,
+    "reasoning": "The user acknowledges that banning AI art is a reasonable policy, indicating support for restrictions."
+  },
+  "juanjung": {
+    "stance": "support_ban",
+    "confidence": 0.9,
+    "reasoning": "The user believes AI cannot create art, implying support for banning AI-generated art."
+  },
+  "keystonecraft": {
+    "stance": "support_ban",
+    "confidence": 0.8,
+    "reasoning": "The user claims AI art is IP theft, suggesting a stance in favor of banning it."
+  },
+  "kjdavid": {
+    "stance": "support_ban",
+    "confidence": 0.7,
+    "reasoning": "The user expresses skepticism about generative AI, which aligns with a supportive stance for banning it."
+  },
+  "knightcrusader": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The user discusses the implications of AI art on conventions but does not clearly state a position for or against a ban."
+  },
+  "lafigatatia": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment raises a question about authenticity but does not take a clear stance on banning AI art."
+  },
+  "lamnatheshark": {
+    "stance": "oppose_ban",
+    "confidence": 0.9,
+    "reasoning": "The user advocates for better education on AI art rather than a ban, indicating opposition to restrictions."
+  },
+  "lesbianspider69": {
+    "stance": "support_ban",
+    "confidence": 0.8,
+    "reasoning": "The user suggests implementing posting limits instead of a complete ban, but still supports some form of restriction."
+  },
+  "letdogsvote": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment is off-topic and does not address the debate about banning AI art."
+  },
+  "lightmatter501": {
+    "stance": "support_ban",
+    "confidence": 0.7,
+    "reasoning": "The user acknowledges the existence of large models that could cause concern, suggesting support for a ban."
+  },
+  "lil_nuggets": {
+    "stance": "oppose_ban",
+    "confidence": 0.8,
+    "reasoning": "The user suggests that banning AI art would only eliminate low-quality AI art, implying that high-quality AI art is acceptable."
+  },
+  "linkjo100": {
+    "stance": "oppose_ban",
+    "confidence": 0.9,
+    "reasoning": "The user expresses frustration with the idea of artists needing to prove their work and supports the idea of labeling AI-generated art, indicating a defense of AI art."
+  },
+  "lurklurklurkPOST": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The user suggests a terminology change but does not clearly express a stance on banning AI art."
+  },
+  "madamemimicik": {
+    "stance": "support_ban",
+    "confidence": 0.9,
+    "reasoning": "The user argues that AI art does not exist and defines art as a human expression, indicating a strong opposition to AI-generated art."
+  },
+  "magpieswooper": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The user discusses the impracticality of banning mainstream tech without a clear stance on AI art."
+  },
+  "maikuxblade": {
+    "stance": "support_ban",
+    "confidence": 0.9,
+    "reasoning": "The user expresses a desire for legal action against AI art, framing it as regurgitated stolen work, indicating strong opposition to AI art."
+  },
+  "matthra": {
+    "stance": "ambiguous",
+    "confidence": 0.6,
+    "reasoning": "The user discusses the negative impact of AI art on real artists and suggests regulation, but does not explicitly call for a ban."
+  },
+  "mayoooz": {
+    "stance": "support_ban",
+    "confidence": 0.9,
+    "reasoning": "The user argues that AI cannot create art and emphasizes the value of human-made art, indicating a strong opposition to AI-generated art."
+  },
+  "meleecow": {
+    "stance": "support_ban",
+    "confidence": 0.8,
+    "reasoning": "The user implies that AI art is deceptive and suggests a negative view of AI art."
+  },
+  "metanaught": {
+    "stance": "support_ban",
+    "confidence": 0.8,
+    "reasoning": "The user compares using AI in art to cheating, indicating a belief that AI-generated art undermines the educational process."
+  },
+  "midaslibrary": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment does not provide a clear stance on the issue."
+  },
+  "mrisrael": {
+    "stance": "support_ban",
+    "confidence": 0.7,
+    "reasoning": "The user mentions that conventions shut down AI art stalls, indicating support for banning AI art."
+  },
+  "muffinsballhair": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment discusses a technical aspect of cameras and does not directly address the AI art debate."
+  },
+  "mushroom_taco": {
+    "stance": "support_ban",
+    "confidence": 0.9,
+    "reasoning": "The user expresses satisfaction that AI art was ultimately banned, indicating strong support for the ban."
+  },
+  "nellfallcard": {
+    "stance": "ambiguous",
+    "confidence": 0.6,
+    "reasoning": "The user acknowledges the reasonableness of banning AI art in some contexts but also suggests a compromise, making their stance unclear."
+  },
+  "ninjasaid13": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment discusses copyright issues without clearly supporting or opposing a ban on AI art."
+  },
+  "nokvok": {
+    "stance": "oppose_ban",
+    "confidence": 0.8,
+    "reasoning": "The user argues against banning AI art but emphasizes the need for copyright considerations, indicating a defense of AI art."
+  },
+  "nullv": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment expresses a wish to target other issues rather than directly addressing the AI art debate."
+  },
+  "odanhammer": {
+    "stance": "support_ban",
+    "confidence": 0.8,
+    "reasoning": "The user supports the decision to ban AI art at conventions, indicating a favorable stance towards banning."
+  },
+  "operatic_g": {
+    "stance": "oppose_ban",
+    "confidence": 0.7,
+    "reasoning": "The user acknowledges concerns about AI but argues against trying to eliminate it, suggesting a defense of AI art."
+  },
+  "orlybatman": {
+    "stance": "support_ban",
+    "confidence": 0.9,
+    "reasoning": "The user emphasizes the burden on artists and suggests that the responsibility should lie with AI companies, indicating a preference for regulation of AI art."
+  },
+  "otclogic": {
+    "stance": "ambiguous",
+    "confidence": 0.6,
+    "reasoning": "The user discusses the definition of art and the feasibility of banning AI art but does not clearly support or oppose a ban."
+  },
+  "panda420420": {
+    "stance": "support_ban",
+    "confidence": 0.8,
+    "reasoning": "The user states that generating art through AI means one is not the artist, implying a negative view of AI-generated art."
+  },
+  "parke415": {
+    "stance": "ambiguous",
+    "confidence": 0.7,
+    "reasoning": "The user supports AI but acknowledges that banning AI art is reasonable, showing a mixed stance."
+  },
+  "penguished": {
+    "stance": "oppose_ban",
+    "confidence": 0.8,
+    "reasoning": "The user expresses a negative view on the impact of AI in other fields but supports the ban on AI art, indicating a defense of AI art."
+  },
+  "phoenix823": {
+    "stance": "oppose_ban",
+    "confidence": 0.9,
+    "reasoning": "The user argues against the feasibility of banning AI technology, suggesting it cannot be effectively controlled."
+  },
+  "phoenixgsu": {
+    "stance": "support_ban",
+    "confidence": 0.7,
+    "reasoning": "The user mentions a negative incident involving AI art at a convention, indicating support for banning AI-generated art."
+  },
+  "politedeerx": {
+    "stance": "oppose_ban",
+    "confidence": 0.8,
+    "reasoning": "The user advocates for creativity and freedom in art creation, opposing restrictions on AI art."
+  },
+  "possibilistic": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The user discusses moderation and control on Reddit without a clear stance on AI art itself."
+  },
+  "prettymuthafucka": {
+    "stance": "support_ban",
+    "confidence": 0.9,
+    "reasoning": "The user explicitly states that AI art is not real and can never be considered art, indicating strong support for banning it."
+  },
+  "pulseout": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment does not clearly express a stance on banning AI art."
+  },
+  "queenkid1": {
+    "stance": "support_ban",
+    "confidence": 0.8,
+    "reasoning": "The user acknowledges the banning of AI art as a reasonable policy despite being pro-AI."
+  },
+  "rampant_cat": {
+    "stance": "oppose_ban",
+    "confidence": 0.9,
+    "reasoning": "The user describes the ban as censorship and argues against blocking AI art."
+  },
+  "rangoric": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment does not provide a clear stance on the issue."
+  },
+  "red286": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment discusses the prevalence of AI art but does not express a clear opinion on banning it."
+  },
+  "rushmc1": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comments reflect skepticism about the opinions on AI art but do not take a clear stance."
+  },
+  "s_mirage": {
+    "stance": "support_ban",
+    "confidence": 0.8,
+    "reasoning": "The user explicitly calls for a ban on AI-generated images in schools and art schools."
+  },
+  "saltedsavior": {
+    "stance": "support_ban",
+    "confidence": 0.7,
+    "reasoning": "The user suggests that banning AI art should be enforceable due to current issues with its quality."
+  },
+  "sammoga123": {
+    "stance": "ambiguous",
+    "confidence": 0.6,
+    "reasoning": "The user discusses the quality of AI art and personal experiences but does not clearly support or oppose a ban."
+  },
+  "serioustransition11": {
+    "stance": "oppose_ban",
+    "confidence": 0.8,
+    "reasoning": "The user discusses the complexities of AI art and suggests that human involvement is necessary, implying a defense of AI art."
+  },
+  "seytsuken_": {
+    "stance": "support_ban",
+    "confidence": 0.9,
+    "reasoning": "The user expresses strong concerns about the negative impacts of AI, suggesting that banning it would significantly reduce its development and mitigate potential harms."
+  },
+  "shroudedwolf51": {
+    "stance": "support_ban",
+    "confidence": 0.8,
+    "reasoning": "The user indicates surprise that AI art wasn't banned sooner, implying support for the ban."
+  },
+  "squishybloo": {
+    "stance": "ambiguous",
+    "confidence": 0.6,
+    "reasoning": "The user discusses the challenges faced by artists but does not clearly express a stance on banning AI art."
+  },
+  "sumelar": {
+    "stance": "support_ban",
+    "confidence": 0.9,
+    "reasoning": "The user explicitly states that AI art should be banned from contexts where actual art matters, showing a clear preference for banning AI art."
+  },
+  "symedia": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The user acknowledges the issues with AI art but also expresses a personal use of AI, making their stance unclear."
+  },
+  "theosamabahama": {
+    "stance": "oppose_ban",
+    "confidence": 0.7,
+    "reasoning": "The user defends AI art by discussing its creative potential and comparing it to other automated processes, suggesting a nuanced view against a complete ban."
+  },
+  "theoxygenthief": {
+    "stance": "oppose_ban",
+    "confidence": 0.7,
+    "reasoning": "The user acknowledges the potential for ethical AI use in art, indicating a belief in the possibility of coexistence rather than outright banning."
+  },
+  "therealkami": {
+    "stance": "support_ban",
+    "confidence": 0.8,
+    "reasoning": "The user expresses frustration with the prevalence of AI-generated art at conventions, suggesting a preference for banning it."
+  },
+  "theronin7": {
+    "stance": "support_ban",
+    "confidence": 0.8,
+    "reasoning": "The user refers to AI tools as 'cheating tools,' indicating a negative view of AI in art."
+  },
+  "thisistherevolt": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The user comments on the debate without clearly taking a side, making their stance unclear."
+  },
+  "thumb_emoji_survivor": {
+    "stance": "support_ban",
+    "confidence": 0.8,
+    "reasoning": "The user supports the exclusion of AI art, indicating a preference for banning it."
+  },
+  "tizuby": {
+    "stance": "oppose_ban",
+    "confidence": 0.9,
+    "reasoning": "The user argues against the idea of gatekeeping talent and artistic worth, suggesting a defense of AI art."
+  },
+  "tondollari": {
+    "stance": "ambiguous",
+    "confidence": 0.7,
+    "reasoning": "The user discusses the impracticality of enforcing a ban without clear support for or against it."
+  },
+  "tyrenanig": {
+    "stance": "ambiguous",
+    "confidence": 0.6,
+    "reasoning": "The comments are somewhat sarcastic and do not clearly indicate a stance on banning AI art."
+  },
+  "underwear_dickholes": {
+    "stance": "oppose_ban",
+    "confidence": 0.9,
+    "reasoning": "The user emphasizes the importance of concept over the medium, defending the value of AI-generated art."
+  },
+  "vinhluanluu": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The user questions the enforcement of the ban without taking a clear stance."
+  },
+  "vlladonxxx": {
+    "stance": "ambiguous",
+    "confidence": 0.7,
+    "reasoning": "The user acknowledges the reasonableness of banning AI art but does not fully support or oppose it."
+  },
+  "vomitHatSteve": {
+    "stance": "oppose_ban",
+    "confidence": 0.8,
+    "reasoning": "The user criticizes the influx of low-quality AI art but does not advocate for a ban, suggesting a defense of creative use of AI."
+  },
+  "waiting4singularity": {
+    "stance": "support_ban",
+    "confidence": 0.7,
+    "reasoning": "The comment implies a negative view of AI-generated art, suggesting support for banning it."
+  },
+  "wakennlake": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment is critical but does not clearly indicate a stance on banning AI art."
+  },
+  "weakestArtist": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment questions the argument without clearly supporting or opposing the ban."
+  },
+  "xyz3d_": {
+    "stance": "support_ban",
+    "confidence": 0.9,
+    "reasoning": "The user expresses agreement with the idea of banning AI-generated art."
+  },
+  "youcantchangeit": {
+    "stance": "oppose_ban",
+    "confidence": 0.9,
+    "reasoning": "The user explicitly states they like AI art and hope it does not disappear."
+  },
+  "zagra_nexkoyotl": {
+    "stance": "ambiguous",
+    "confidence": 0.5,
+    "reasoning": "The comment does not clearly indicate support or opposition to the ban."
+  },
+  "zeptyk": {
+    "stance": "ambiguous",
+    "confidence": 0.6,
+    "reasoning": "The comments discuss the implications of banning but do not take a clear stance."
+  },
+  "zushiba": {
+    "stance": "support_ban",
+    "confidence": 0.8,
+    "reasoning": "The user suggests that AI art should only be used as a placeholder, implying support for restrictions."
+  }
+}
