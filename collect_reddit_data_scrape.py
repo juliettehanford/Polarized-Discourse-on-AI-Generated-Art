@@ -185,13 +185,20 @@ def build_edges(all_comments: dict, thread_meta: dict) -> list[dict]:
         if src_user == dst_user:
             continue
 
+        if c["parent_type"] == "t1":
+            dst_comment_text = all_comments[c["parent_id"]]["body"]
+        else:
+            dst_comment_text = thread_meta[c["submission_id"]]["title"]
+
         edges.append({
-            "src_user":      src_user,
-            "dst_user":      dst_user,
-            "comment_id":    cid,
-            "parent_id":     c["parent_id"],
-            "submission_id": c["submission_id"],
-            "subreddit":     thread_meta[c["submission_id"]]["subreddit"],
+            "src_user":          src_user,
+            "src_comment":       c["body"],
+            "dst_user":          dst_user,
+            "dst_comment":       dst_comment_text,
+            "comment_id":        cid,
+            "parent_id":         c["parent_id"],
+            "submission_id":     c["submission_id"],
+            "subreddit":         thread_meta[c["submission_id"]]["subreddit"],
         })
     return edges
 
@@ -266,8 +273,8 @@ def main():
         json.dump(all_comments, f, indent=2)
 
     with open(edges_path, "w", newline="") as f:
-        fieldnames = ["src_user", "dst_user", "comment_id", "parent_id",
-                      "submission_id", "subreddit"]
+        fieldnames = ["src_user", "src_comment", "dst_user", "dst_comment",
+                      "comment_id", "parent_id", "submission_id", "subreddit"]
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
         writer.writerows(edges)
