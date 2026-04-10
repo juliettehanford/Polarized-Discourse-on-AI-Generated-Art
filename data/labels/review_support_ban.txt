@@ -87,7 +87,7 @@ LLM reasoning: The user acknowledges the reasonableness of banning AI art despit
     Alive-Tomatillo5303 replied:
     So are they apposed to AI art or bad art?  Those are two categories that often overlap, but they aren't synonymous.
 
-OVERRIDE: 
+OVERRIDE: ambiguous
 
 
 --- #6  AllTheRowboats93  (1 comments, conf=0.9) ---
@@ -476,7 +476,7 @@ LLM reasoning: The user describes the furry community as being 'viscerally anti 
     Didsterchap11 replied:
     The furry community tends to be better than average at keeping stuff like that out, obviously bad actors still are in the community but I've noticed once someone gets outed for being a piece of shit they get pretty quickly ejected. This combined with the community living and breathing by its artists means the entire fandom is viscerally anti AI.
 
-OVERRIDE: 
+OVERRIDE: ambiguous
 
 
 --- #30  DryTradition6576  (1 comments, conf=0.9) ---
@@ -677,7 +677,7 @@ LLM reasoning: The user discusses the confusion around defining art and implies 
     
     What about the times when camera was a new thing? Don't you know there was backlash, that quite a few artists were opposed to this new technology and refused to call it art.
 
-OVERRIDE: 
+OVERRIDE: oppose_ban
 
 
 --- #40  Historical_Nail1882  (1 comments, conf=0.7) ---
@@ -688,7 +688,7 @@ LLM reasoning: The user suggests that AI has fallen into the wrong hands, indica
     Historical_Nail1882 replied:
     Because AI has fallen in the hands in the wrong people
 
-OVERRIDE: 
+OVERRIDE: ambiguous
 
 
 --- #41  HypnoticName  (1 comments, conf=0.9) ---
@@ -731,7 +731,7 @@ LLM reasoning: The user argues that banning low-effort AI art is acceptable, ind
     
     Banning low effort stuff is fine. That has NOTHING to do with AI any more than it does Photoshop.
 
-OVERRIDE: 
+OVERRIDE: oppose_ban
 
 
 --- #44  Jinkuzu  (1 comments, conf=0.9) ---

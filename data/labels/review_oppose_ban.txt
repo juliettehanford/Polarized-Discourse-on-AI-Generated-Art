@@ -214,7 +214,7 @@ LLM reasoning: The user argues against the comparison of AI art to natural diamo
     Complex-Bad-3250 replied:
     this is a crazy take, pro rage baiter clearly. the difference in human art and natural diamonds is in the uniqueness of the piece, and labor it takes to make. to go off your diamond example, naturals are unique due to them literally forming in the earth, something that labs can replicate. plus how long they take to form, this makes them special
 
-OVERRIDE: 
+OVERRIDE: support_ban
 
 
 --- #11  DaddyKiwwi  (1 comments, conf=0.9) ---
@@ -505,7 +505,7 @@ LLM reasoning: The user discusses the challenges artists face and implies suppor
     MissNouveau replied:
     God bless Furries. Some of the nicest people to do work for, and a lot of the Fur Cons banned AI almost immediately.
 
-OVERRIDE: 
+OVERRIDE: ambiguous
 
 
 --- #25  MizarTheEdgelord  (3 comments, conf=0.9) ---

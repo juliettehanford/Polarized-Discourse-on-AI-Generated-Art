@@ -37,7 +37,7 @@ LLM reasoning: The user raises concerns about the implications of AI technology 
     
     Artists still get screwed, and all the AI models are owned by some big megacorp.
 
-LABEL: 
+LABEL: support_ban
 
 
 --- #2  A_Very_Horny_Zed  (3 comments, conf=0.7) ---
@@ -195,7 +195,7 @@ LLM reasoning: The comments critique the reasoning behind the ban but do not cle
     
     Man, I gotta put the same thing at the end of my every comment or post. Very convenient.
 
-LABEL: 
+LABEL: support_ban
 
 
 --- #7  DarthJDP  (2 comments, conf=0.6) ---
@@ -245,7 +245,7 @@ LLM reasoning: The comments focus on technical aspects of art creation rather th
     
     You can just say you don't want to do it. It's ok. Just don't make stuff up.
 
-LABEL: 
+LABEL: support_ban
 
 
 --- #9  DeltaBot  (2 comments, conf=0.5) ---
@@ -317,7 +317,7 @@ LLM reasoning: The comments do not clearly support or oppose a ban, focusing ins
     Double-Blueberry-213 replied:
     **AI-generated fake evidence is landing people in jail as courts struggle with new technology**  [https://www.youtube.com/watch?v=33SlkyjhPcQ](https://www.youtube.com/watch?v=33SlkyjhPcQ)
 
-LABEL: 
+LABEL: support_ban
 
 
 --- #12  Filter55  (2 comments, conf=0.5) ---
@@ -335,7 +335,7 @@ LLM reasoning: The comments do not provide a clear stance on AI-generated art, f
     Filter55 replied:
     Art isn’t being gatekept lol just pick up a pencil.
 
-LABEL: 
+LABEL: support_ban
 
 
 --- #13  ForgottenFrenchFry  (2 comments, conf=0.6) ---
@@ -409,7 +409,7 @@ LLM reasoning: The user discusses moderation and AI's role but does not take a c
     Interesting_Log-64 replied:
     It sounds like every subreddit throwing a temper tantrum and dozens of people ruining their lives and going to jail accomplished nothing?
 
-LABEL: 
+LABEL: support_ban
 
 
 --- #15  Ka_Trewq  (2 comments, conf=0.5) ---
@@ -437,7 +437,7 @@ LLM reasoning: The user discusses the nuances of AI art and competition rules wi
     
     So again, I don't know the rules of said competition, if they stated that AI is not allowed, then yeah, there is a case to be made against the winner. It's bad sportsmanship to win by breaking the rules of a competition. But if AI is n
 
-LABEL: 
+LABEL: support_ban
 
 
 --- #16  Kedly  (2 comments, conf=0.7) ---
@@ -479,7 +479,7 @@ LLM reasoning: The user discusses potential issues with AI but does not explicit
     
     The scarier part to me is how many companies are using ChatGPT etc to handle customer data, all of that being stored on some data center unencrypted. You cant really encrypt it cause then the AI cant parse it, unless you feed it information how to decrypt it, but then why bother to decrpyt it? Like I said, we are one big data breach lawsuit away from a lot of this shit being enfor
 
-LABEL: 
+LABEL: support_ban
 
 
 --- #18  MelonElbows  (3 comments, conf=0.5) ---
