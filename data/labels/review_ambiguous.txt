@@ -285,7 +285,7 @@ LLM reasoning: The comments focus on the effectiveness of bans rather than expre
     Dew-Fox-6899 replied:
     You can easily remove watermarks. There is no reliable way to detect it.
 
-LABEL: 
+LABEL: oppose_ban
 
 
 --- #11  Double-Blueberry-213  (3 comments, conf=0.5) ---
