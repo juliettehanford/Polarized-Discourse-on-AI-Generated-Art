@@ -216,13 +216,38 @@ def label_all_users():
     print(f"  -> Then run: python label_users.py finalize")
 
 
+def _parse_txt_overrides(path: Path, field: str) -> dict[str, str]:
+    """Parse a review .txt file and return {username: label} for filled entries."""
+    import re
+    overrides = {}
+    current_user = None
+    for line in path.read_text().splitlines():
+        m = re.match(r"^--- #\d+\s+(\S+)\s+\(", line)
+        if m:
+            current_user = m.group(1)
+            continue
+        if line.startswith(f"{field}:") and current_user:
+            label = line.split(":", 1)[1].strip()
+            if label:
+                overrides[current_user] = label
+            current_user = None
+    return overrides
+
+
 def finalize_labels():
-    """Convert the reviewed CSV + optional TSV overrides into final_labels.json."""
+    """Convert the reviewed CSV + manual overrides into final_labels.json."""
     if not REVIEW_CSV_PATH.exists():
         print(f"ERROR: {REVIEW_CSV_PATH} not found. Run 'label' first.")
         sys.exit(1)
 
     stance_map = {"support_ban": 1, "oppose_ban": 0, "ambiguous": None}
+
+    # Load raw LLM labels for accuracy comparison later
+    llm_labels = {}
+    if RAW_LABELS_PATH.exists():
+        with open(RAW_LABELS_PATH) as f:
+            for user, r in json.load(f).items():
+                llm_labels[user] = r.get("stance", "ambiguous")
 
     # Start from the main review CSV
     final = {}
@@ -233,7 +258,7 @@ def finalize_labels():
             stance = reviewed if reviewed else row["llm_stance"]
             final[row["user"]] = stance_map.get(stance)
 
-    # Apply overrides from the TSV review file (if it exists)
+    # Apply overrides from the TSV review file
     tsv_path = LABELS_DIR / "review_ambiguous.tsv"
     tsv_overrides = 0
     if tsv_path.exists():
@@ -247,48 +272,26 @@ def finalize_labels():
         if tsv_overrides:
             print(f"Applied {tsv_overrides} overrides from review_ambiguous.tsv")
 
-    # Apply overrides from the plain-text review file (if it exists)
-    txt_path = LABELS_DIR / "review_ambiguous.txt"
-    txt_overrides = 0
-    if txt_path.exists():
-        import re
-        current_user = None
-        for line in txt_path.read_text().splitlines():
-            # Match lines like: --- #1  username  (2 comments, conf=0.7) ---
-            m = re.match(r"^--- #\d+\s+(\S+)\s+\(", line)
-            if m:
-                current_user = m.group(1)
-                continue
-            if line.startswith("LABEL:") and current_user:
-                label = line.split(":", 1)[1].strip()
-                if label and label in stance_map and current_user in final:
-                    final[current_user] = stance_map[label]
-                    txt_overrides += 1
-                current_user = None
-        if txt_overrides:
-            print(f"Applied {txt_overrides} overrides from review_ambiguous.txt")
-
-    # Apply overrides from support_ban / oppose_ban review files
-    for review_file in ["review_support_ban.txt", "review_oppose_ban.txt"]:
-        rpath = LABELS_DIR / review_file
-        if not rpath.exists():
+    # Apply overrides from the plain-text review files
+    review_files = {
+        "review_ambiguous.txt": "LABEL",
+        "review_support_ban.txt": "OVERRIDE",
+        "review_oppose_ban.txt": "OVERRIDE",
+    }
+    all_overrides = {}  # user -> human label (text), across all files
+    for filename, field in review_files.items():
+        fpath = LABELS_DIR / filename
+        if not fpath.exists():
             continue
-        current_user = None
-        file_overrides = 0
-        for line in rpath.read_text().splitlines():
-            m = re.match(r"^--- #\d+\s+(\S+)\s+\(", line)
-            if m:
-                current_user = m.group(1)
-                continue
-            if line.startswith("OVERRIDE:") and current_user:
-                label = line.split(":", 1)[1].strip()
-                if label and label in stance_map and current_user in final:
-                    final[current_user] = stance_map[label]
-                    file_overrides += 1
-                current_user = None
+        file_overrides = _parse_txt_overrides(fpath, field)
+        for user, label in file_overrides.items():
+            if label in stance_map and user in final:
+                final[user] = stance_map[label]
+                all_overrides[user] = label
         if file_overrides:
-            print(f"Applied {file_overrides} overrides from {review_file}")
+            print(f"Applied {len(file_overrides)} overrides from {filename}")
 
+    # Final label counts
     counts = {"support_ban": 0, "oppose_ban": 0, "ambiguous": 0}
     for v in final.values():
         if v == 1: counts["support_ban"] += 1
@@ -300,11 +303,85 @@ def finalize_labels():
         json.dump(final, f, indent=2)
 
     labelled = sum(1 for v in final.values() if v is not None)
-    print(f"Final labels written to {FINAL_LABELS_PATH}")
+    print(f"\nFinal labels written to {FINAL_LABELS_PATH}")
     print(f"  support_ban (1): {counts['support_ban']}")
     print(f"  oppose_ban  (0): {counts['oppose_ban']}")
     print(f"  ambiguous (null): {counts['ambiguous']}")
     print(f"  Total labelled:  {labelled} / {len(final)}")
+
+    # ── LLM Accuracy Report ─────────────────────────────────────────────
+    # Compare LLM labels against final human-reviewed labels to measure
+    # how often the human reviewer agreed with the LLM.
+    reviewed_users = set()  # users whose review file was filled in (any file)
+    # From support_ban / oppose_ban files: every user in the file was reviewed,
+    # but only those with a non-blank OVERRIDE disagreed.
+    for filename, field in review_files.items():
+        fpath = LABELS_DIR / filename
+        if not fpath.exists():
+            continue
+        import re
+        current_user = None
+        for line in fpath.read_text().splitlines():
+            m = re.match(r"^--- #\d+\s+(\S+)\s+\(", line)
+            if m:
+                current_user = m.group(1)
+                continue
+            if line.startswith(f"{field}:") and current_user:
+                # User was reviewed (regardless of whether they were overridden)
+                reviewed_users.add(current_user)
+                current_user = None
+
+    if not reviewed_users:
+        print("\n  (No manual reviews detected — skipping accuracy report)")
+        return
+
+    # For each reviewed user, compare LLM stance to final stance
+    agree = 0
+    disagree = 0
+    disagree_details = {"support_ban→oppose_ban": 0, "support_ban→ambiguous": 0,
+                        "oppose_ban→support_ban": 0, "oppose_ban→ambiguous": 0,
+                        "ambiguous→support_ban": 0, "ambiguous→oppose_ban": 0}
+    label_name = {1: "support_ban", 0: "oppose_ban", None: "ambiguous"}
+
+    for user in reviewed_users:
+        llm = llm_labels.get(user, "ambiguous")
+        final_val = final.get(user)
+        final_str = label_name[final_val]
+        if llm == final_str:
+            agree += 1
+        else:
+            disagree += 1
+            key = f"{llm}→{final_str}"
+            disagree_details[key] = disagree_details.get(key, 0) + 1
+
+    total_reviewed = agree + disagree
+    accuracy = agree / total_reviewed if total_reviewed > 0 else 0
+
+    report = {
+        "total_users": len(final),
+        "users_reviewed": total_reviewed,
+        "llm_agreed": agree,
+        "llm_overridden": disagree,
+        "llm_accuracy": round(accuracy, 4),
+        "override_breakdown": {k: v for k, v in disagree_details.items() if v > 0},
+    }
+
+    report_path = LABELS_DIR / "llm_accuracy_report.json"
+    with open(report_path, "w") as f:
+        json.dump(report, f, indent=2)
+
+    print(f"\n{'='*50}")
+    print(f"LLM ANNOTATION ACCURACY REPORT")
+    print(f"{'='*50}")
+    print(f"  Users reviewed by human:  {total_reviewed}")
+    print(f"  LLM agreed with human:    {agree} ({100*accuracy:.1f}%)")
+    print(f"  Human overrode LLM:       {disagree} ({100*(1-accuracy):.1f}%)")
+    if disagree > 0:
+        print(f"  Override breakdown:")
+        for change, count in sorted(disagree_details.items()):
+            if count > 0:
+                print(f"    {change}: {count}")
+    print(f"\n  Report saved to: {report_path}")
 
 
 if __name__ == "__main__":

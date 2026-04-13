@@ -259,7 +259,7 @@ LLM reasoning: The comments do not express a clear stance on AI-generated art.
     
     Please note that a change of view doesn't necessarily mean a reversal, or that the conversation has ended.
     
-    ^[Delta System Explained](https://www.reddit.com/r/changemyview/wiki/deltasystem) ^| ^[Deltaboards](https://www.reddit.com/r/changemyview/wiki/deltaboards)
+    ^[Delta System Explained](https://www.reddit.com/r/changemyview/wiki/deltasystem) ^| ^[Deltaboards](https://www.reddit.com/r/changemyview/wiki/deltaboards)
 
   [2] Thread: CMV: Generative AI Should be Banned
       >> HaxboyYT wrote:
@@ -267,7 +267,7 @@ LLM reasoning: The comments do not express a clear stance on AI-generated art.
     DeltaBot replied:
     Confirmed: 1 delta awarded to /u/wildinn0cence ([1∆](/r/changemyview/wiki/user/wildinn0cence)).
     
-    ^[Delta System Explained](https://www.reddit.com/r/changemyview/wiki/deltasystem) ^| ^[Deltaboards](https://www.reddit.com/r/changemyview/wiki/deltaboards)
+    ^[Delta System Explained](https://www.reddit.com/r/changemyview/wiki/deltasystem) ^| ^[Deltaboards](https://www.reddit.com/r/changemyview/wiki/deltaboards)
 
 LABEL: 
 
@@ -658,7 +658,7 @@ LLM reasoning: The comments reflect a mix of skepticism about banning AI art and
     Outrageous_Guard_674 replied:
     Why not?  What makes art special compared to all of the other things we automated?
 
-LABEL: 
+LABEL: oppose_ban
 
 
 --- #24  Percy1803  (2 comments, conf=0.5) ---
@@ -776,7 +776,7 @@ LLM reasoning: The comments critique the motivations behind bans but do not clea
     
     "you're the problem and the actions being taken to demonize an art tool (including coordinated effort) is entirely justified because of w
 
-LABEL: 
+LABEL: oppose_ban
 
 
 --- #28  Protolictor  (2 comments, conf=0.5) ---
@@ -940,7 +940,7 @@ LLM reasoning: The user expresses a complex view, supporting manual art in schoo
     Stormydaycoffee replied:
     I don’t particularly disagree with you, and I support the winner of the Pink Floyd competition as well. It’s just that (for me) - in this case it’s a school competition- so I’m assuming students go there to learn how to do art manually. With that in mind, I don’t think it’s wrong that a school based competition should also require manual work. Without the context of it being an art school, may the best work win. But that’s just my perspective, ultimately the school makes the rules, and since the
 
-LABEL: 
+LABEL: oppose_ban
 
 
 --- #35  Superseaslug  (2 comments, conf=0.6) ---
@@ -1085,44 +1085,6 @@ LLM reasoning: The comments discuss the issue of AI art being unrecognized but d
 LABEL: 
 
 
---- #40  changemyview-ModTeam  (6 comments, conf=0.5) ---
-LLM reasoning: As a moderation team, their comments are focused on rule enforcement rather than expressing a personal stance on AI art.
-
-  [1] Thread: CMV: Generative AI Should be Banned
-    changemyview-ModTeam replied:
-    Your comment has been removed for breaking Rule 2: 
-    
-    > **Don't be rude or hostile to other users.** Your comment will be removed even if most of it is solid, another user was rude to you first, or you feel your remark was justified. Report other violations; do not retaliate. [See the wiki page for more information](http://www.reddit.com/r/changemyview/wiki/rules#wiki_rule_2).
-    
-    If you would like to appeal, review our appeals process [here](https://www.reddit.com/r/changemyview/wiki/modstandards#w
-
-  [2] Thread: CMV: Generative AI Should be Banned
-    changemyview-ModTeam replied:
-    Your comment has been removed for breaking Rule 2: 
-    
-    > **Don't be rude or hostile to other users.** Your comment will be removed even if most of it is solid, another user was rude to you first, or you feel your remark was justified. Report other violations; do not retaliate. [See the wiki page for more information](http://sh.reddit.com/r/changemyview/wiki/rules#wiki_rule_2).
-    
-    If you would like to appeal, review our appeals process [here](https://sh.reddit.com/r/changemyview/wiki/modstandards#wik
-
-  [3] Thread: CMV: Generative AI Should be Banned
-    changemyview-ModTeam replied:
-    Your comment has been removed for breaking Rule 2: 
-    
-    > **Don't be rude or hostile to other users.** Your comment will be removed even if most of it is solid, another user was rude to you first, or you feel your remark was justified. Report other violations; do not retaliate. [See the wiki page for more information](http://www.reddit.com/r/changemyview/wiki/rules#wiki_rule_2).
-    
-    If you would like to appeal, review our appeals process [here](https://www.reddit.com/r/changemyview/wiki/modstandards#w
-
-  [4] Thread: CMV: Generative AI Should be Banned
-    changemyview-ModTeam replied:
-    Comment has been removed for breaking Rule 1:
-    
-    > **Direct responses to a CMV post must challenge at least one aspect of OP’s stated view (however minor), or ask a clarifying question**. Arguments in favor of the view OP is willing to change must be restricted to replies to other comments. [See the wiki page for more information](http://www.reddit.com/r/changemyview/wiki/rules#wiki_rule_1).  
-    
-    If you would like to appeal, review our appeals process [here](https://www.reddit.com/r/changemyview/wik
-
-LABEL: 
-
-
 --- #41  gerkletoss  (2 comments, conf=0.5) ---
 LLM reasoning: The comment shares a link and critiques a specific aspect of AI art without a clear stance on banning it.
 
@@ -1247,7 +1209,7 @@ LLM reasoning: The user discusses the definition of art and the feasibility of b
 
   [1] Thread: CMV: Generative AI Should be Banned
     otclogic replied:
-    > banned globally
+    > banned globally
     
     Not feasible
 
@@ -1281,17 +1243,17 @@ LLM reasoning: The user discusses moderation and control on Reddit without a cle
       
       I... That... That's kind of the point of a moderator. It's what keeps pornography out of the paw patrol subreddit.
     possibilistic replied:
-    First of all, children do not belong on Reddit. There is so much pornography and sketchy shit on this website, it is not age appropriate. 
+    First of all, children do not belong on Reddit. There is so much pornography and sketchy shit on this website, it is not age appropriate. 
     
     
-    Meta hires content moderators with unbiased enforcement of the rules.  They take down content of all kinds across all of their platforms - Facebook, Threads, Instagram, Whatsapp. 
+    Meta hires content moderators with unbiased enforcement of the rules.  They take down content of all kinds across all of their platforms - Facebook, Threads, Instagram, Whatsapp. 
     
     
-    Twitter/X does the same. 
+    Twitter/X does the same. 
     
     
     
-    Older social networks like Slashdot had a cool system where everyone takes turns moderating based on good behavior. 
+    Older social networks like Slashdot had a cool system where everyone takes turns moderating based on good behavior. 
     
     
     Newer systems are peer-to-pee
@@ -1483,4 +1445,4 @@ LLM reasoning: The comments discuss the implications of banning but do not take 
     zeptyk replied:
     at this point probably ban anyone who hasnt been around before 2022, and has a years of over a decade of drawing history lmao
 
-LABEL: 
+LABEL: support_ban
