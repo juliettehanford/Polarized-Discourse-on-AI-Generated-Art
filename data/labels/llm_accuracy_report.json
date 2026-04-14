@@ -1,15 +1,15 @@
 {
   "total_users": 436,
   "users_reviewed": 274,
-  "llm_agreed": 227,
-  "llm_overridden": 47,
-  "llm_accuracy": 0.8285,
+  "llm_agreed": 226,
+  "llm_overridden": 48,
+  "llm_accuracy": 0.8248,
   "override_breakdown": {
     "support_ban\u2192oppose_ban": 6,
     "support_ban\u2192ambiguous": 13,
     "oppose_ban\u2192support_ban": 3,
     "oppose_ban\u2192ambiguous": 12,
     "ambiguous\u2192support_ban": 9,
-    "ambiguous\u2192oppose_ban": 4
+    "ambiguous\u2192oppose_ban": 5
   }
 }

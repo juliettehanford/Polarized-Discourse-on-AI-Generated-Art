@@ -24,6 +24,8 @@ from sklearn.metrics import (accuracy_score, f1_score,
 from torch_geometric.data import Data
 from torch_geometric.utils import to_undirected
 
+from torch_geometric.nn.models import LabelPropagation
+
 from models import MLP, GCN, GAT, GraphSAGE
 
 DATA_PATH = Path(__file__).parent / "data" / "processed" / "ai_art_stance.pt"
@@ -35,6 +37,9 @@ MODEL_REGISTRY = {
     "GAT": GAT,
     "GraphSAGE": GraphSAGE,
 }
+
+LP_NUM_LAYERS = 50
+LP_ALPHA = 0.9
 
 HIDDEN = 64
 LR = 0.01
@@ -137,6 +142,40 @@ def run_single_seed(model_name: str, data: Data, seed: int) -> dict:
     }
 
 
+def run_label_propagation(data: Data) -> dict:
+    """Run label propagation (deterministic, no features, no training)."""
+    lp = LabelPropagation(num_layers=LP_NUM_LAYERS, alpha=LP_ALPHA)
+
+    # PyG's LP applies one_hot to y, so all values must be valid class indices.
+    # Replace -1 (unlabelled) with 0; the mask controls which labels are "known".
+    y_clean = data.y.clone()
+    y_clean[y_clean < 0] = 0
+    out = lp(y_clean, data.edge_index, mask=data.train_mask)
+    preds = out.argmax(dim=1).cpu().numpy()
+    labels = data.y.cpu().numpy()
+
+    results = {}
+    for split_name, mask in [("val", data.val_mask), ("test", data.test_mask)]:
+        m = mask.cpu().numpy().astype(bool)
+        acc = accuracy_score(labels[m], preds[m])
+        macro_f1 = f1_score(labels[m], preds[m], average="macro", zero_division=0)
+        prec, rec, f1, _ = precision_recall_fscore_support(
+            labels[m], preds[m], labels=[0, 1], zero_division=0
+        )
+        results[split_name] = {
+            "accuracy": round(acc, 4),
+            "macro_f1": round(macro_f1, 4),
+            "class_0_precision": round(prec[0], 4),
+            "class_0_recall": round(rec[0], 4),
+            "class_0_f1": round(f1[0], 4),
+            "class_1_precision": round(prec[1], 4),
+            "class_1_recall": round(rec[1], 4),
+            "class_1_f1": round(f1[1], 4),
+        }
+
+    return {"seed": 0, "best_epoch": LP_NUM_LAYERS, "val": results["val"], "test": results["test"]}
+
+
 def aggregate_results(seed_results: list[dict]) -> dict:
     """Compute mean +/- std across seeds for each test metric."""
     metric_keys = seed_results[0]["test"].keys()
@@ -152,7 +191,9 @@ def aggregate_results(seed_results: list[dict]) -> dict:
 
 def format_table(all_results: dict) -> str:
     """Produce a text comparison table."""
-    header = f"{'Model':<12} {'Accuracy':>14} {'Macro-F1':>14} {'P(ban)':>14} {'R(ban)':>14} {'P(no-ban)':>14} {'R(no-ban)':>14}"
+    col = 16
+    header = (f"{'Model':<16} {'Accuracy':>{col}} {'Macro-F1':>{col}} "
+              f"{'P(ban)':>{col}} {'R(ban)':>{col}} {'P(no-ban)':>{col}} {'R(no-ban)':>{col}}")
     sep = "-" * len(header)
     lines = [sep, header, sep]
 
@@ -163,9 +204,9 @@ def format_table(all_results: dict) -> str:
             return f"{agg[key]['mean']:.3f}±{agg[key]['std']:.3f}"
 
         lines.append(
-            f"{model_name:<12} {fmt('accuracy'):>14} {fmt('macro_f1'):>14} "
-            f"{fmt('class_1_precision'):>14} {fmt('class_1_recall'):>14} "
-            f"{fmt('class_0_precision'):>14} {fmt('class_0_recall'):>14}"
+            f"{model_name:<16} {fmt('accuracy'):>{col}} {fmt('macro_f1'):>{col}} "
+            f"{fmt('class_1_precision'):>{col}} {fmt('class_1_recall'):>{col}} "
+            f"{fmt('class_0_precision'):>{col}} {fmt('class_0_recall'):>{col}}"
         )
     lines.append(sep)
     return "\n".join(lines)
@@ -185,8 +226,28 @@ def main():
     print(f"Classes: {data.num_classes}\n")
 
     all_results = {}
+    all_model_names = ["LabelProp"] + args.models
 
-    for model_name in args.models:
+    for model_name in all_model_names:
+        if model_name == "LabelProp":
+            print(f"{'='*50}")
+            print(f"Running Label Propagation (deterministic)")
+            print(f"{'='*50}")
+
+            result = run_label_propagation(data)
+            t = result["test"]
+            print(f"  Acc={t['accuracy']:.3f}  F1={t['macro_f1']:.3f}  "
+                  f"(layers={LP_NUM_LAYERS}, alpha={LP_ALPHA})")
+
+            seed_results = [result]
+            agg = aggregate_results(seed_results)
+            all_results[model_name] = {
+                "seeds": seed_results,
+                "aggregate": agg,
+            }
+            print()
+            continue
+
         if model_name not in MODEL_REGISTRY:
             print(f"Unknown model: {model_name}, skipping")
             continue

@@ -34,6 +34,20 @@ BOT_AUTHORS = {
     "[removed]",
 }
 
+# Recovered text for thread OPs whose accounts were deleted.
+# Keyed by submission_id → (synthetic_username, post_text).
+DELETED_OP_RECOVERY = {
+    "zd5ntt": (
+        "_OP_zd5ntt",
+        "I am asking because lately, there has been a concern that they are "
+        "being used to plagiarize either artists or their art styles for "
+        "commercial use. While I do know for a fact that AI merely creates an "
+        "interpretation of an art style instead of outright copying it, I "
+        "can't help but feel like the artists are being robbed by the use of "
+        "AI to create art based on their work. Thoughts on this?",
+    ),
+}
+
 MEANINGLESS_PATTERNS = [
     re.compile(r"^\[removed\]$", re.IGNORECASE),
     re.compile(r"^\[deleted\]$", re.IGNORECASE),
@@ -106,6 +120,35 @@ def main():
             "submission_id": c["submission_id"],
         })
 
+    # ── Step 2b: ensure every thread OP exists as a node ─────────────────────
+    # Thread OPs who submitted a post but never commented aren't in user_comments.
+    # Create a node for them using the thread title (+ recovered selftext for
+    # deleted OPs) so that top-level replies have a valid edge target.
+    for sid, meta in thread_meta.items():
+        op = meta["author"]
+        if op in BOT_AUTHORS:
+            # Deleted OP — use recovered text if available, else the title
+            if sid in DELETED_OP_RECOVERY:
+                synth_name, post_text = DELETED_OP_RECOVERY[sid]
+            else:
+                synth_name = f"_OP_{sid}"
+                post_text = meta["title"]
+            user_comments[synth_name] = [{
+                "text": post_text,
+                "comment_id": f"_synth_{sid}",
+                "submission_id": sid,
+            }]
+            meta["author"] = synth_name
+            print(f"  Recovered deleted OP for thread {sid} as {synth_name}")
+        elif op not in user_comments:
+            # Valid OP who never commented — use the thread title as their text
+            user_comments[op] = [{
+                "text": meta["title"],
+                "comment_id": f"_post_{sid}",
+                "submission_id": sid,
+            }]
+            print(f"  Added non-commenting OP {op} for thread {sid}")
+
     # ── Step 3: rebuild edges with transitive bridging ─────────────────────
     # When a reply chain passes through a deleted/bot comment (A → [deleted] → B),
     # we walk up the chain to find the nearest valid ancestor and create
@@ -136,8 +179,14 @@ def main():
                     dst_user = current["author"]
                 if dst_user and dst_user in valid_users and dst_user != src_user:
                     bridged_count += 1
-                elif dst_user is None or dst_user not in valid_users:
-                    continue
+                else:
+                    # Bridging failed — fall back to the thread OP so no node
+                    # is left isolated. Every commenter participated in the thread.
+                    dst_user = thread_meta.get(c["submission_id"], {}).get("author")
+                    if dst_user and dst_user in valid_users and dst_user != src_user:
+                        bridged_count += 1
+                    else:
+                        continue
         else:
             sid = c["submission_id"]
             dst_user = thread_meta[sid]["author"]
